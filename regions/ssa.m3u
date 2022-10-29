@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao.xml.gz,https://iptv-org.github.io/epg/guides/bf.xml.gz,https://iptv-org.github.io/epg/guides/bj.xml.gz,https://iptv-org.github.io/epg/guides/cd.xml.gz,https://iptv-org.github.io/epg/guides/cg.xml.gz,https://iptv-org.github.io/epg/guides/cm.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/ga.xml.gz,https://iptv-org.github.io/epg/guides/gq.xml.gz,https://iptv-org.github.io/epg/guides/ke.xml.gz,https://iptv-org.github.io/epg/guides/mw.xml.gz,https://iptv-org.github.io/epg/guides/mz.xml.gz,https://iptv-org.github.io/epg/guides/ng.xml.gz,https://iptv-org.github.io/epg/guides/rw.xml.gz,https://iptv-org.github.io/epg/guides/sn.xml.gz,https://iptv-org.github.io/epg/guides/td.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao.xml.gz,https://iptv-org.github.io/epg/guides/bf.xml.gz,https://iptv-org.github.io/epg/guides/bj.xml.gz,https://iptv-org.github.io/epg/guides/cd.xml.gz,https://iptv-org.github.io/epg/guides/cg.xml.gz,https://iptv-org.github.io/epg/guides/cm.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/ga.xml.gz,https://iptv-org.github.io/epg/guides/gq.xml.gz,https://iptv-org.github.io/epg/guides/ke.xml.gz,https://iptv-org.github.io/epg/guides/mz.xml.gz,https://iptv-org.github.io/epg/guides/ng.xml.gz,https://iptv-org.github.io/epg/guides/rw.xml.gz,https://iptv-org.github.io/epg/guides/sn.xml.gz,https://iptv-org.github.io/epg/guides/td.xml.gz"
 #EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/3mbeewx.png" group-title="Undefined",2STV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb
 #EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Music",A2i Music (720p) [Not 24/7]
@@ -15,8 +15,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/abntvng
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Africa7.sn" tvg-logo="https://i.imgur.com/ncOuLg6.jpg" group-title="Undefined",Africa 7 (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7xq2dw
-#EXTINF:-1 tvg-id="AfricaTV1.ng" tvg-logo="https://i.imgur.com/soDiTxg.jpeg" group-title="Undefined",Africa TV 1
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricaTV2.ng" tvg-logo="https://i.imgur.com/FVwwXan.jpeg" group-title="Undefined",Africa TV 2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricaTV3.ng" tvg-logo="https://i.imgur.com/dzIFvwM.png" group-title="Undefined",Africa TV3 (720p) [Not 24/7]
@@ -41,6 +39,8 @@ http://178.33.237.146/rtnc1.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-logo="https://i.imgur.com/KlRMe5h.png" group-title="General",Boss Brothers TV (1080p)
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1 tvg-id="ChannelsTV.ng" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" group-title="Undefined",Channels TV (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ChannelsTelevision/live
 #EXTINF:-1 tvg-id="CitizenTV.ke" tvg-logo="https://i.imgur.com/Pv22Xat.png" group-title="General",Citizen TV (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/kenyacitizentv/live
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" group-title="General",Congo Planet Television (1080p)
@@ -69,16 +69,18 @@ https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/KamemeTv
 #EXTINF:-1 tvg-id="KC2.rw" tvg-logo="https://i.imgur.com/13N8UX5.jpg" group-title="Undefined",KC2 (720p) [Not 24/7]
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTNNews.ke" tvg-logo="https://i.imgur.com/ZtBNujz.png" group-title="News",KTN News (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/standardgroupkenya/live
 #EXTINF:-1 tvg-id="LagosTelevision.ng" tvg-logo="https://i.imgur.com/rjLxSfx.png" group-title="Undefined",Lagos Television (360p) [Not 24/7]
 http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC.mw" tvg-logo="https://i.imgur.com/YtaF4oP.png" group-title="General",MBC (614p) [Not 24/7]
-http://41.216.229.205:8080/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Portugal (576p)
 http://176.79.76.155:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="NCI.ci" tvg-logo="https://i.imgur.com/I3pv69r.png" group-title="Music",NCI (1080p)
 https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
 #EXTINF:-1 tvg-id="NTAInternational.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2018/07/19/NTA_Plus_logo_4-3_001_xlrg.png" group-title="Undefined",NTA International (576p) [Not 24/7]
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/IqXbVQD.png" group-title="General",NTV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NTVKenyaOnline/live
 #EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="Undefined",NTV Afrique (1080p) [Not 24/7]
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="QTVGambia.gm" tvg-logo="https://i.imgur.com/K5tzOq2.png" group-title="Undefined",QTV Gambia (720p) [Not 24/7]
@@ -113,8 +115,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
 #EXTINF:-1 tvg-id="TrustTV.ng" tvg-logo="https://i.imgur.com/X7nOwMo.png" group-title="Documentary;Entertainment;News",Trust TV (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTlqstA2Wrt4fimd_VWKr8g/live
-#EXTINF:-1 tvg-id="TV47Kenya.ke" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/TV47_Kenya_Logo.jpeg/512px-TV47_Kenya_Logo.jpeg" group-title="General",TV47 (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tv47kenya/
 #EXTINF:-1 tvg-id="TVBRICSEnglish.in" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS English (1080p)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV Maná Moçambique (576p) [Not 24/7]
