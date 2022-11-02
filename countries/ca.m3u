@@ -1,8 +1,8 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml.gz,https://iptv-org.github.io/epg/guides/ao.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/az.xml.gz,https://iptv-org.github.io/epg/guides/ba.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/cy.xml.gz,https://iptv-org.github.io/epg/guides/cz.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml.gz,https://iptv-org.github.io/epg/guides/ao.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/az.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/cy.xml.gz,https://iptv-org.github.io/epg/guides/cz.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz"
 #EXTINF:-1 tvg-id="5AABTV.ca" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV (720p) [Not 24/7]
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-logo="https://www.azstartv.com/wp-content/uploads/2021/06/AzStarTV.png" group-title="General",Az Star TV (1080p)
@@ -23,8 +23,6 @@ https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/512px-BNN_Bloomberg.svg.png" group-title="Business",BNN Bloomberg
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
-#EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/1Chamk9.png" group-title="General",BTV World (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="Undefined",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="Undefined",Canada Star TV (720p)
@@ -57,8 +55,6 @@ http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DukhNivaran.ca" tvg-logo="https://www.dukhnivaran.ca/wp-content/uploads/2019/01/dukhnivaran_logo1-1.png" group-title="Undefined",Dukh Nivaran (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
-#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duna_World_HD_2012.svg/512px-Duna_World_HD_2012.svg.png" group-title="Undefined",Duna World (480p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://mediaklikk.hu/duna-world-elo/
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="EawazTV.ca" tvg-logo="https://i.imgur.com/vB4yzen.png" group-title="Undefined",Eawaz TV (720p) [Not 24/7]
@@ -81,8 +77,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euron
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
 https://euronews.alteox.app/hls/pt_stream.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
+https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 tvg-id="EWTNCanada.ca" tvg-logo="https://i.imgur.com/m4AvEqq.png" group-title="Religious",EWTN Canada (720p) [Not 24/7]
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FailArmy
@@ -153,13 +149,15 @@ https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/Y5YnUit.png" group-title="Undefined",Montreal Greek TV (480p)
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="Auto",Motorvision TV (720p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1 tvg-id="MyanmarInternationalTV.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png" group-title="Undefined",Myanmar International TV (mitv) (480p)
 https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="NACTV.ca" tvg-logo="https://i.imgur.com/FzM95rH.png" group-title="General",NACTV (720p) [Not 24/7]
 http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://i.imgur.com/GCcmL8E.png" group-title="Undefined",NBT World
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NETVToronto.ca" tvg-logo="https://i.imgur.com/IYDllP5.jpg" group-title="Movies",NETV Toronto (720p) [Not 24/7]
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-id="CJONDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG" group-title="Undefined",Newfoundland Television (480p)
@@ -189,7 +187,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlymouthRockTV.ca" tvg-logo="https://i.imgur.com/ExIByMT.png" group-title="Undefined",Plymouth Rock TV (1080p)
-https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtvedge/playlist.m3u8
+https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",PowerNation
 https://rtmtv-samsung-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-logo="https://i.imgur.com/xMABkOU.png" group-title="Entertainment",Prime Canada TV (720p) [Not 24/7]
@@ -261,8 +259,6 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNKXYT-Nng5LBMUQrZJ9zWA/live
 #EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="General",Télé-Québec (720p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="TheChannelTV.ca" tvg-logo="https://i.imgur.com/08c6W9l.png" group-title="General",The Channel TV (1080p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Design Network
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",The Jack Hannah Channel
@@ -277,8 +273,6 @@ http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV16Toronto.ca" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="Undefined",TV 16 Toronto (720p) [Not 24/7]
 http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDaja.do" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Undefined",TV Daja
-https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA [Geo-blocked]
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="General",TVM Internacional (480p) [Not 24/7]

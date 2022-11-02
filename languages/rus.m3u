@@ -56,8 +56,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081
 http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-1 tvg-id="ETVPlus.ee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png" group-title="Undefined",ETV+ (720p)
 https://sb.err.ee/live/etvpluss.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
+https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="Music",Europa Plus TV (1080p) [Geo-blocked]
 http://strm.yandex.ru/kal/europaplus/europaplus0.m3u8
 #EXTINF:-1 tvg-id="FAN.ru" tvg-logo="https://i.imgur.com/mDeTbaF.png" group-title="Animation",FAN (576p) [Not 24/7]
@@ -173,6 +173,8 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1 tvg-id="VIPSerial.ru" tvg-logo="https://i.imgur.com/jFaXSMJ.png" group-title="Series",VIP Serial Russia (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Music",VIVA Russia (1080p) [Not 24/7]
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannelRussia.ru" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="Lifestyle",World Fashion Channel Russia (1080p)
 https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
 #EXTINF:-1 tvg-id="AVTO24.ru" tvg-logo="https://i.imgur.com/KV8P4vj.png" group-title="Auto",Авто 24 (576p) [Geo-blocked]
@@ -240,13 +242,12 @@ https://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
 #EXTINF:-1 tvg-id="DomKino.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Movies",Дом кино (576p)
 http://50.7.92.90/Dom_kino/playlist.m3u8
-#EXTINF:-1 tvg-id="DomKinoPremium.ru" tvg-logo="https://i.imgur.com/wDANPh1.png" group-title="Movies",Дом Кино Премиум (1080p) [Not 24/7]
-https://sc.id-tv.kz/domkino_hd.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/512px-Domashniy_tv_logo.svg.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Домашний (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="Dorama.uk" tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Movies",Дорама (1080p) [Not 24/7]
-https://sc.id-tv.kz/dorama_hd.m3u8
+#EXTINF:-1 tvg-id="Dorama.uk" tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Дорама (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 tvg-id="Evronovosti.ru" tvg-logo="https://i.imgur.com/9eIZJSQ.png" group-title="News",Евроновости (576p)
 http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="Undefined",Енисей (1080p) [Not 24/7]
@@ -301,8 +302,8 @@ http://188.40.68.167/russia/komediya/playlist.m3u8
 http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-logo="https://i.imgur.com/d9Pqpsi.png" group-title="Undefined",Крик-ТВ (576p) [Geo-blocked]
 https://strm.yandex.ru/kal/krik_tv/krik_tv0.m3u8
-#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BGy7EMr.png" group-title="Undefined",КТК (360p) [Not 24/7]
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id="KTK.kz" tvg-logo="https://i.imgur.com/BGy7EMr.png" group-title="Undefined",КТК (576p) [Not 24/7]
+https://sc.id-tv.kz/KTK.m3u8
 #EXTINF:-1 tvg-id="Kuzbass1HD.ru" tvg-logo="https://i.imgur.com/DCiHkEp.png" group-title="General",Кузбасс 1 (1080p) [Not 24/7]
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png" group-title="Culture" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Культура (540p) [Geo-blocked]
@@ -430,6 +431,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-id="FirstMusicChannelRussiaHD.by" tvg-logo="https://i.imgur.com/sUgj2s7.png" group-title="Music",Первый Музыкальный Канал Россия HD (1080p)
 http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="PervyyPskovskiy.ru" tvg-logo="https://i.imgur.com/1gciFqi.png" group-title="Undefined",Первый Псковский (540p) [Not 24/7]
+http://194.190.78.91/pskov/rewind-10800.m3u8
 #EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru" tvg-logo="https://i.imgur.com/Hrdq55E.png" group-title="Undefined",Первый республиканский (720p)
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 tvg-id="PervyyTulskiy.ru" tvg-logo="https://i.imgur.com/02J6p0p.png" group-title="Undefined",Первый Тульский (576p) [Not 24/7]
@@ -501,9 +504,8 @@ http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="Rybolov.ru" tvg-logo="https://i.imgur.com/UhqjlAF.png" group-title="Outdoor" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Рыболов (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s55/index.m3u8
-#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Kids" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Рыжий (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-logo="https://i.imgur.com/QlncxbD.png" group-title="Kids",Рыжий (576p) [Geo-blocked]
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 tvg-id="S1.ru" tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="Undefined",С1 (Сургут) (1080p) [Not 24/7]
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="Undefined",Салям (576p)
