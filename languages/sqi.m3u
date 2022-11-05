@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al.xml.gz,https://iptv-org.github.io/epg/guides/xk.xml.gz"
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_of_ABC_News_Albania.png/512px-Logo_of_ABC_News_Albania.png" group-title="News",ABC News (720p) [Not 24/7]
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="AlbMusik.al" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",AlbMusik (720p) [Not 24/7]
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV (1080p) [Not 24/7]
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://alpomedia.com/wp-content/uploads/2022/02/Alpo-Media-Logo200px.png" group-title="Undefined",ALPO (720p) [Not 24/7]
@@ -31,10 +33,6 @@ http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTK4.xk" tvg-logo="https://i.imgur.com/Urm4XDR.png" group-title="Undefined",RTK 4 (720p) [Not 24/7]
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH1HD.al" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="Undefined",RTSH 1 (1080p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH2HD.al" tvg-logo="https://i.imgur.com/AZ43XZn.png" group-title="Undefined",RTSH 2 (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSH3.al" tvg-logo="https://i.imgur.com/kyhHTx3.png" group-title="Undefined",RTSH 3 (406p)
 https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSH24.al" tvg-logo="https://i.imgur.com/H6tCoGW.png" group-title="Undefined",RTSH 24 (406p) [Not 24/7]
