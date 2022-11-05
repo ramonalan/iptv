@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/be.xml.gz,https://iptv-org.github.io/epg/guides/bf.xml.gz,https://iptv-org.github.io/epg/guides/bj.xml.gz,https://iptv-org.github.io/epg/guides/bn.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/cd.xml.gz,https://iptv-org.github.io/epg/guides/cg.xml.gz,https://iptv-org.github.io/epg/guides/ch.xml.gz,https://iptv-org.github.io/epg/guides/cm.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/ga.xml.gz,https://iptv-org.github.io/epg/guides/lu.xml.gz,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/sa.xml.gz,https://iptv-org.github.io/epg/guides/sn.xml.gz,https://iptv-org.github.io/epg/guides/td.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/be.xml.gz,https://iptv-org.github.io/epg/guides/bf.xml.gz,https://iptv-org.github.io/epg/guides/bj.xml.gz,https://iptv-org.github.io/epg/guides/bn.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/cd.xml.gz,https://iptv-org.github.io/epg/guides/cg.xml.gz,https://iptv-org.github.io/epg/guides/ch.xml.gz,https://iptv-org.github.io/epg/guides/cm.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/ga.xml.gz,https://iptv-org.github.io/epg/guides/lu.xml.gz,https://iptv-org.github.io/epg/guides/nl.xml.gz,https://iptv-org.github.io/epg/guides/ru.xml.gz,https://iptv-org.github.io/epg/guides/sa.xml.gz,https://iptv-org.github.io/epg/guides/sn.xml.gz,https://iptv-org.github.io/epg/guides/td.xml.gz,https://iptv-org.github.io/epg/guides/uk.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz"
 #EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/3mbeewx.png" group-title="Undefined",2STV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb
 #EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="Undefined",7ALimoges (1080p) [Not 24/7]
@@ -30,8 +30,6 @@ http://178.33.237.146/rtnc1.m3u8
 https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCDramaFrance.fr" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" group-title="Series",BBC Drama
 https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BeurTV.fr" tvg-logo="https://i.imgur.com/KQcT9cz.png" group-title="Undefined",Beur TV [Geo-blocked]
-https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/GvStyo0.png" group-title="Undefined",BF1
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/7e66f389bec3463dac81e8d55e680431/index.m3u8
 #EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://i.imgur.com/k8clxUV.png" group-title="Undefined",BFM Grand Lille (720p)
@@ -76,6 +74,9 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV Paris (144p)
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVRussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Fashion TV Russia (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s30/index.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
 #EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/PYqQyRv.png" group-title="General",France Inter (720p) [Not 24/7]
@@ -91,8 +92,6 @@ https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="GTV.gh" tvg-logo="https://i.imgur.com/CG8d2aF.png" group-title="Undefined",GTV
 #EXTVLCOPT:http-referrer=http://tv.mmorpgwarcraft.com/
 http://cdn.filmover.com/hls/gtv/index.m3u8
-#EXTINF:-1 tvg-id="HaitiViralNews.ht" tvg-logo="https://i.imgur.com/eaPFJJs.jpg" group-title="News",Haiti Viral News (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcEY2-g-EEefxyYa1gtrk4g/live
 #EXTINF:-1 tvg-id="CBFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/ICI_Grand_Montr%C3%A9al_logo.png/512px-ICI_Grand_Montr%C3%A9al_logo.png" group-title="General",Ici Radio-Canada Télé (720p)
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png" group-title="News",ICI RDI (720p)
@@ -125,12 +124,18 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://experience-cache.proximustv.be/posterserver/poster/DEFAULT/w-250_h-162/t_0121_001.png" group-title="Undefined",MaTele (1080p) [Not 24/7]
 https://live.matele.be/hls/live.m3u8
+#EXTINF:-1 tvg-id="MCMTop.fr" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",MCM Top (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="Undefined",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
 http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
 http://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/512px-Mezzo_Logo.svg.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="MonacoInfo.mc" tvg-logo="https://i.imgur.com/FPyPaL1.png" group-title="Undefined",Monaco Info (720p) [Not 24/7]
 https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-logo="https://i.imgur.com/Y5YnUit.png" group-title="Undefined",Montreal Greek TV (480p)
@@ -153,8 +158,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex
 https://edge.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
 #EXTINF:-1 tvg-id="NCI.ci" tvg-logo="https://i.imgur.com/I3pv69r.png" group-title="Music",NCI (1080p)
 https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
-#EXTINF:-1 tvg-id="NETALKOLETV.ht" tvg-logo="https://i.imgur.com/OJbRkQ6.jpg" group-title="Undefined",NETALKOLE TV (720p) [Not 24/7]
-https://watch.haitilive.net/stream/netalkole/public/tv/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="Undefined",NTV Afrique (1080p) [Not 24/7]
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="OneTV.ch" tvg-logo="https://i.imgur.com/ky332eh.png" group-title="Undefined",One TV (720p)
@@ -277,8 +280,8 @@ https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/qOxwY9s.png" group-title="Music",Trace Urban (Australia) (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="General",Türkmenistan (226p) [Not 24/7]
-https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="General",Türkmenistan (112p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Sports",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/18/ca2f0180-7814-11ec-8fd5-c549a9b471b9_webp_original.png" group-title="Undefined",TV5 Monde Asie (576p)
