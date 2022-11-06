@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al.xml.gz,https://iptv-org.github.io/epg/guides/am.xml.gz,https://iptv-org.github.io/epg/guides/az.xml.gz,https://iptv-org.github.io/epg/guides/ba.xml.gz,https://iptv-org.github.io/epg/guides/bg.xml.gz,https://iptv-org.github.io/epg/guides/by.xml.gz,https://iptv-org.github.io/epg/guides/de.xml.gz,https://iptv-org.github.io/epg/guides/ge.xml.gz,https://iptv-org.github.io/epg/guides/hr.xml.gz,https://iptv-org.github.io/epg/guides/hu.xml.gz,https://iptv-org.github.io/epg/guides/md.xml.gz,https://iptv-org.github.io/epg/guides/pl.xml.gz,https://iptv-org.github.io/epg/guides/ro.xml.gz,https://iptv-org.github.io/epg/guides/rs.xml.gz,https://iptv-org.github.io/epg/guides/ru.xml.gz,https://iptv-org.github.io/epg/guides/si.xml.gz,https://iptv-org.github.io/epg/guides/sk.xml.gz,https://iptv-org.github.io/epg/guides/xk.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/am.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/bg.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/ge.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/hu.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/si.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/xk.xml"
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
 #EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/VpBVorp.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
@@ -11,6 +11,8 @@ http://1music.hu/1music.m3u8
 http://www.1music.hu/1music.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",1TV (240p) [Geo-blocked]
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/VBmQCH7.png" group-title="Undefined",2TV (720p) [Not 24/7]
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment",2x2 (720p) [Not 24/7]
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Undefined",4FUN TV (576p) [Not 24/7]
@@ -77,6 +79,8 @@ https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://alpomedia.com/wp-content/uploads/2022/02/Alpo-Media-Logo200px.png" group-title="Undefined",ALPO (720p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/fIdmD1d.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-logo="https://i.imgur.com/Jtfq9xA.png" group-title="Movies;Series",Amedia Hit (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="https://i.imgur.com/L3c9gNk.png" group-title="Movies;Series" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Amedia Premium (480p)
@@ -266,6 +270,8 @@ https://netstreaming.eu:8080/hls/hd365.m3u8
 http://37.193.6.155:34040/udp/239.1.9.2:1234
 #EXTINF:-1 tvg-id="HDMedia.ru" tvg-logo="https://i.imgur.com/vEjTNlf.png" group-title="Entertainment",HD Медиа (720p) [Geo-blocked]
 https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8
+#EXTINF:-1 tvg-id="HegyvidekTV.hu" tvg-logo="https://hegyvidektv.hu/wp-content/uploads/2020/08/hegyvidek.jpg" group-title="Undefined",Hegyvidek Tv Budapest (576p) [Not 24/7]
+http://tv.hegyvidek.hu/stream_mpeg.flv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",History 2 HD
 http://109.105.205.250:8081/live/HISTORY2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",History Channel (1080p)
@@ -318,10 +324,14 @@ http://93.157.62.180/KlanKosova/index.m3u8
 http://93.157.62.180/KlanPlus/index.m3u8
 #EXTINF:-1 tvg-id="KomlosTV.hu" tvg-logo="https://i.imgur.com/uGrWyVN.png" group-title="Undefined",Komlós TV (1080p) [Not 24/7]
 https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Korça + (1080p) [Not 24/7]
+http://32.shqiptv.org/korca/albplus/index.m3u8
 #EXTINF:-1 tvg-id="KurirTV.rs" tvg-logo="https://i.imgur.com/HBPnUD5.png" group-title="Undefined",Kurir TV (720p)
 http://51.15.154.138/providus/live2805_hq/index.m3u8
 #EXTINF:-1 tvg-id="Leomax24.ru" tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="Shop",Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+#EXTINF:-1 tvg-id="LightChannel.bg" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="Undefined",Light Channel (480p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="Undefined",Light Channel (480p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",LocAll (406p)
@@ -569,6 +579,8 @@ mmsh://212.200.255.151/rtv2
 http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="https://i.imgur.com/hCBQBpW.png" group-title="Undefined",RTV AS (576p)
 https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-id="RTVCityUb.rs" tvg-logo="https://i.imgur.com/Sz4G9ns.png" group-title="Undefined",RTV City Ub (576p) [Not 24/7]
+http://167.172.39.13/hls/tvcityub.m3u8
 #EXTINF:-1 tvg-id="RTVBPK.ba" tvg-logo="https://i.imgur.com/g639yyT.jpg" group-title="Undefined",RTV Herceg-Bosne [Not 24/7]
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-logo="https://i.imgur.com/eNspJAS.png" group-title="Undefined",RTV Novi Pazar (576p)
@@ -590,7 +602,7 @@ http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
 #EXTINF:-1 tvg-id="Skrypinua.ua" tvg-logo="https://i.imgur.com/XtG3rfj.png" group-title="Undefined",Skrypin.ua (1080p) [Not 24/7]
 https://open-cdn.lanet.tv/play/skrypin.m3u8
 #EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-logo="https://i.imgur.com/8JY3Tcj.jpg" group-title="Music",Sky Folk TV (720p) [Not 24/7]
-https://eu.live.skyfolk.mk/live.m3u8
+https://skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Šlágr 2 (576p)
 http://92.62.234.233/slagr2.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Šlágr TV (576p)
@@ -1209,8 +1221,6 @@ http://ott-cdn.ucom.am/s57/index.m3u8
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="Undefined",Салям (576p)
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-id="Saratov24.ru" tvg-logo="https://i.imgur.com/hggQnNT.png" group-title="Undefined",Саратов 24 (1080p) [Not 24/7]
-https://saratov24.tv/online/playlist.php
 #EXTINF:-1 tvg-id="Sarafan.ru" tvg-logo="https://i.imgur.com/AgX6qoz.png" group-title="Undefined",Сарафан (576p) [Not 24/7]
 http://195.26.83.96:7024/play/82
 #EXTINF:-1 tvg-id="Svarozhichi.ua" tvg-logo="https://www.lyngsat.com/logo/tv/ss/svarozhychy-ua.png" group-title="Undefined",Сварожичи (720p)

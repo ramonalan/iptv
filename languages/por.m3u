@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml.gz,https://iptv-org.github.io/epg/guides/ao.xml.gz,https://iptv-org.github.io/epg/guides/br.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/mz.xml.gz,https://iptv-org.github.io/epg/guides/pt.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/us.xml"
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/xbkYDeg.png" group-title="Shop",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/w06Nguz.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
@@ -51,8 +51,6 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CatveMasterTV.br" tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="General",Catve Master TV (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CentralTV.br" tvg-logo="https://i.imgur.com/IgGVBv3.png" group-title="Undefined",Central TV (720p)
-https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="News",CNN Brasil (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="General",COM Brasil (720p) [Not 24/7]
@@ -91,16 +89,12 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV (1080p)
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MedalhaoPersa.br" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medalhao_persa.png" group-title="Undefined",Medalhão Persa (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCXzXFFbjUBIXKM7ONsIQAbw/live
 #EXTINF:-1 tvg-id="MKKWebTV.br" tvg-logo="https://i.imgur.com/TDEDNLK.png" group-title="General",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Portugal (576p)
 http://176.79.76.155:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetworkBrazil.br" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Movies",MyTime movie network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Undefined",Nova Era TV (1080p) [Not 24/7]
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo (720p)
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Kids",Pluto TV BabyFirst (720p) [Not 24/7]
@@ -169,6 +163,8 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_360p614k/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/7KVFCrQ.png" group-title="Undefined",Rede Família (720p) [Not 24/7]
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="Religious",Rede Gospel (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeInternacionaldeTV.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_rit_m.png" group-title="Undefined",Rede Internacional de TV (RIT TV) (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="Education",Rede Minas (1080p) [Not 24/7]
@@ -193,12 +189,12 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="General",RTP1 (480p)
 http://162.212.178.69:41042/bysid/608
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3 (504p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (720p) [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/512px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP África (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
@@ -224,7 +220,7 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_sesctv_m.png" group-title="Undefined",SESC TV (1080p)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Undefined",SIC (1080p)
-http://93.152.174.144:4000/play/sic/index.m3u8
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News",SIC Noticias [Geo-blocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV (1080p)
@@ -293,6 +289,8 @@ https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/ebbKhAJ.png" group-title="General",TV Futuro (1080p)
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="Undefined",TV Galega Blumenau (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png" group-title="Religious",TV Gideoes (1080p) [Not 24/7]
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-guara-hd_m.png" group-title="Undefined",TV Guará (720p) [Not 24/7]
@@ -305,6 +303,8 @@ https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaBrazil.pt" tvg-logo="https://i.imgur.com/c4DSG2J.png" group-title="Religious",TV Maná Brazil (1080p)
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaMozambique.pt" tvg-logo="https://i.imgur.com/5UIy5tD.png" group-title="Religious",TV Maná Mozambique (1080p)
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Undefined",TV Max
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMetropole.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/92/Logotipo_da_TV_Metr%C3%B3pole.png/512px-Logotipo_da_TV_Metr%C3%B3pole.png" group-title="General",TV Metropole (720p) [Not 24/7]
