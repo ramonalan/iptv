@@ -14,7 +14,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaa
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:-1 tvg-id="AlMagharibia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Almagharibia_tv_channel.png" group-title="Undefined",Al Magharibia (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AlmagharibiaTv/live
 #EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV (1080p) [Not 24/7]
@@ -200,10 +200,10 @@ http://88.150.241.11/tsstreamer/BilliardTVLDAI_SD.ts
 http://78.129.218.6/tsstreamer/BloombergLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bloomberg
 http://176.227.202.68/tsstreamer/BloombergLDAI_SD.ts
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bloomberg TV (1080p)
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEA.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="Business",Bloomberg TV Europe (720p)
-https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BloombergQt
 http://78.129.218.6/tsstreamer/BloombergQtLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BloombergQt
@@ -294,6 +294,8 @@ http://wpso.com:1936/hls/wzra.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
@@ -302,8 +304,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euron
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
 https://euronews.alteox.app/hls/pt_stream.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
-https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",EuronewsEng
@@ -355,7 +355,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="GarshomTV.uk" tvg-logo="https://i.imgur.com/KOM3xVi.png" group-title="Undefined",Garshom TV (360p) [Not 24/7]
 http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News (1080p)
-https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNewsOnline/live
 #EXTINF:-1 tvg-id="GemsTV.uk" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gems TV (360p)
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gusto TV (720p)
@@ -384,12 +384,14 @@ http://188.227.164.31/tsstreamer/Hellenic_SD.ts
 http://95.154.230.50/tsstreamer/HeritageLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Heritage
 http://212.84.160.41/tsstreamer/HeritageLDAI_SD.ts
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="Outdoor",Horse & Country TV (1080p)
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/QGjgRUN.png" group-title="Outdoor",Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-id="HorseandCountry.uk" tvg-logo="https://i.imgur.com/FNFFhEq.png" group-title="Undefined",Horse and Country (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Horse and Country (720p)
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hype Tv
 http://35.189.69.44/tmp_hls/desibox/index.m3u8
+#EXTINF:-1 tvg-id="IdealWorld.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Ideal_World_logo.png/512px-Ideal_World_logo.png" group-title="Shop",Ideal World TV (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/IdealworldTvShopping/live
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IonTV.uk" tvg-logo="https://i.imgur.com/fSg3txj.png" group-title="General",iON TV (576p)
@@ -434,7 +436,7 @@ https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
 https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-logo="https://i.imgur.com/16ouOJ4.png" group-title="Entertainment",Magna Vision (1080p) [Not 24/7]
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
-#EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="Sports",MavTV Select (720p)
+#EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="Sports",MavTV Select (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture",Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
@@ -445,7 +447,7 @@ https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/nuzIBbN.png" group-title="Kids",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="Auto",Motorvision TV (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-id="MTA1World.uk" tvg-logo="https://i.imgur.com/IT6DFB9.png" group-title="Undefined",MTA1 World (720p)
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-logo="https://i.imgur.com/aVts0sz.png" group-title="Undefined",MTA2 Europe (720p)
@@ -537,7 +539,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d5
 #EXTINF:-1 tvg-id="PlutoTVStandUpUK.uk" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Comedy",Pluto TV Stand Up (360p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5637d31f319573e26b64040b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=468&terminate=false&userId=
 #EXTINF:-1 tvg-id="PopMax.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Pop-max-logo.png" group-title="Undefined",POP Max (576p)
-https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.m3u8
+https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-id="PTVWorld.pk" tvg-logo="https://i.imgur.com/eeDFRgN.png" group-title="Undefined",PTV World (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Qello
@@ -602,7 +604,7 @@ https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8
 #EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="Undefined",Takbeer TV (1080p)
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/91gCmAQ.png" group-title="Undefined",TalkTV (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/talktv/live
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNUK.uk" tvg-logo="https://i.imgur.com/2JHGCgl.png" group-title="Undefined",TBN UK (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://api.new.livestream.com/accounts/28567990/events/8919546
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Teletubbies_Logo.png" group-title="Kids",Teletubbies (720p)
@@ -653,7 +655,7 @@ http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
 http://78.129.253.189/tsstreamer/WBCLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WBC
 http://109.200.6.10/tsstreamer/WBCLDAI_SD.ts
-#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/SAZF1cq.jpg" group-title="Weather",WeatherSpy Europe (720p)
+#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="Undefined",Wonder (1080p)
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
