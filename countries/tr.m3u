@@ -1,8 +1,8 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/tr.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/tr.xml"
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Undefined" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",24 TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",360 TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/eXKohZ5.png" group-title="Undefined",360 TV (720p) [Not 24/7]
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="AnadoluAgency.tr" tvg-logo="https://i.imgur.com/6Vt7yry.png" group-title="Undefined",AA Live (720p) [Not 24/7]
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
@@ -26,8 +26,6 @@ https://live.al-zahratv.com/live/playlist.m3u8
 http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AltasTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/altas-tv-tr.png" group-title="Undefined",ALTAS TV (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="ArasTV.tr" tvg-logo="https://i.imgur.com/u660SjO.png" group-title="Undefined",ARAS TV (576p) [Not 24/7]
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-logo="https://i.imgur.com/Jo6DJUe.png" group-title="Undefined",ATV Alanya (720p) [Not 24/7]
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AzerbaijanNewsTV.se" tvg-logo="https://www.aznews.tv/wp-content/uploads/2019/04/headerlogo.fw_.png" group-title="News",Azerbaijan News TV (720p) [Not 24/7]
@@ -53,6 +51,8 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="BRTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brtv_tr.png" group-title="Undefined",BRTV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/1Chamk9.png" group-title="General",BTV World (720p) [Not 24/7]
@@ -69,10 +69,12 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 #EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-logo="https://i.imgur.com/sjAGFWu.png" group-title="Undefined",Cekmeköy TV (1080p)
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (576p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN English (432p) [Not 24/7]
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/512px-CGTN_-_fran%C3%A7ais.png" group-title="News",CGTN Français (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/logo/202003/20200302/20200302114910325fpj_op.png" group-title="Undefined",Çiftçi TV (1080p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
@@ -102,6 +104,10 @@ https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DRTTV.tr" tvg-logo="https://i.imgur.com/uOMuhrI.jpg" group-title="Undefined",DRT TV (720p) [Not 24/7]
 https://broadcasttr.com:446/drt/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duna_World_HD_2012.svg/512px-Duna_World_HD_2012.svg.png" group-title="Undefined",Duna World (480p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://mediaklikk.hu/duna-world-elo/
+#EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
@@ -118,16 +124,14 @@ https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ErtSahTV.tr" tvg-logo="https://i.imgur.com/J2OSHdh.png" group-title="Undefined",Ert Sah TV (720p) [Not 24/7]
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (480p)
+http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Undefined",ETB Basque (480p)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETVManisa.tr" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="Undefined",ETV Manisa (1080p) [Not 24/7]
 https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
@@ -136,12 +140,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euron
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
 https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FenerbahceTV.tr" tvg-logo="https://i.imgur.com/QzZRqvO.png" group-title="Undefined",Fenerbahçe TV (FBTV) (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",FIGHT SPORTS (1080p)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="Undefined",Finans Turk TV (720p)
@@ -312,6 +316,8 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/le0hb7q.png" group-title="Undefined",Star TV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/video/x729whv
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="https://i.imgur.com/4fqvwEk.png" group-title="Sports",STIRR MavTV (720p)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 #EXTINF:-1 tvg-id="SunRTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_rtv_tr.png" group-title="Undefined",Sun RTV (720p) [Not 24/7]
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tempo-tv-tr.png" group-title="Undefined",Tempo TV
@@ -386,8 +392,6 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://5be5d840359c6.streamlock.net/unitv/unitv/playlist.m3u8
 #EXTINF:-1 tvg-id="UUTV2.tr" tvg-logo="https://i.imgur.com/cHhElAa.png" group-title="Undefined",ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
-#EXTINF:-1 tvg-id="Vizyon58TV.tr" tvg-logo="https://i.imgur.com/W1I7sYq.png" group-title="Undefined",Vizyon 58 TV (720p) [Geo-blocked]
-https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV.tr" tvg-logo="https://i.imgur.com/FRripYx.png" group-title="Undefined",VTV (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="VuslatTV.tr" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/v/vuslat_tv_logo.png" group-title="Undefined",Vuslat TV (720p) [Not 24/7]
@@ -398,6 +402,8 @@ https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Yol TV (720p)
+https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",РТР-Планета (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s15/index.m3u8

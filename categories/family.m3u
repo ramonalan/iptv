@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/ve.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/ve.xml"
 #EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Amgtv.PNG" group-title="Family",AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/hyRmzWL.png" group-title="Family",AVA Family (720p) [Not 24/7]
@@ -13,8 +13,10 @@ https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmTVKinder.ua" tvg-logo="https://i.imgur.com/nH4Krbm.png" group-title="Family",FilmTV Kinder (400p) [Not 24/7]
 https://v2.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="Family",My Family Channel (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="IONPlusEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55241/s55241_h3_aa.png" group-title="Family",Ion Plus (1080p)
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="Family",JOJ Family (540p) [Not 24/7]
+https://nn.geo.joj.sk/hls/family-540.m3u8
 #EXTINF:-1 tvg-id="PinkFamily.rs" tvg-logo="https://i.imgur.com/H6IRGOd.png" group-title="Family",Pink Family (576p)
 http://109.105.201.198/PINKFAMILY/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFamily.us" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Family",Pluto TV Family (720p)
@@ -25,23 +27,36 @@ https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
 https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMoviesFrance.fr" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten Family (720p)
 https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesUK.uk" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten Family UK (720p)
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSwitzerland.ch" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Switzerland (720p)
 https://rakuten-family-4-ch.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMoviesFinland.fi" tvg-logo="https://i.imgur.com/6vaHKgT.png" group-title="Family;Movies",Rakuten TV Perhe
 https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealFamilies.us" tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family",Real Families (1080p)
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealFamiliesAustralia.us" tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="Family",Real Families (Australia) (720p)
 https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollectiveItaly.it" tvg-logo="https://images.pluto.tv/channels/60801317a0ccef00072aaf75/colorLogoPNG.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollectiveSpain.es" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Family",The Pet Collective (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ad55268cae539bcedb08&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=637&terminate=false&userId=
+#EXTINF:-1 tvg-id="ThePetCollectiveSweden.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective International
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVFamilia.ve" tvg-logo="https://i.imgur.com/ixIePRp.png" group-title="Family",TV Familia (720p)
 https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
 #EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" group-title="Family",TVS Family Channel (360p)
 https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family",СТС (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="CTCLove.ru" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="Family",СТС Love (480p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn" tvg-logo="https://i.imgur.com/lGToAeY.png" group-title="Family",四川妇女儿童 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="FamilyFinancesChannel.cn" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_finances_channel_cn.png" group-title="Family",家庭理财 (576p)
+http://223.110.245.139/PLTV/4/224/3221227011/index.m3u8

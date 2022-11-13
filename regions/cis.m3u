@@ -106,6 +106,10 @@ http://85.132.81.184:8080/atv/index.m3u8
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1 tvg-id="AzadTVMinus4.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV -4 (ATV) (720p) [Not 24/7]
 http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Backus TV (720p) [Not 24/7]
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="BackusTVDark.ru" tvg-logo="https://i.imgur.com/19K7oBF.png" group-title="Movies",Backus TV Страшное (720p) [Not 24/7]
+http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/kplxmEi.png" group-title="Kids",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-id="BaltiTV.md" tvg-logo="https://btv.md/wp-content/uploads/2018/11/BTV.png" group-title="Undefined",Bălţi TV (1080p) [Geo-blocked]
@@ -154,8 +158,6 @@ https://sc.id-tv.kz/Gakku.m3u8
 https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 tvg-id="GlobalStarTV.ru" tvg-logo="https://i.imgur.com/UPtq6Ft.png" group-title="Undefined",Global Star TV (720p)
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HD life (1080p) [Not 24/7]
-http://37.193.6.155:34040/udp/239.1.9.2:1234
 #EXTINF:-1 tvg-id="HDMedia.ru" tvg-logo="https://i.imgur.com/vEjTNlf.png" group-title="Entertainment",HD Медиа (720p) [Geo-blocked]
 https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8
 #EXTINF:-1 tvg-id="HITV.ru" tvg-logo="https://i.imgur.com/vsoxNq7.png" group-title="Music",HITV (1080p)
@@ -192,8 +194,8 @@ http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicRussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWildRussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild Russia (1080p) [Not 24/7]
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWildRussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-logo="https://i.imgur.com/39qL2Ht.png" group-title="Undefined",Noroc TV (576p)
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 tvg-id="ParamountComedyRussia.ru" tvg-logo="https://i.imgur.com/Nki62R7.png" group-title="Comedy",Paramount Comedy Russia
@@ -287,10 +289,8 @@ http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 https://wfcrus.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
 #EXTINF:-1 tvg-id="AVTO24.ru" tvg-logo="https://i.imgur.com/KV8P4vj.png" group-title="Auto",Авто 24 (576p) [Geo-blocked]
 http://185.52.77.67:8080/Avto24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Алматы (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-logo="https://i.imgur.com/GXlYCXz.jpg" group-title="Undefined",Алматы (576p) [Not 24/7]
 https://sc.id-tv.kz/Almaty.m3u8
-#EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-logo="https://i.imgur.com/GXlYCXz.jpg" group-title="Undefined",Алматы (720p) [Not 24/7]
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Aris24.ru" tvg-logo="https://i.imgur.com/ada17jU.png" group-title="Undefined",Арис 24 (720p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 tvg-id="Arsenal.ru" tvg-logo="https://i.imgur.com/uhrfA7Y.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Арсенал (480p)
@@ -310,6 +310,8 @@ https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 http://xstream.afontovo.ru/afontovo_ya.m3u8
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-logo="https://i.imgur.com/s34Wtz6.png" group-title="News",Башкортостан 24 (1080p)
 http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1 tvg-id="Belarus3.by" tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="General",Беларусь 3 (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Belarus_4.png/512px-Belarus_4.png" group-title="General",Беларусь 4 (576p)
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://i.imgur.com/iVIlgrj.png" group-title="News",Беларусь 24 (1080p)
@@ -398,6 +400,8 @@ https://sc.id-tv.kz/Indiiskoe_kino.m3u8
 http://ott-cdn.ucom.am/s40/index.m3u8
 #EXTINF:-1 tvg-id="K1.ua" tvg-logo="https://i.imgur.com/zkGPS5w.jpg" group-title="Undefined",К1 (576p)
 http://edge3.iptv.macc.com.ua/life/k1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",К16 (Саров) (406p) [Not 24/7]
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-logo="https://i.imgur.com/jm95KQU.png" group-title="Religious",Каббала ТВ (360p) [Not 24/7]
 https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
 #EXTINF:-1 tvg-id="Kavkaz24.ru" tvg-logo="https://i.imgur.com/DyJw1Pi.png" group-title="General",Кавказ 24 (720p) [Geo-blocked]
@@ -697,8 +701,6 @@ https://sitv.ru/hls/stv.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="Undefined",Самара ГИС (1080p) [Not 24/7]
 http://45.67.57.9:8080/new/new/playlist.m3u8
-#EXTINF:-1 tvg-id="Saratov24.ru" tvg-logo="https://i.imgur.com/hggQnNT.png" group-title="Undefined",Саратов 24 (1080p) [Not 24/7]
-https://saratov24.tv/online/playlist.php
 #EXTINF:-1 tvg-id="Sarafan.ru" tvg-logo="https://i.imgur.com/AgX6qoz.png" group-title="Undefined",Сарафан (576p) [Not 24/7]
 http://195.26.83.96:7024/play/82
 #EXTINF:-1 tvg-id="Svarozhichi.ua" tvg-logo="https://www.lyngsat.com/logo/tv/ss/svarozhychy-ua.png" group-title="Undefined",Сварожичи (720p)
@@ -727,19 +729,9 @@ http://188.35.9.11:11021/j
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",СТРК (720p) [Not 24/7]
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",СТС (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",СТС (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",СТС (576p) [Not 24/7]
-https://sc.id-tv.kz/STS.m3u8
-#EXTINF:-1 tvg-id="CTC.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family",СТС (1080p) [Geo-blocked]
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:-1 tvg-id="CTCKids.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Kids",СТС Kids (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 tvg-id="CTCLove.ru" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="Family",СТС Love (480p) [Geo-blocked]

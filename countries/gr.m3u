@@ -1,10 +1,8 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/pt.xml"
 #EXTINF:-1 tvg-id="4E.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="Undefined",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="34100TV.gr" tvg-logo="https://i.imgur.com/hQkukkv.png" group-title="Undefined",34100 TV (720p) [Geo-blocked]
 https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-logo="https://i.imgur.com/QjQxeAe.png" group-title="Undefined",Acheloos TV (576p) [Not 24/7]
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
@@ -38,16 +36,20 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 https://stream.net7.gr/hls/best/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/1Chamk9.png" group-title="General",BTV World (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Camera Smile (480p)
 https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-id="CanaliTV.gr" tvg-logo="https://i.imgur.com/bGIdE9N.png" group-title="Undefined",Canali TV (720p) [Geo-blocked]
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (576p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN English (432p) [Not 24/7]
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/512px-CGTN_-_fran%C3%A7ais.png" group-title="News",CGTN Français (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="Choice.gr" tvg-logo="https://i.imgur.com/6Yr0Axp.png" group-title="Undefined",Choice (956p) [Not 24/7]
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
@@ -67,6 +69,10 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 tvg-id="DipsoTV.gr" tvg-logo="https://i.imgur.com/iL2o7Og.png" group-title="Undefined",Dipso TV (720p) [Not 24/7]
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duna_World_HD_2012.svg/512px-Duna_World_HD_2012.svg.png" group-title="Undefined",Duna World (480p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://mediaklikk.hu/duna-world-elo/
+#EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
@@ -89,14 +95,12 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ERT Sports (1080p) [Geo-blocked]
 https://ertsports-live.ert.insyscd.net/out/v1/db0b54e8d25a47dcb336cf114c4d1860/ertsports-live.m3u8
-#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (480p)
+http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Undefined",ETB Basque (480p)
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
@@ -105,6 +109,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euron
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
 https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 #EXTINF:-1 tvg-id="FarosTV2.gr" tvg-logo="https://i.imgur.com/ykM5Zh1.jpg" group-title="Undefined",Faros TV2 (480p) [Geo-blocked]
@@ -177,8 +183,8 @@ https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 tvg-id="NetmaxTV.gr" tvg-logo="https://i.imgur.com/6JhwEX2.png" group-title="Undefined",Netmax TV (720p) [Not 24/7]
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NG.gr" tvg-logo="https://i.imgur.com/pK2p5ey.png" group-title="Music",NG (614p)
-http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 tvg-id="NG.gr" tvg-logo="https://i.imgur.com/pK2p5ey.png" group-title="Music",NG (720p)
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (YouTube) (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
 #EXTINF:-1 tvg-id="NRG91.gr" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Undefined",NRG 91 (720p) [Not 24/7]
@@ -228,6 +234,8 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 http://78.83.87.222:9999/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Start TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="https://i.imgur.com/4fqvwEk.png" group-title="Sports",STIRR MavTV (720p)
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="Religious",Three Angels Broadcasting Network International (3ABN) (720p)
 https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 #EXTINF:-1 tvg-id="Tilemousiki.gr" tvg-logo="https://i.imgur.com/wb4pLkW.jpg" group-title="Undefined",Tilemousiki (480p) [Not 24/7]
