@@ -25,8 +25,9 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DDNational.in" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="Entertainment",DD National (576p)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/znnVCEf.png" group-title="News",DD News (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
+#EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/znnVCEf.png" group-title="News",DD News (576p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://playhls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/WUl0Acy.png" group-title="Sports",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-id="Dhamaal.in" tvg-logo="https://i.imgur.com/OnPZCWm.png" group-title="Music",Dhamaal (1080p) [Not 24/7]
@@ -93,8 +94,6 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 https://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
 #EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="Religious",Shubhsandesh (720p) [Not 24/7]
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-logo="https://i.imgur.com/5r4gCMh.jpg" group-title="Music",Steelbird Music (720p) [Not 24/7]
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SwarajExpressSMBC.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/swaraj-express-smbc-in.png" group-title="Undefined",Swaraj Express (720p) [Not 24/7]
 https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
 #EXTINF:-1 tvg-id="TAGTV.ca" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",TAG TV (1080p) [Not 24/7]
@@ -103,8 +102,6 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 tvg-id="TimesNow.in" tvg-logo="https://i.imgur.com/95V0Sj7.png" group-title="News",Times Now (480p) [Geo-blocked]
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-id="UtsavGold.in" tvg-logo="https://i.imgur.com/7pTZm9O.png" group-title="Movies",Utsav Gold (720p) [Geo-blocked]
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 tvg-id="WeatherSpyIndia.in" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",Weatherspy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-logo="https://i.imgur.com/g3eT2vP.png" group-title="Undefined",Zee TV (480p)
