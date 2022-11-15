@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/uk.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/uk.xml"
 #EXTINF:-1 tvg-id="4Music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" group-title="Music",4Music [Geo-blocked]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Aaj_Tak_Logo.png" group-title="News",Aaj Tak (360p) [Geo-blocked]
@@ -289,6 +289,8 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 http://78.129.150.52/tsstreamer/DuckTVLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DuckTV
 http://212.38.189.94/tsstreamer/DuckTVLDAI_SD.ts
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duna_World_HD_2012.svg/512px-Duna_World_HD_2012.svg.png" group-title="Undefined",Duna World (480p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://mediaklikk.hu/duna-world-elo/
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
@@ -431,7 +433,7 @@ https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Karaoke
 http://82.145.63.157/tsstreamer/KaraokeLDAI_SD.ts
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General",KBS World (720p)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Kerrangtvlogo.png" group-title="Undefined",Kerrang (576p) [Geo-blocked]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KISS TV [Geo-blocked]
@@ -679,8 +681,6 @@ http://78.129.253.189/tsstreamer/WBCLDAI_SD.ts
 http://109.200.6.10/tsstreamer/WBCLDAI_SD.ts
 #EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="Undefined",Wonder (1080p)
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="Lifestyle",World Fashion Channel International (1080p)
