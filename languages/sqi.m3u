@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/xk.xml"
-#EXTINF:-1 tvg-id="AlbMusik.al" tvg-logo="https://i.imgur.com/lHE5V2h.png" group-title="Music",AlbMusik (720p) [Not 24/7]
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="Undefined",AlbUK TV (1080p) [Not 24/7]
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://alpomedia.com/wp-content/uploads/2022/02/Alpo-Media-Logo200px.png" group-title="Undefined",ALPO (720p) [Not 24/7]
@@ -15,6 +13,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://93.157.62.180/KlanKosova/index.m3u8
 #EXTINF:-1 tvg-id="KlanPlus.al" tvg-logo="https://i.imgur.com/9FEBRdH.png" group-title="Undefined",Klan Plus
 http://93.157.62.180/KlanPlus/index.m3u8
+#EXTINF:-1 tvg-id="News24.al" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24 (392p) [Not 24/7]
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="OraNews.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/512px-Ora_News_%28Albania%29.svg.png" group-title="News",ORA News (720p)
 http://93.157.62.180/OraNews/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVAlbanian.ae" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/albanian.jpg" group-title="Religious",Peace TV Albanian (360p)
@@ -31,8 +31,8 @@ http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SyriTV.al" tvg-logo="https://i.imgur.com/4gB76fx.png" group-title="Undefined",Syri TV (720p) [Not 24/7]
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1 tvg-id="TopNews.al" tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="News",Top News
-http://93.157.62.180/TopNews/index.m3u8
+#EXTINF:-1 tvg-id="TopNews.al" tvg-logo="https://i.imgur.com/tBAXkOW.png" group-title="News",Top News (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
 #EXTINF:-1 tvg-id="TV7Albania.al" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Undefined",TV 7 Albania (540p) [Not 24/7]
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="TVApollon.al" tvg-logo="https://i.imgur.com/O5YRr6i.jpg" group-title="Undefined",TV Apollon (720p)
