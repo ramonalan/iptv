@@ -11,9 +11,6 @@ https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 #EXTINF:-1 tvg-id="BahrainInternational.bh" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="Undefined",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCWorldNewsEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",BBC World News (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="News",BeritaSatu World (720p) [Not 24/7]
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
@@ -103,12 +100,8 @@ https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Portugal (576p)
 http://176.79.76.155:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png" group-title="Undefined",Myanmar International TV (mitv) (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://i.imgur.com/GCcmL8E.png" group-title="Undefined",NBT World
-https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (YouTube) (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
 #EXTINF:-1 tvg-id="NTVEurope.bd" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="General",NTV Europe (720p) [Not 24/7]
@@ -137,6 +130,9 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP2 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
@@ -146,9 +142,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/RTP_Madeira_2016.png/512px-RTP_Madeira_2016.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",RTP Madeira (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RtpMemoria_positivo_horiz_RGB.png/512px-RtpMemoria_positivo_horiz_RGB.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",RTP Memória (504p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Undefined",Sea Today (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Undefined",SIC (1080p)
@@ -197,8 +190,6 @@ http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="Lifestyle",World Fashion Channel International (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
