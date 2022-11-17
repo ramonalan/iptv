@@ -31,8 +31,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-id="Antena91.ar" tvg-logo="https://i2.paste.pics/b53ea7912cc518bf5baff39f6edc6c0b.png" group-title="Undefined",Antena 91
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 #EXTINF:-1 tvg-id="AVCHD.ar" tvg-logo="https://i.imgur.com/s8NvpeC.png" group-title="Undefined",AVC HD (Monte Caseros | Corrientes) (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/AVCHD/index.m3u8
@@ -62,6 +60,8 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-id="CadenaVivo.ar" tvg-logo="https://cvivo.com.ar/wp-content/uploads/2021/11/VIVO-CIRCULO.png" group-title="Undefined",Cadena VIVO (720p)
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
+#EXTINF:-1 tvg-id="CalchaquiTV.ar" tvg-logo="https://i.imgur.com/7vK7CQN.png" group-title="Undefined",Calchaquí TV (480p)
+https://video.streamtvradio.com:8443/uv068/uv068/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal2Salta.ar" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="Undefined",Canal 2 (Salta)
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 tvg-id="Canal2Sanagasta.ar" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Undefined",Canal 2 (Sanagasta)
@@ -118,8 +118,8 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Nortevision.ar" tvg-logo="https://i.imgur.com/YFP2jJe.png" group-title="Undefined",Canal10 Nortevision
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
-#EXTINF:-1 tvg-id="Canal10TVRioNegro.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-tv-rio-negro-ar.png" group-title="Undefined",Canal 10 Rio Negro (720p) [Not 24/7]
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10TVRioNegro.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-tv-rio-negro-ar.png" group-title="Undefined",Canal 10 Rio Negro
+https://panel.dattalive.com/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10SanRafael.ar" tvg-logo="https://i.imgur.com/teoaBPx.png" group-title="Undefined",Canal 10 San Rafael (480p)
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Salta.ar" tvg-logo="https://i.imgur.com/znHTh8Z.png" group-title="General",Canal 10 Televisión Salteña (720p)
@@ -173,8 +173,6 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Undefined",Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalXFN.ar" tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="Undefined",Canal XFN
-https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Multivision.ar" tvg-logo="https://i.imgur.com/2WFGiCh.png" group-title="Undefined",CANAL.9 MULTIVISION (720p) [Not 24/7]
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/SGKGxt7.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36",canalLUZ (1080p) [Not 24/7]
@@ -208,6 +206,8 @@ http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CN3 Pinamar (720p) [Not 24/7]
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="News",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
@@ -260,6 +260,8 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
@@ -267,9 +269,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euron
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
-https://euronews.alteox.app/hls/pt_stream.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
-https://euronews.alteox.app/hls/es_stream.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
@@ -314,6 +314,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF:-1 tvg-id="LapachoTVCanal11.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lapacho-tv-canal-11-ar.png" group-title="Undefined",Lapacho TV (720p)
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="LitusTV.ar" tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png" group-title="Undefined",Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LTOTelevision.ar" tvg-logo="https://1.bp.blogspot.com/-7WMCAEPB0pc/YUODp6R9UhI/AAAAAAAAANI/BYubtojWstcxkoMyYvFcb1aogrQ-poEswCLcBGAsYHQ/s150/My%2BPost%2B%252855%2529.png" group-title="Undefined",LTO Televisión [Not 24/7]
@@ -345,7 +347,9 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Music",MusicTop (720p)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://i.imgur.com/GCcmL8E.png" group-title="Undefined",NBT World
+https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Undefined",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/296ICn5.png" group-title="General",NET TV (720p)
@@ -389,8 +393,6 @@ http://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV (360p) [Not 24/7]
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i2.paste.pics/84af50f518634dd561077d22d7f36989.png" group-title="Undefined",San Pedro TV (480p) [Not 24/7]
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 #EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://pbs.twimg.com/profile_images/1389261899234222083/FlHf9HZh_400x400.png" group-title="Undefined",Santa Fe Canal (720p)
@@ -402,7 +404,7 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png" group-title="Undefined",Sicardi TV (720p)
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",Ski TV (1080p) [Not 24/7]
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Movies",Sofy TV (720p)
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp (480p) [Not 24/7]
@@ -417,8 +419,6 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://cvisiontv.com/wp-content/uploads/2022/06/cropped-logo-c-vision.png" group-title="Undefined",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 tvg-id="Telecreativa.ar" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Telecreativa
-https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telediario_m.png" group-title="Undefined",Telediario TV
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 #EXTINF:-1 tvg-id="Telediez.ar" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Telediez
@@ -465,6 +465,8 @@ http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 https://panel.dattalive.com/8106/8106/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",TV Perú Internacional (460p) [Not 24/7]
 http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="General",TV Pública (TVP) (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
 #EXTINF:-1 tvg-id="TVSolidaria.ar" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2019/08/Logo-Solidaria1-1.png" group-title="Undefined",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="TVGAmerica.es" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América (720p)
@@ -477,8 +479,6 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="UNAMTransmedia.ar" tvg-logo="https://i2.paste.pics/8c4977628c2855095b6b9bff9a9f2a1d.png" group-title="Undefined",UNAM Transmedia
-http://192.100.186.53:8090/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" tvg-logo="https://i.imgur.com/GlUb2QX.png" group-title="Religious",Unife TV (720p)
 http://free.fullspeed.tv/iptv-query?provider=universe&streaming-ip=https://playback.dacast.com/content/access?contentId=928203024202811fc3bc6cbe26866ebf-live-adeed196-c997-05a9-430f-188d97dfe346
 #EXTINF:-1 tvg-id="Uniteve.ar" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve
