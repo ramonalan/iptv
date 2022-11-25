@@ -18,19 +18,19 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaa
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Magharibia (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AlmagharibiaTv/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alaraby 2 TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alaraby TV (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AlarabyTv_News/live
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alaraby TV (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AlarabyTv_News/live
 #EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-logo="https://i.imgur.com/TMg4Kxi.png" group-title="Undefined",AlbUK TV (1080p) [Not 24/7]
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-logo="https://i.imgur.com/aUZMoc3.png" group-title="Undefined",Alhiwar TV (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/alhiwarchannels/live
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AnandTV.uk" tvg-logo="https://i.imgur.com/mfa3Uev.png" group-title="General",Anand TV (720p) [Not 24/7]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="AriseNews.uk" tvg-logo="https://i.imgur.com/OVvLBkq.png" group-title="News",Arise News (576p)
@@ -175,6 +175,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/content/x=3/v=pv14/b=5070016/t=3840/i
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="Undefined",BBC Two England (540p) [Geo-blocked]
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Two HD (720p)
+http://w4.12all.tv:4000/play/bbc2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Two HD (720p) [Geo-blocked]
 https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Two HD (720p) [Geo-blocked]
@@ -232,8 +234,8 @@ http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
 http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="Music",Box Hits (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Brit_Asia_TV_logo.png" group-title="Undefined",Brit Asia Live (US Pacific) (720p) [Not 24/7]
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Brit_Asia_TV_logo.png" group-title="Undefined",Brit Asia Live (US Eastern) (360p) [Not 24/7]
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
 #EXTINF:-1 tvg-id="BritishMuslimTV.uk" tvg-logo="https://i.imgur.com/9k7fsqw.png" group-title="Religious",British Muslim TV (576p) [Not 24/7]
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/1Chamk9.png" group-title="General",BTV World (720p) [Not 24/7]
@@ -310,8 +312,6 @@ http://wpso.com:1936/hls/wzra.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
@@ -320,8 +320,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euron
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
 https://euronews.alteox.app/hls/pt_stream.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
+https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",EuronewsEng
 http://95.154.197.48/tsstreamer/EuronewsEngLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",EuronewsEng
@@ -373,7 +375,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="GarshomTV.uk" tvg-logo="https://i.imgur.com/KOM3xVi.png" group-title="Undefined",Garshom TV (360p) [Not 24/7]
 http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/GBNewsOnline/live
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
 #EXTINF:-1 tvg-id="GemsTV.uk" tvg-logo="https://i.imgur.com/9fJlCNW.png" group-title="Shop",Gems TV (360p)
 http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gusto TV (720p)
@@ -474,8 +476,6 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA8America.uk" tvg-logo="https://i.imgur.com/CF6X9wB.png" group-title="Undefined",MTA8 America (1080p)
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
-#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm" tvg-logo="https://www.lyngsat.com/logo/tv/mm/myanmar-international-tv-mm.png" group-title="Undefined",Myanmar International TV (mitv) (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",n TV (US Eastern) (720p) [Not 24/7]
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
@@ -484,8 +484,8 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 http://176.227.215.109/tsstreamer/NaturescapeLDAI_SD.ts
 #EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://i.imgur.com/GCcmL8E.png" group-title="Undefined",NBT World
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (YouTube) (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NickJrTooUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Nick_Jr_Too.png" group-title="Kids",Nick Jr Too UK (576p) [Geo-blocked]
 http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-logo="https://i.imgur.com/4PXdeBz.png" group-title="Undefined",NollyAfrica
@@ -546,8 +546,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff81
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVSportsUK.uk" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="Sports",Pluto TV Sports (England) (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVStandUpUK.uk" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Comedy",Pluto TV Stand Up (360p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5637d31f319573e26b64040b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=468&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVStandUpUK.uk" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Comedy",Pluto TV Stand Up (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PopMax.uk" tvg-logo="https://i.imgur.com/Z7XTTod.png" group-title="Undefined",POP Max (576p)
 https://live-sonybebanjo.simplestreamcdn.com/live/popmax/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-id="PTVWorld.pk" tvg-logo="https://i.imgur.com/eeDFRgN.png" group-title="Undefined",PTV World (480p)
@@ -616,7 +616,7 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",Sporty Stuff TV (720p)
 https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
 #EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="https://i.imgur.com/4fqvwEk.png" group-title="Sports",STIRR MavTV (720p)
-https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 #EXTINF:-1 tvg-id="STV.uk" tvg-logo="https://i.imgur.com/Q1U7FkN.png" group-title="Undefined",STV (1080p) [Geo-blocked]
 https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8
 #EXTINF:-1 tvg-id="STVPlus1.uk" tvg-logo="https://i.imgur.com/XeSaypp.png" group-title="Undefined",STV+1 (1080p) [Geo-blocked]
@@ -624,9 +624,7 @@ https://csm-e-stv.tls1.yospace.com/csm/live/181023311.m3u8
 #EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="Undefined",Takbeer TV (1080p)
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/91gCmAQ.png" group-title="Undefined",TalkTV (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/talktv/live
-#EXTINF:-1 tvg-id="TBNUK.uk" tvg-logo="https://i.imgur.com/2JHGCgl.png" group-title="Undefined",TBN UK (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://api.new.livestream.com/accounts/28567990/events/8919546
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Teletubbies_Logo.png" group-title="Kids",Teletubbies (720p)
 https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
 #EXTINF:-1 tvg-id="TheBoxUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="Music",The Box UK (576p) [Not 24/7]
