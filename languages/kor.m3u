@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/kr.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/kr.xml"
 #EXTINF:-1 tvg-id="Anione.kr" tvg-logo="https://i.imgur.com/2zq8PDL.png" group-title="Animation",Anione (540p)
 http://mytv.dothome.co.kr/ch/catv/230.php
 #EXTINF:-1 tvg-id="BadukTV.kr" tvg-logo="https://i.imgur.com/o7y72cu.png" group-title="Sports",Baduk TV (540p)
@@ -9,6 +9,8 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/252.php
 #EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",BTN TV (1080p)
 http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-id="CarrieTV.kr" tvg-logo="https://i.imgur.com/WMgk4MK.png" group-title="Kids",Carrie TV (540p)
+http://mytv.dothome.co.kr/ch/catv/212.php
 #EXTINF:-1 tvg-id="CBSTV.kr" tvg-logo="https://i.imgur.com/WHDU8F3.png" group-title="General",CBS (1080p)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CGNTV.kr" tvg-logo="https://i.imgur.com/ID70Wy1.png" group-title="Religious",CGNTV (720p)
@@ -41,8 +43,6 @@ http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EdailyTV.kr" tvg-logo="https://i.imgur.com/UvRoc22.png" group-title="Undefined",Edaily TV (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg/live
-#EXTINF:-1 tvg-id="FTV.kr" tvg-logo="https://i.imgur.com/VLsGJ1x.png" group-title="Outdoor",FTV (540p)
-http://mytv.dothome.co.kr/ch/catv/250.php
 #EXTINF:-1 tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="Religious",GCN24 Korean (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqGxkgVnPc7arUR7MdCi99g/live
 #EXTINF:-1 tvg-id="GolfPBA.kr" tvg-logo="https://i.imgur.com/AL4Cjlj.png" group-title="Sports",Golf & PBA (540p)
@@ -133,6 +133,10 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/26.php
 #EXTINF:-1 tvg-id="GwangjuMBCTV.kr" tvg-logo="https://i.imgur.com/nsAURM4.png" group-title="Undefined",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCGyeongnamChangwonTV.kr" tvg-logo="https://i.imgur.com/Ronb1JP.png" group-title="Undefined",MBC Gyeongnam (경상 MBC) (1080p) [Not 24/7]
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JejuMBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A0%9C%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png/512px-%EC%A0%9C%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBC Jeju (제주 MBC) (352p) [Not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="MokpoMBCTV.kr" tvg-logo="https://i.imgur.com/pkFKjFo.png" group-title="Undefined",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCNet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net (480p) [Geo-blocked]
@@ -159,8 +163,8 @@ https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 #EXTINF:-1 tvg-id="OBSGyeonginTV.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS Gyeongin TV (540p)
 http://mytv.dothome.co.kr/ch/catv/281.php
-#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/512px-One_TV_Asia_logo_%282020%29.png" group-title="Undefined",One TV Asia (576p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h143/index.m3u8
+#EXTINF:-1 tvg-id="OLife.kr" tvg-logo="https://i.imgur.com/a4YnnwN.png" group-title="Lifestyle",OLIFE (540p)
+http://mytv.dothome.co.kr/ch/catv/254.php
 #EXTINF:-1 tvg-id="Pinkfong.kr" tvg-logo="https://i.imgur.com/gOhRjQE.png" group-title="Kids",Pinkfong (540p)
 http://mytv.dothome.co.kr/ch/catv/263.php
 #EXTINF:-1 tvg-id="CJBTV.kr" tvg-logo="https://i.imgur.com/MvxdZhX.png" group-title="Undefined",SBS CJB (CJB청주방송) (540p) [Not 24/7]
@@ -177,6 +181,8 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Daegu_Broadcasting_Corporation.svg/512px-Daegu_Broadcasting_Corporation.svg.png" group-title="Undefined",SBS TBC (TBC 대구방송) (540p) [Not 24/7]
 http://221.157.125.239:1935/live/psike/playlist.m3u8
+#EXTINF:-1 tvg-id="TJBTV.kr" tvg-logo="https://i.imgur.com/q9Nx801.png" group-title="Undefined",SBS TJB (1080p) [Not 24/7]
+http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="UBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Ubc_logo2.svg/512px-Ubc_logo2.svg.png" group-title="Undefined",SBS UBC (UBC 울산방송) (540p) [Not 24/7]
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 #EXTINF:-1 tvg-id="SEN.kr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sen-kr.png" group-title="Undefined",SEN Seoul Economy TV (1080p)

@@ -7,8 +7,6 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://i.imgur.com/EDFMcdf.png" group-title="Undefined",Alma TV (576p)
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="Undefined",Alto Adige TV (720p)
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AntennaTreNordest.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/8e/LogoA3sito.png" group-title="Undefined",Antenna Tre Veneto (480p) [Geo-blocked]
 https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AuroraArte.it" tvg-logo="https://i.imgur.com/Y1Yq3iV.png" group-title="Undefined",Aurora Arte (480p)
@@ -155,14 +153,12 @@ http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="Undefined",Rai 3 (720p) [Not 24/7]
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/512px-Rai_4_-_Logo_2016.svg.png" group-title="Undefined",Rai 4 (576p) [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (576p) [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/512px-Rai_4_-_Logo_2016.svg.png" group-title="Undefined",Rai 4 (576p)
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (302p) [Geo-blocked]
+http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/512px-Rai_Gulp_-_Logo_2017.svg.png" group-title="Undefined",Rai Gulp (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/512px-Rai_Movie_-_Logo_2017.svg.png" group-title="Movies",Rai Movie (576p) [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/512px-Rai_News_24_logo_%282022%29.svg.png" group-title="News",Rai News 24 (720p)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/512px-Rai_Premium_-_Logo_2017.svg.png" group-title="Undefined",Rai Premium (576p) [Geo-blocked]
@@ -173,8 +169,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/512px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="Kids",Rai YoYo (576p) [Geo-blocked]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesItaly.it" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies Italy (720p)
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesItaly.it" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten Action Movies
+https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesItaly.it" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="Movies",Rakuten Comedy Movies Italy (720p)
 https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaMoviesItaly.it" tvg-logo="https://i.imgur.com/oMXfdkV.png" group-title="Movies",Rakuten Drama

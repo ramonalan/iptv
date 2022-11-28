@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml"
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV (1080p)
@@ -147,7 +147,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png" group-title="Undefined",MNB world
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="Auto",Motorvision TV (720p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",NewTV动画王国 (1080p)
@@ -176,6 +176,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/rli3c7T.png" group-title="Documentary",RT Documentary Russian (1080p) [Not 24/7]
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SDETV (576p)
 http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221227019/index.m3u8
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Undefined",Sea Today (720p) [Geo-blocked]
@@ -562,6 +565,8 @@ http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
 #EXTINF:-1 tvg-id="HezhengTV.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="Undefined",和政电视台
 http://117.156.28.119/270000001111/1110000149/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",唯心電視 (480p)
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",嘉佳卡通 (576p)
 http://223.110.245.139/PLTV/4/224/3221227009/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",嘉佳卡通 (广东) (540p) [Not 24/7]
@@ -758,6 +763,8 @@ http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
 http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",张家界2台 (240p) [Not 24/7]
 http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",徐州-1 (1080p)
+http://183.207.249.15/PLTV/3/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",徐州-3 (1080p)
 http://183.207.249.7/PLTV/3/224/3221225949/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",徐州-3 (1080p)
@@ -1072,10 +1079,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",澳视葡文 (720p) [Not 24/7]
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",澳门1 (720p) [Not 24/7]
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",澳门2 (720p) [Not 24/7]
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",澳门体育 (720p)
 http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",灵台新闻综合 (1080p)
