@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Africanews
+https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
@@ -91,6 +93,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",Kuriakos Cine (1080p) [Not 24/7]
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Kids",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Music",Kuriakos Music (1080p)
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Religious",Kuriakos TV (1080p)
@@ -127,11 +131,15 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="News",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="General",RTP1 (480p)
-http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP1 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP2 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8

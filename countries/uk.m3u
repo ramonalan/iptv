@@ -64,7 +64,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_h
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Four HD (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="News",BBC News HD (720p) [Geo-blocked]
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCOneCambridgeshire.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One Cambridge (540p) [Geo-blocked]
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC One Channel Islands (540p) [Geo-blocked]
@@ -116,7 +116,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yo
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/512px-BBC_Parliament_Logo.svg.png" group-title="Legislative",BBC Parliament (540p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="News",BBC Persian (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
 #EXTINF:-1 tvg-id="BBCRedButton1.uk" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="Undefined",BBC Red Button 1 (720p) [Geo-blocked]
 https://ve-dash-uk-live.akamaized.net/pool_901/live/uk/sport_stream_01/sport_stream_01.isml/pc_hd_abr_v2_dash.mpd
 #EXTINF:-1 tvg-id="BBCRedButton2.uk" tvg-logo="https://i.imgur.com/g2Aga13.png" group-title="Undefined",BBC Red Button 2 (720p) [Geo-blocked]
@@ -234,8 +234,8 @@ http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
 http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="Music",Box Hits (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Brit_Asia_TV_logo.png" group-title="Undefined",Brit Asia Live (US Eastern) (360p) [Not 24/7]
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
+#EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Brit_Asia_TV_logo.png" group-title="Undefined",Brit Asia Live (US Pacific) (720p) [Not 24/7]
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
 #EXTINF:-1 tvg-id="BritishMuslimTV.uk" tvg-logo="https://i.imgur.com/9k7fsqw.png" group-title="Religious",British Muslim TV (576p) [Not 24/7]
 https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/1Chamk9.png" group-title="General",BTV World (720p) [Not 24/7]
@@ -613,6 +613,8 @@ http://95.154.230.50/tsstreamer/SacredSitesLDAI_SD.ts
 http://212.84.160.41/tsstreamer/SacredSitesLDAI_SD.ts
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Undefined",Sea Today (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-id="SheffieldLiveTV.uk" tvg-logo="https://i.imgur.com/QTLYcM0.png" group-title="Undefined",Sheffield Live TV (360p) [Not 24/7]
+http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Shelanu TV (720p)
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",Ski TV (1080p) [Not 24/7]
