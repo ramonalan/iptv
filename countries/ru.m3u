@@ -89,8 +89,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-id="CNLEurope.kz" tvg-logo="https://cnl.tv/sites/all/themes/cnl/logo.png" group-title="Religious",CNL Европа (360p)
 http://hls-live-media.cdn01.net/default/stream_10429_1.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News",CNN International Germany (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
@@ -206,6 +206,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="Renome.ua" tvg-logo="https://i.imgur.com/Uy9gD3l.jpg" group-title="Undefined",Renome (576p)
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/rli3c7T.png" group-title="Documentary",RT Documentary Russian (1080p) [Not 24/7]
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="News",RT en Español (1080p) [Geo-blocked]
@@ -364,8 +366,8 @@ https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 http://185.32.44.154/euronews/index.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="Undefined",Енисей (1080p) [Not 24/7]
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="ZharPtitsa.ru" tvg-logo="https://i.imgur.com/eEtHi5D.png" group-title="Music",Жар Птица (1080p) [Geo-blocked]
-https://strm.yandex.ru/kal/firebird/firebird0.m3u8
+#EXTINF:-1 tvg-id="ZharPtitsa.ru" tvg-logo="https://i.imgur.com/eEtHi5D.png" group-title="Music",Жар Птица (404p) [Geo-blocked]
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZharaTV.ru" tvg-logo="https://i.imgur.com/HBQnoRp.png" group-title="Music",Жара (576p) [Not 24/7]
 http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Загородный (480p)
@@ -573,6 +575,9 @@ http://5.164.24.83/tula/1tv_low/index.m3u8
 https://sc.id-tv.kz/Pobeda.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru" tvg-logo="https://i.imgur.com/c6oPeGF.png" group-title="Undefined",Поехали! (576p) [Not 24/7]
 https://sc.id-tv.kz/poehali.m3u8
+#EXTINF:-1 tvg-id="PravdaTUT.ua" tvg-logo="https://i.imgur.com/mdsqwpi.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ПравдаТУТ (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
 #EXTINF:-1 tvg-id="Prima.ru" tvg-logo="https://i.imgur.com/2jpAfXt.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Прима (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
@@ -655,8 +660,6 @@ https://sitv.ru/hls/stv.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="Undefined",Самара ГИС (1080p) [Not 24/7]
 http://45.67.57.9:8080/new/new/playlist.m3u8
-#EXTINF:-1 tvg-id="Saratov24.ru" tvg-logo="https://i.imgur.com/hggQnNT.png" group-title="Undefined",Саратов 24 (1080p) [Not 24/7]
-https://saratov24.tv/online/playlist.php
 #EXTINF:-1 tvg-id="Sarafan.ru" tvg-logo="https://i.imgur.com/AgX6qoz.png" group-title="Undefined",Сарафан (576p) [Not 24/7]
 http://195.26.83.96:7024/play/82
 #EXTINF:-1 tvg-id="Svarozhichi.ua" tvg-logo="https://www.lyngsat.com/logo/tv/ss/svarozhychy-ua.png" group-title="Undefined",Сварожичи (720p)
@@ -697,6 +700,8 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 tvg-id="Surgut24.ru" tvg-logo="https://i.imgur.com/OxvqXMt.png" group-title="Undefined",Сургут 24 (720p) [Not 24/7]
 https://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1 tvg-id="Takt24.ru" tvg-logo="https://i.imgur.com/m4CMrQJ.png" group-title="Undefined",Такт/Рен ТВ (Курск) (294p) [Not 24/7]
+http://109.194.62.29:8080
 #EXTINF:-1 tvg-id="Tamyr.ru" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids",Тамыр (576p)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="Tatarstan24.ru" tvg-logo="https://i.imgur.com/gGnUXzr.png" group-title="Undefined",Татарстан24 (1080p) [Not 24/7]

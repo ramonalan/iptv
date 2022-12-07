@@ -5,6 +5,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/agapetv8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Sports",América Sports (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",BabyTV (1080p)
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 #EXTINF:-1 tvg-id="BahrainInternational.bh" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="Undefined",Bahrain International (720p) [Not 24/7]
@@ -157,8 +159,6 @@ http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV (360p) [Not 24/7]
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Undefined",Sea Today (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 tvg-id="SEOTV.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="General",SEO TV (1080p)
@@ -185,8 +185,8 @@ https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-logo="https://i.imgur.com/2X6vgbJ.png" group-title="Undefined",TribunaTV (720p) [Not 24/7]
 https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TropicalMoonSalsaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Salsa TV
-https://srv.panelcast.net/musictv/musictv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonEventosTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Eventos TV [Not 24/7]
+https://srv.panelcast.net/eventostv/eventostv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonSomosCulturaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Somos Cultura TV
 https://srv.panelcast.net/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (720p) [Not 24/7]

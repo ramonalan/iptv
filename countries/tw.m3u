@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/tw.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/tw.xml"
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Asia Travel (720p)
@@ -58,8 +58,8 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",EBC Financial News (東森財經新聞台) (720p)
-http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-foreign-movie-tw.png" group-title="Movies",EBC Foreign Movie (東森洋片台) (720p)
 http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f
 #EXTINF:-1 tvg-id="EBCMovie.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-movie-tw.png" group-title="Movies",EBC Movie (東森電影台) (720p)
@@ -140,6 +140,8 @@ https://live.streamingfast.net/osmflivech20.m3u8
 https://live.streamingfast.net/osmflivech21.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH24 劉三講古 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH27 空中聖經學院 (720p) [Not 24/7]
+https://live.streamingfast.net/osmflivech27.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH28 現代詩歌 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech28.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH29 經典音樂河 (720p) [Not 24/7]
@@ -255,8 +257,8 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 #EXTINF:-1 tvg-id="TVBS.tw" tvg-logo="https://i.imgur.com/4RvCHWP.png" group-title="Undefined",TVBS HD (720p)
 http://50.7.220.74:8278/tvbs/playlist.m3u8?ct=19226&tid=MDED5111960351119603&tsum=49931e2d3885c468d56ffae2c2db9e6e
-#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/Hsop2If.png" group-title="News",TVBS News (TVBS新聞台) (720p)
-http://50.7.220.74:8278/tvbs_n/playlist.m3u8?ct=19226&tid=MEFE5283322452833224&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/Hsop2If.png" group-title="News",TVBS News (TVBS新聞台)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVBSNEWS01/live
 #EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="General",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)

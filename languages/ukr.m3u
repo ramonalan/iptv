@@ -19,10 +19,10 @@ https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="MostVideoTV.ua" tvg-logo="https://i.imgur.com/2dNiWIe.png" group-title="Undefined",MostVideo.TV (720p) [Not 24/7]
 http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 tvg-id="Renome.ua" tvg-logo="https://i.imgur.com/Uy9gD3l.jpg" group-title="Undefined",Renome (576p)
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-id="Skrypinua.ua" tvg-logo="https://i.imgur.com/XtG3rfj.png" group-title="Undefined",Skrypin.ua (1080p) [Not 24/7]
 https://open-cdn.lanet.tv/play/skrypin.m3u8
-#EXTINF:-1 tvg-id="Z.ua" tvg-logo="https://i.imgur.com/f0nOjL8.png" group-title="Undefined",Z (Запорожье) (1080p)
-https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 tvg-id="VTVPlus.ua" tvg-logo="https://i.imgur.com/PlxwnkZ.png" group-title="Undefined",ВТВ Плюс (Херсон) (576p)
 http://193.107.128.8:8552/play/a007
 #EXTINF:-1 tvg-id="DonbassOnline.ua" tvg-logo="https://www.lyngsat.com/logo/tv/dd/donbass-online-ua.png" group-title="Undefined",Донбас Online (1080p) [Not 24/7]
@@ -46,6 +46,9 @@ http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstBusiness.ua" tvg-logo="https://i.imgur.com/ctyLNlE.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",Первый Деловой (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 http://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua.m3u8
+#EXTINF:-1 tvg-id="PravdaTUT.ua" tvg-logo="https://i.imgur.com/mdsqwpi.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ПравдаТУТ (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
 #EXTINF:-1 tvg-id="STB.ua" tvg-logo="https://i.imgur.com/Av0pftd.png" group-title="Undefined",СТБ
 http://188.35.9.11:11021/j
 #EXTINF:-1 tvg-id="TVA.ua" tvg-logo="https://i.imgur.com/qwivoGV.png" group-title="Undefined",ТВА (Чернiвцi) (576p)
