@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/mo.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/mo.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/us.xml"
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
@@ -7,12 +7,18 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="BoomerangSoutheastAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Boomerang South East Asia (Vietnamese dub) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/AvYpKxL.png" group-title="News",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/AvYpKxL.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV-1综合 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title="Business",CCTV-2财经 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="Entertainment",CCTV-3综艺 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/cfvjieR.png" group-title="General",CCTV-4 Asia (576p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/512px-CCTV-5%2B_Logo.png" group-title="Undefined",CCTV-5+体育赛事 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Sports",CCTV-5体育 (1080p)
@@ -39,12 +45,6 @@ http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-logo="https://i.imgur.com/02doIRx.png" group-title="Lifestyle",CCTV-女性时尚 (576p)
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/AvYpKxL.png" group-title="News",CCTV+ 1 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/AvYpKxL.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies",Celestial Movies (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-id="CETV1.cn" tvg-logo="https://i.imgur.com/AQqXUIe.png" group-title="Undefined",CETV1 (576p)
 http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1
 #EXTINF:-1 tvg-id="CETV2.cn" tvg-logo="https://i.imgur.com/mhgsvh0.png" group-title="Undefined",CETV2 (576p)
@@ -80,13 +80,13 @@ http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&ts
 #EXTINF:-1 tvg-id="CTVNewsChannel.tw" tvg-logo="https://i.imgur.com/OMuG8u9.png" group-title="News",CTV News Channel (中视新闻台)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/twctvnews/live
 #EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi1 (大愛1) (720p)
-http://50.7.220.74:8278/daai_twn/playlist.m3u8?ct=19225&tid=MF5F4357730143577301&tsum=10c092424b1c12259444b68ad663c9eb
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="DragonTVInternational.cn" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png" group-title="Undefined",Dragon TV International (360p)
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",EBC Financial News (東森財經新聞台) (720p)
+http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
 #EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-foreign-movie-tw.png" group-title="Movies",EBC Foreign Movie (東森洋片台) (720p)
 http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f
 #EXTINF:-1 tvg-id="EBCMovie.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-movie-tw.png" group-title="Movies",EBC Movie (東森電影台) (720p)
@@ -133,8 +133,6 @@ https://brightstar-chinese.secure.footprint.net/egress/bhandler/brightstar/brigh
 http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/zNUoyOg.png" group-title="Undefined",Luxe TV (1080p)
 https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.imgur.com/MGuWJtn.png" group-title="Movies",My Cinema Asia (1080p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-id="NHKChinese.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0a/NHK_Huayu_Shijie_Logo.jpg/512px-NHK_Huayu_Shijie_Logo.jpg" group-title="News",NHK Chinese Vision (720p)
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEast.us" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntd-tv-us.png" group-title="Undefined",NTD TV East (New Tang Dynasty Television)
@@ -176,6 +174,8 @@ https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TechStorm.sg" tvg-logo="https://i.imgur.com/kvKMnJR.png" group-title="Undefined",Tech Storm (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies",Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-id="ToonmaxTV.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Kids",Toonmax TV (576p)
 http://210.210.155.37/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/qGZtVd0.png" group-title="Undefined",TTV (台视) (720p)
@@ -185,7 +185,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ttvne
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="General",Türkmenistan (112p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="Sports",Türkmenistan Sport (406p) [Not 24/7]
-https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="TVBRICSChinese.cn" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS Chinese (1080p) [Not 24/7]
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="Undefined",TVBS Asia (1080p)
@@ -210,6 +210,8 @@ https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/512px-ViuTVsix-logo.svg.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",ViuTVsix (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="XingKongInternational.cn" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_xing_kong_international.png" group-title="Undefined",Xing Kong International (360p)
+http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 tvg-id="DongxiangTV.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="Undefined",东乡电视台
 http://117.156.28.119/270000001111/1110000131/index.m3u8
 #EXTINF:-1 tvg-id="DragonTV.cn" tvg-logo="https://i.imgur.com/eTi8T0z.png" group-title="Undefined",东方卫视 (1080p)
@@ -257,13 +259,11 @@ http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 #EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="Undefined",广东卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1 tvg-id="GuangxiTV.cn" tvg-logo="https://i.imgur.com/7Uc792e.png" group-title="Undefined",广西卫视 (576p)
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=138&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/AlhpVBX.png" group-title="Undefined",延边卫视 (720p)
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-id="XuzhouEconomicLifeChannel.cn" tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="Business",徐州經濟生活 (1080p)
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/Thm11sN.jpg" group-title="Undefined",房山电视台 (576p)
-https://live.funhillrm.com/2/playlist.m3u8
 #EXTINF:-1 tvg-id="DunhuangTV.cn" tvg-logo="https://i.imgur.com/RpGKOQd.jpg" group-title="Undefined",敦煌电视台 (1080p)
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/SLuM875.png" group-title="Undefined",江苏卫视 (1080p)
