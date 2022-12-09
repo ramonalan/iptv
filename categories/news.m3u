@@ -152,7 +152,7 @@ https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/512px-Cable_Noticias_logo.svg.png" group-title="News",Cablenoticias (Bogotà | Cundinamarca) (1080p)
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-logo="https://i.imgur.com/Ga2uWoa.png" group-title="News",Canal Metropolitano de Noticia (720p)
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalB.pe" tvg-logo="https://i.imgur.com/3co0DCj.png" group-title="News",CanalB (720p) [Not 24/7]
@@ -265,8 +265,9 @@ https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8
 http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
 #EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/obtCusJ.jpg" group-title="News",EBC News (東森新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/512px-ECHOUROUK-NEWS.png" group-title="News",Echorouk News (240p) [Not 24/7]
-http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ECHOUROUK-NEWS.png/512px-ECHOUROUK-NEWS.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Echorouk News (480p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
 #EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-logo="https://i.imgur.com/5XjSZbN.png" group-title="News",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="EraNews.tw" tvg-logo="https://i.imgur.com/DyQaf51.png" group-title="News",Era News (年代新聞台) (720p)
@@ -523,8 +524,6 @@ https://live.palitranews.ge/hls/palitratv/index.m3u8
 http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="News",PBO Digital (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/TCqVO3f.png" group-title="News",Phoenix InfoNews Channel (鳳凰衛視資訊) (576p)
-http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 #EXTINF:-1 tvg-id="BlazeLive.us" tvg-logo="https://i.imgur.com/DEjSMD6.png" group-title="News",Pluto TV Blaze Live (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId=
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="News",Pluto TV CBSN Bay Area CA (720p) [Not 24/7]
@@ -712,8 +711,8 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
 #EXTINF:-1 tvg-id="WGALDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",WGAL-TV News Lancaster PA (720p) [Not 24/7]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",WION (1080p)
-https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",Wion (576p)
+http://210.210.155.37/uq2663/h/h91/index.m3u8
 #EXTINF:-1 tvg-id="WJCLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/WJCL_logo_2015.png" group-title="News",WJCL-TV News Savannah GA (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
 #EXTINF:-1 tvg-id="WLKYDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png" group-title="News",WLKY-TV News Louisville KY (720p)
@@ -762,5 +761,7 @@ http://live.wifizs.cn/xwzh/sd/live.m3u8
 http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
 #EXTINF:-1 tvg-id="JiuquanTVNewsComprehensiveChannel.cn" tvg-logo="https://i.imgur.com/arddM5M.jpg" group-title="News",酒泉新闻综合 (576p)
 http://117.156.28.119/270000001111/1110000001/index.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/TCqVO3f.png" group-title="News",鳳凰衛視資訊台HD (720p) [Not 24/7]
+http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-logo="https://i.imgur.com/XghFbD5.jpg" group-title="News",鹤壁新闻综合 (480p) [Not 24/7]
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8

@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fi.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/nz.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml"
-#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Religious",A2i Religion (720p) [Not 24/7]
-https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-logo="https://i.imgur.com/WhPlJzh.jpeg" group-title="Religious",ABNsat (720p)
 http://rtmp1.abnsat.com/hls/arabic.m3u8
 #EXTINF:-1 tvg-id="AghapyTV.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="Religious",Aghapy TV (1080p) [Not 24/7]
@@ -16,6 +14,8 @@ https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="Religious",Al Horreya TV (720p)
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="Religious",Al Maali TV (1080p)
+https://kali.vdopanel.com:3986/live/mbashalive.m3u8
 #EXTINF:-1 tvg-id="AlMaarefTV.kw" tvg-logo="https://almaaref.ch/wp-content/uploads/2021/10/Almaaref-Logo-Trial-2-300x198.png" group-title="Religious",Al Maaref (350p)
 https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="Religious",Al Quran Al Kareem TV (Mecca) (720p)
@@ -26,6 +26,8 @@ http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/playlist.m3u8
 https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-iman-tv-id.png" group-title="Religious",Al-Iman TV (720p) [Geo-blocked]
 https://tv.rodja.live/aliman/ngrp:HD_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJawadainTV.iq" tvg-logo="https://i.imgur.com/tLekUZU.png" group-title="Religious",Al-Jawadain TV (1080p) [Not 24/7]
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMajdHolyQuran.sa" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_majd_sa_holy_quran.png" group-title="Religious",Al-Majd Holy Quran (576p)
 https://streann-msl4.akamaized.net/hls/live/2043201/quranhls2/master.m3u8
 #EXTINF:-1 tvg-id="AlresalahTV.sa" tvg-logo="https://i.imgur.com/TYoWinU.png" group-title="Religious",Al-Resalah (1080p) [Geo-blocked]
@@ -58,8 +60,6 @@ https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Religious",Andes Televisión (Sicusani) (720p) [Not 24/7]
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ashiil TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch2.m3u8
@@ -133,8 +133,6 @@ https://live.ishiacloud.com/W67H7ddMzVHyXPrG.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZSw3jfFZo_8I9BHSMlT2Fg/live
 #EXTINF:-1 tvg-id="ElMaqar.us" tvg-logo="https://i.imgur.com/5KHp9ri.png" group-title="Religious",El Maqar (1080p)
 http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser
-#EXTINF:-1 tvg-id="ElOlamTV.gt" tvg-logo="https://i.imgur.com/NizUZlV.png" group-title="Religious",El Olam TV
-https://stream.oursnetworktv.com/latin/elOlam/playlist.m3u8
 #EXTINF:-1 tvg-id="ElbesharaGTV.us" tvg-logo="https://i.imgur.com/wup8DKR.jpg" group-title="Religious",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-logo="https://i.imgur.com/ugn0DWe.png" group-title="Religious",Eman Channel (576p)
@@ -159,6 +157,8 @@ https://biblescreen.faithlifecdn.com/biblescreen/faithlifetv/playlist.m3u8
 https://biblescreen.faithlifecdn.com/biblescreen/bibleScreen/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristmasMusic.us" tvg-logo="https://i.imgur.com/75Sq48R.png" group-title="Animation;Entertainment;Music;Religious",Faithlife TV Christmas Music (720p)
 https://vse2-na-us-ne24.secdn.net/logos-channel/live/christmas/playlist.m3u8
+#EXTINF:-1 tvg-id="FeViviente.gt" tvg-logo="https://i.imgur.com/bGhdE64.png" group-title="Religious",Fe Viviente
+https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
 #EXTINF:-1 tvg-id="Firstlight.nz" tvg-logo="https://i.imgur.com/2TKL6BX.png" group-title="Religious",Firstlight (576p)
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="Religious",Fonte TV (1080p) [Not 24/7]
@@ -279,6 +279,8 @@ https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religious",Monte Maria (720p)
 https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/CtPwUdL.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorTV.uk" tvg-logo="https://i.imgur.com/hSL6WK5.png" group-title="Religious",Noor TV (480p) [Not 24/7]
 http://45.76.186.114:8080/hls/noortv.m3u8
 #EXTINF:-1 tvg-id="NourAlKoddass.lb" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="Religious",Nour Al Koddas (406p) [Not 24/7]
@@ -401,8 +403,6 @@ https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 http://avrstream.com:1935/live/towheedtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TreceTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png" group-title="Religious",Trece TV (576p)
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="Religious",TV Aparecida (1080p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/4LG6sA0.png" group-title="Religious",TV Evangelizar (480p)
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGideoes.br" tvg-logo="https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png" group-title="Religious",TV Gideoes (1080p) [Not 24/7]
@@ -443,6 +443,8 @@ http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/pl
 http://45.161.188.242:88/vidatv/index.m3u8
 #EXTINF:-1 tvg-id="Vera24.ru" tvg-logo="https://i.imgur.com/GXYpLVS.png" group-title="Religious",Вера 24 (720p)
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Glas.ua" tvg-logo="https://i.imgur.com/l5FEP9w.png" group-title="Religious",Глас (576p)
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-logo="https://i.imgur.com/jm95KQU.png" group-title="Religious",Каббала ТВ (360p) [Not 24/7]
 https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="Music;Religious",Муз союз (576p)
