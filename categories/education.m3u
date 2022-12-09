@@ -1,8 +1,6 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/us.xml"
 #EXTINF:-1 tvg-id="AlyamanShabab.ye" tvg-logo="https://i.imgur.com/Vmbi6h4.png" group-title="Education",Alyaman Shabab (1080p) [Not 24/7]
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 tvg-id="KETSDT1.us" tvg-logo="https://i.imgur.com/LBOx4Y6.png" group-title="Education",Arkansas PBS [Geo-blocked]
-https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
 #EXTINF:-1 tvg-id="AWCTV.us" tvg-logo="https://i.imgur.com/e4Cf9fi.png" group-title="Education",AWC TV
 https://arizonawesterncol.secure.footprint.net/egress/bhandler/arizonawesterncol/streama/playlist.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us" tvg-logo="https://i.imgur.com/KiTtkBQ.png" group-title="Education",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
@@ -15,16 +13,14 @@ http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png" group-title="Education",Cloudflare TV (720p)
 https://cloudflare.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="COETVChannel19.us" tvg-logo="https://i.imgur.com/8K1ww0r.png" group-title="Education",COE-TV Channel 19
-https://vod.slocoe.org/live-4/live/CELL-296k-234p/CELL-296k-234p.m3u8
 #EXTINF:-1 tvg-id="CCPSEducationChannel.us" tvg-logo="https://i.imgur.com/vSPYbQ1.png" group-title="Education",Collier County Public Schools CCPS Education Channel (Naples FL) (480p)
 https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-logo="https://i.imgur.com/OMV5GdU.png" group-title="Education",CreaTV Classrooms Channel 28 (San Jose CA) (720p)
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
 #EXTINF:-1 tvg-id="DKN.us" tvg-logo="https://i.imgur.com/DIau0GB.png" group-title="Education",DC.gov DKN (Washington DC) (1080p)
 https://video.oct.dc.gov/out/u/DKN.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="Education",EBS E (400p)
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/qceaIf7.png" group-title="Education",EBS e (400p)
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/mgFRZFq.png" group-title="Education",EBS+ 2 (400p)
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="edTV.us" tvg-logo="https://i.imgur.com/T157XZH.png" group-title="Education",edTV
@@ -113,6 +109,8 @@ https://wbgudt.lls.pbs.org/out/v1/6e28e12e9db04b798dc82052cc6d3375/index.m3u8
 https://kusmdt.lls.pbs.org/out/v1/ad7a1ac654bc4231854568d83529f893/index.m3u8
 #EXTINF:-1 tvg-id="WRLKDT1.us" tvg-logo="https://i.imgur.com/idARDVv.png" group-title="Education",PBS Columbia SC (WRLK) (1080p)
 https://wrlkdt.lls.pbs.org/out/v1/ce2d1420a66b4c2a88d8a48ffecd908d/index.m3u8
+#EXTINF:-1 tvg-id="KETSDT1.us" tvg-logo="https://i.imgur.com/LBOx4Y6.png" group-title="Education",PBS Conway AR (KETS) (1080p)
+https://ketsdt.lls.pbs.org/out/v1/3eccbbb7a0544338b5ee13cf6d5fc1d8/index.m3u8
 #EXTINF:-1 tvg-id="WFSUDT3.us" tvg-logo="https://media-usba.mybtv.net/logos/22.2-Create.png" group-title="Education",PBS Create Tallahassee FL (WFSU-TV3) (480p)
 https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KERADT1.us" tvg-logo="https://i.ibb.co/2KqyGjL/PBS-logo.png" group-title="Education",PBS Dallas TX (KERA) (1080p)
@@ -163,6 +161,8 @@ https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="Education",Rede Minas (1080p) [Not 24/7]
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 tvg-id="COETVChannel19.us" tvg-logo="https://i.imgur.com/8K1ww0r.png" group-title="Education",San Luis Obispo County Office of Education COE-TV Channel 19 (1080p)
+https://vod.slocoe.org/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Education",Santa Cecilia TV (288p) [Not 24/7]
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-logo="https://i.imgur.com/hCFmKtI.png" group-title="Education",Santa Maria Community Television Education Channel (720p)
@@ -189,7 +189,5 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCy_G4ljF7HkUtSx_YMnf_Wg/live
 #EXTINF:-1 tvg-id="WPSTV.us" tvg-logo="https://i.imgur.com/zwzmwse.jpg" group-title="Education",WPS TV (360p)
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="Education;Lifestyle",Доктор (720p) [Not 24/7]
-http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/512/index.m3u8
-#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Education;Science",滁州市广播电视台 科教频道 (400p)
-http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Education;Science",滁州科教 (450p)
+http://183.167.193.45:1935/live/cztvkj/playlist.m3u8
