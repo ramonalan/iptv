@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/ni.xml"
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
@@ -19,10 +19,12 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 http://138.117.4.70:8075/channel6/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9.ni" tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="Undefined",Canal 9
 http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10.ni" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="Undefined",Canal 10
+http://138.117.4.70:8075/channel10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal 15
 http://138.117.4.70:8075/channel15/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://www.ilce.edu.mx/images/home/ci.png" group-title="Culture",Canal Iberoamericano
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CDNN23
@@ -41,6 +43,8 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
 http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://i.imgur.com/Y4jdAW7.png" group-title="General",CubaVision Internacional (480p) [Not 24/7]
+http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="DreamforceBtl.us" tvg-logo="https://dreamforcebtl.online/wp-content/uploads/2021/07/dreamforce-radio-logo-final-e1625783518759-332x191.png" group-title="General",Dreamforce Btl
 https://srv.panelcast.net/dreamforcebtl/dreamforcebtl/playlist.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
@@ -172,6 +176,8 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 http://138.117.4.70:8075/channel8/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png" group-title="News",teleSUR (1080p)
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="Canal2.ni" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_nicaragua-mediano.png" group-title="Undefined",Televicentro Canal 2 (480p)
+http://138.117.4.70:8075/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Business",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonEventosTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Eventos TV [Not 24/7]
@@ -206,8 +212,8 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="News",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",WION (1080p)
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="Entertainment",WTV Canal 20 (720p)

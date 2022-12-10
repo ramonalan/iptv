@@ -12,7 +12,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.
 #EXTINF:-1 tvg-id="ATNTelevision.co" tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" group-title="Undefined",ATN Televisión (Cúcuta | Norte de Santander) (640p)
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.co" tvg-logo="https://pbs.twimg.com/profile_images/1509201235135631367/9QW3KXt9_400x400.jpg" group-title="Undefined",ATV (Soacha | Cundinamarca) (360p) [Not 24/7]
-https://movil.ejeserver.com/live/verteve.m3u8
+https://video.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-logo="https://i.imgur.com/7YB94Hf.png" group-title="Religious",Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV (480p)
@@ -40,7 +40,7 @@ https://video13.virtualtronics.com/streamer/canal2.m3u8
 #EXTINF:-1 tvg-id="Canal2Alpavision.co" tvg-logo="https://i.imgur.com/tCQkHZe.png" group-title="General",Canal 2 Alpavisión (Neiva | Huila) (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalC.co" tvg-logo="https://i.imgur.com/gork4XV.png" group-title="Undefined",Canal C (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/canalccali/canalccali/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/Hlrdeds.png" group-title="General",Canal Capital (1080p)
@@ -77,6 +77,8 @@ http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
 http://209.91.213.10:8088/play/a014
 #EXTINF:-1 tvg-id="CTV.co" tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2022/02/cropped-logo-web.png" group-title="Undefined",CTV (Barranquilla | Atlántico) (1080p)
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://i.imgur.com/Y4jdAW7.png" group-title="General",CubaVision Internacional (480p) [Not 24/7]
+http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-id="DreamforceBtl.us" tvg-logo="https://dreamforcebtl.online/wp-content/uploads/2021/07/dreamforce-radio-logo-final-e1625783518759-332x191.png" group-title="General",Dreamforce Btl
 https://srv.panelcast.net/dreamforcebtl/dreamforcebtl/playlist.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
@@ -167,8 +169,6 @@ https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1 tvg-id="MovieFe.co" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Movies",MovieFe (360p) [Not 24/7]
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MulticanalTelevision.co" tvg-logo="https://i.imgur.com/xIN6nt8.png" group-title="Undefined",Multicanal Televisión (Santiago de Cali | Valle del Cauca) (720p)
-https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (YouTube) (1080p)
@@ -283,11 +283,11 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="Music",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="VeoTelevision.co" tvg-logo="https://i.imgur.com/TUhzG2O.png" group-title="Undefined",Veo Televisión (Guadalajara de Buga | Valle del Cauca)
-https://movil.ejeserver.com/live/veotv.m3u8
+https://video.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="News",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",WION (1080p)
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="Undefined",Zoom (Bogotà | Cundinamarca) (1080p)
