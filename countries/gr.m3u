@@ -1,10 +1,8 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/pt.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/pt.xml"
 #EXTINF:-1 tvg-id="4E.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="Undefined",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="34100TV.gr" tvg-logo="https://i.imgur.com/hQkukkv.png" group-title="Undefined",34100 TV (720p) [Geo-blocked]
 https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-logo="https://i.imgur.com/QjQxeAe.png" group-title="Undefined",Acheloos TV (576p) [Not 24/7]
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AigaioTV.gr" tvg-logo="https://i.imgur.com/7LfuDJi.png" group-title="Undefined",Aigaio TV (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/aigaiotv1/index.m3u8
@@ -66,8 +64,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="CNLEurope.kz" tvg-logo="https://cnl.tv/sites/all/themes/cnl/logo.png" group-title="Religious",CNL Европа (360p)
-http://hls-live-media.cdn01.net/default/stream_10429_1.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News",CNN International Germany (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CorfuTV.gr" tvg-logo="https://i.imgur.com/G7LHkTE.jpg" group-title="Undefined",Corfu TV (576p) [Not 24/7]
@@ -255,6 +251,8 @@ http://wpso.com:1936/hls/music1.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Undefined",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="TV100.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TV100_LOGO.jpg/512px-TV100_LOGO.jpg" group-title="Undefined",TV 100 (576p) [Not 24/7]
+https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 tvg-id="TVFilopoli.gr" tvg-logo="https://i.imgur.com/GdgekUL.png" group-title="Undefined",TV Filopoli (360p) [Not 24/7]
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="General",TVM Internacional (480p) [Not 24/7]

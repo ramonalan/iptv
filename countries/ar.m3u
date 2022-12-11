@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml"
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",5TV (Corrientes) (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Televisión (1080p)
@@ -50,6 +50,8 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/512px-C5N_2017_Alternate.svg.png" group-title="News",C5N (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x1.png" group-title="Undefined",C5 Santa Fé (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-c20-villa-maria_m.png" group-title="Undefined",C20 Canal 20 Villa María (720p)
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:-1 tvg-id="Cadena103.ar" tvg-logo="https://arcast.com.ar/cadena103/wp-content/uploads/2017/07/logofoot.png" group-title="Undefined",Cadena 103
@@ -96,8 +98,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canal9cha
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Undefined",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/s5zscCo.png" group-title="General",Canal 9 Resistencia (1080p)
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="Undefined",Canal 9 Río Cuarto
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/dQ86x7V.png" group-title="Undefined",Canal 10 Córdoba (1080p)
@@ -197,6 +197,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://209.91.213.10:8088/play/a014
 #EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-logo="https://i.imgur.com/7PBkvRp.png" group-title="Undefined",Corrientes TV (CTV) (720p)
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="CPEtv.ar" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Undefined",CPEtv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CrossingCanalIPTV.ar" tvg-logo="https://i.imgur.com/niGj91H.png" group-title="Entertainment",Crossing TV (Crossing Contenidos) (720p) [Not 24/7]
@@ -231,8 +233,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/Ros
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="Music",EnerGeek Radio (720p) [Not 24/7]
-https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="Animation",EnerGeek Retro (720p) [Not 24/7]
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="EJTV.cr" tvg-logo="https://i.imgur.com/UpvMgJq.png" group-title="Religious",Enlace Juvenil (EJTV) (288p) [Not 24/7]
@@ -319,8 +319,6 @@ https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 tvg-id="Mirador.ar" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png" group-title="Culture",Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-id="MisionesCuatro.ar" tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="General",Misiones Cuatro (480p)
-https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png" group-title="Undefined",MNB world
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-logo="https://i.imgur.com/aeDaRl4.png" group-title="Auto",Motorvision TV (720p)
@@ -386,6 +384,8 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (1080p)
 https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png" group-title="Undefined",Sicardi TV (720p)
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Movies",Sofy TV (720p)
@@ -430,8 +430,6 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
 #EXTINF:-1 tvg-id="TropicalMoonEventosTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Eventos TV [Not 24/7]
 https://srv.panelcast.net/eventostv/eventostv/playlist.m3u8
-#EXTINF:-1 tvg-id="TropicalMoonSalsaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Salsa TV
-https://srv.panelcast.net/musictv/musictv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonSomosCulturaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Somos Cultura TV
 https://srv.panelcast.net/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Urban TV

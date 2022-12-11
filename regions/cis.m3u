@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/am.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/kz.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/ru.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/am.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/ru.xml"
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
 #EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/VpBVorp.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
@@ -47,6 +47,8 @@ https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 http://clients.apsny.camera/tv_abaza_tv/index.m3u8
 #EXTINF:-1 tvg-id="AcasaTV.md" tvg-logo="https://i.imgur.com/k1bTMPT.png" group-title="Undefined",Acasa TV (576p)
 http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/fIdmD1d.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-logo="https://i.imgur.com/Jtfq9xA.png" group-title="Movies;Series",Amedia Hit (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="https://i.imgur.com/L3c9gNk.png" group-title="Movies;Series" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Amedia Premium (480p)
@@ -598,6 +600,9 @@ http://5.164.24.83/tula/1tv_low/index.m3u8
 https://sc.id-tv.kz/Pobeda.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru" tvg-logo="https://i.imgur.com/c6oPeGF.png" group-title="Undefined",Поехали! (576p) [Not 24/7]
 https://sc.id-tv.kz/poehali.m3u8
+#EXTINF:-1 tvg-id="PravdaTUT.ua" tvg-logo="https://i.imgur.com/mdsqwpi.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ПравдаТУТ (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
 #EXTINF:-1 tvg-id="Prima.ru" tvg-logo="https://i.imgur.com/2jpAfXt.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Прима (1080p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
@@ -677,8 +682,6 @@ https://sitv.ru/hls/stv.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="Undefined",Самара ГИС (1080p) [Not 24/7]
 http://45.67.57.9:8080/new/new/playlist.m3u8
-#EXTINF:-1 tvg-id="Saratov24.ru" tvg-logo="https://i.imgur.com/hggQnNT.png" group-title="Undefined",Саратов 24 (1080p) [Not 24/7]
-https://saratov24.tv/online/playlist.php
 #EXTINF:-1 tvg-id="Sarafan.ru" tvg-logo="https://i.imgur.com/AgX6qoz.png" group-title="Undefined",Сарафан (576p) [Not 24/7]
 http://195.26.83.96:7024/play/82
 #EXTINF:-1 tvg-id="Svarozhichi.ua" tvg-logo="https://www.lyngsat.com/logo/tv/ss/svarozhychy-ua.png" group-title="Undefined",Сварожичи (720p)
