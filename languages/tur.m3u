@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/us.xml"
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Undefined" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",24 TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
@@ -83,16 +83,13 @@ http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="https://i.imgur.com/fC3KuwT.jpg" group-title="Undefined",GSTV [Geo-blocked]
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GuneyTVTarsus.tr" tvg-logo="https://guneytv.com.tr/wp-content/uploads/2021/07/guney-tv-logo.png" group-title="Undefined",Guney TV Tarsus (270p)
-https://waw1.artiyerelmedya.net/guneytv/bant1/playlist.m3u8
+http://stream2.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr" tvg-logo="https://i.imgur.com/RhPIYKu.jpg" group-title="News",Haber61 TV (720p) [Not 24/7]
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/5f607969cfef0b1593f28f74" group-title="News",Haber Global (720p) [Not 24/7]
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 tvg-id="Haberturk.tr" tvg-logo="https://i.imgur.com/sUFh3Qr.png" group-title="News",Habertürk TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="Undefined" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Halk TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://halktv-live.ercdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="HunatTV.tr" tvg-logo="https://i.imgur.com/XCEZY1z.png" group-title="Undefined",Hunat TV (480p) [Not 24/7]
 https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
 #EXTINF:-1 tvg-id="IBBTV.tr" tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="Undefined",IBB TV (1080p)
@@ -116,7 +113,7 @@ https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal32.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png" group-title="Undefined",Kanal 32 (480p) [Not 24/7]
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal33.tr" tvg-logo="https://izmottvsc23.tvplus.com.tr:33207/CPS/images/universal/film/logo/202103/20210324/16/202103241155383682ej_op.png" group-title="Undefined",Kanal 33 (720p) [Not 24/7]
-http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+https://broadcasttr.com:446/kanal33/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal34.tr" tvg-logo="https://i.imgur.com/DCFhVni.png" group-title="Undefined",Kanal 34 (720p) [Not 24/7]
 http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal38.tr" tvg-logo="https://i.imgur.com/ZadiJE0.png" group-title="Undefined",Kanal 38 (540p) [Not 24/7]
@@ -238,6 +235,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Undefined",TV 8 (1080p) [Not 24/7]
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="TV38.tr" tvg-logo="https://i.imgur.com/KDBXLqn.png" group-title="Undefined",TV 38 (360p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 #EXTINF:-1 tvg-id="TV41.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_41_tr.png" group-title="Undefined",TV 41 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV52.tr" tvg-logo="https://i.imgur.com/jt92HbR.jpg" group-title="Undefined",TV 52 (720p) [Not 24/7]
