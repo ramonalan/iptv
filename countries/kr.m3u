@@ -15,6 +15,8 @@ http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Arirang Radio (720p)
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Arirang Radio (720p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV (480p)
 http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
 #EXTINF:-1 tvg-id="BadukTV.kr" tvg-logo="https://i.imgur.com/o7y72cu.png" group-title="Sports",Baduk TV (540p)
@@ -216,8 +218,6 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/26.php
 #EXTINF:-1 tvg-id="GwangjuMBCTV.kr" tvg-logo="https://i.imgur.com/nsAURM4.png" group-title="Undefined",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCGyeongnamChangwonTV.kr" tvg-logo="https://i.imgur.com/Ronb1JP.png" group-title="Undefined",MBC Gyeongnam (경상 MBC) (1080p) [Not 24/7]
-https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JejuMBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A0%9C%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png/512px-%EC%A0%9C%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png" group-title="Undefined",MBC Jeju (제주 MBC) (352p) [Not 24/7]
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="MokpoMBCTV.kr" tvg-logo="https://i.imgur.com/pkFKjFo.png" group-title="Undefined",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
@@ -256,6 +256,8 @@ https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 #EXTINF:-1 tvg-id="OBSGyeonginTV.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS Gyeongin TV (540p)
 http://mytv.dothome.co.kr/ch/catv/281.php
+#EXTINF:-1 tvg-id="OLife.kr" tvg-logo="https://i.imgur.com/a4YnnwN.png" group-title="Lifestyle",OLIFE (540p)
+http://mytv.dothome.co.kr/ch/catv/254.php
 #EXTINF:-1 tvg-id="Pinkfong.kr" tvg-logo="https://i.imgur.com/gOhRjQE.png" group-title="Kids",Pinkfong (540p)
 http://mytv.dothome.co.kr/ch/catv/263.php
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
@@ -264,8 +266,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/rli3c7T.png" group-title="Documentary",RT Documentary Russian (1080p)
-https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/rli3c7T.png" group-title="Documentary",RT Documentary Russian (1080p) [Not 24/7]
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
