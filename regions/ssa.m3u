@@ -1,6 +1,10 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bf.xml,https://iptv-org.github.io/epg/guides/bj.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ga.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/sl.xml,https://iptv-org.github.io/epg/guides/sn.xml,https://iptv-org.github.io/epg/guides/td.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bf.xml,https://iptv-org.github.io/epg/guides/bj.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ga.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/sl.xml,https://iptv-org.github.io/epg/guides/sn.xml"
 #EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/3mbeewx.png" group-title="Undefined",2STV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb
+#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Music",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Religious",A2i Religion (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",A2i TV (1080p) [Not 24/7]
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AdvocateBroadcastingNetwork.ng" tvg-logo="https://www.lyngsat.com/logo/tv/aa/advocate-broadcasting-network-ng.png" group-title="Undefined",ABN Advocate Broadcasting Network (720p)
@@ -83,8 +87,12 @@ https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NTVKenyaOnline/live
 #EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="Undefined",NTV Afrique (1080p) [Not 24/7]
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" group-title="Music",Play TV (720p) [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ResurrectionTV.gh" tvg-logo="https://i.imgur.com/d4UOolK.jpg" group-title="Undefined",Resurrection TV [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCrP4bjy7YBaLuOqXL6mF7qQ/live
+#EXTINF:-1 tvg-id="RTB.bf" tvg-logo="https://i.imgur.com/mVoXFUK.png" group-title="Undefined",RTB (360p) [Not 24/7]
+https://edge.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8
 #EXTINF:-1 tvg-id="TeleDjibouti4.dj" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtd_dj_tele_djibouti_4.png" group-title="Undefined",RTD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RTDTELEDJIBOUTI/live
 #EXTINF:-1 tvg-id="RwandaTV.rw" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/745aa9a13c620e1d4533ea14fa0b5d6c" group-title="Undefined",RTV Rwanda (480p) [Not 24/7]
@@ -101,8 +109,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/startvtan
 https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
 #EXTINF:-1 tvg-id="TCSMTV.cv" tvg-logo="https://i.imgur.com/nLTfA6T.png" group-title="Undefined",TCSM (1080p)
 https://stream.internet.one/RadioCaboVerde/video.m3u8
-#EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/56566b7b5524647ff7b09ca6afed35d6" group-title="Undefined",Télé Tchad (1080p)
-https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Télévision de Mauritanie (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/mauritaniantv/live
 #EXTINF:-1 tvg-id="TPA1.ao" tvg-logo="https://i.imgur.com/XdiL4C4.png" group-title="General",TPA 1 (480p) [Not 24/7]
@@ -125,7 +131,11 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision4.cm" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Undefined",Vision 4 (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="WapTV.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WapTV_new4-4logo_xlrg.png" group-title="Undefined",Wap TV (720p)
+https://newproxy3.vidivu.tv/waptv/index.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="Undefined",Wazobia Max TV Abuja (720p)
 https://wazobia.live:8333/channel/wmaxabuja.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="Undefined",Wazobia Max TV Nigeria (720p)
 https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" group-title="Undefined",Wazobia Max TV Port Harcourt (720p)
+https://wazobia.live:8333/channel/wmaxph.m3u8
