@@ -33,8 +33,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/ald
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 tvg-id="AlIraqia.iq" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="General",Al Iraqia
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-id="AlIttihad.lb" tvg-logo="https://alittihad.tv/live/assets/images/logo_new.png" group-title="General",Al Ittihad (552p) [Not 24/7]
-http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG" group-title="General",Al Jadeed (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/aljadeedtv
 #EXTINF:-1 tvg-id="AlKhalijTV.sa" tvg-logo="https://i.imgur.com/Knd2lAQ.png" group-title="General",Al Khalij (720p) [Not 24/7]
@@ -57,6 +55,8 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-logo="https://content.osn.com/logo/channel/cropped/WAD.png" group-title="General",Al Wousta TV (1080p)
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/fIdmD1d.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -237,6 +237,8 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV-1综合 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/cfvjieR.png" group-title="General",CCTV-4 Asia (576p)
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 tvg-id="CerritosTV3.us" tvg-logo="https://i.imgur.com/5IKE8AB.png" group-title="General",Cerritos TV3 (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="General",Channel A
@@ -314,8 +316,8 @@ http://217.182.137.206/elhiwar.m3u8
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/El_Sharq_New_Logo.png/512px-El_Sharq_New_Logo.png" group-title="General",Elsharq TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KNETCD1.us" tvg-logo="https://i.imgur.com/tKgKBb8.png" group-title="General",EMT Media TV Los Angeles CA
-https://hwlive.streamingmediahosting.com/14135-live/0_lkq7fay8/index.m3u8
+#EXTINF:-1 tvg-id="KNETCD1.us" tvg-logo="https://i.imgur.com/tKgKBb8.png" group-title="General",EMT Media TV Los Angeles CA [Geo-blocked]
+https://mediaplatform.streamingmediahosting.com/p/14135/sp/1413500/playManifest/entryId/0_lkq7fay8/format/applehttp/protocol/https/uiConfId/6710347/a.m3u8
 #EXTINF:-1 tvg-id="ENTV.sa" tvg-logo="https://i.imgur.com/jtbDpFL.png" group-title="General",EN TV
 http://82.212.74.100:8000/live/8130.m3u8
 #EXTINF:-1 tvg-id="EPlusTV6.us" tvg-logo="https://i.imgur.com/dvVebvQ.png" group-title="General",EPlusTV 6
@@ -368,6 +370,8 @@ https://paneltv.rstreaminghd.net:3777/live/huachoperutvlive.m3u8
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/huntingtonbeach/G0088_005/playlist.m3u8
 #EXTINF:-1 tvg-id="CBFTDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/ICI_Grand_Montr%C3%A9al_logo.png/512px-ICI_Grand_Montr%C3%A9al_logo.png" group-title="General",Ici Radio-Canada Télé (1080p) [Geo-blocked]
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="General",Indosiar (480p) [Geo-blocked]
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-id="KJLADT16.us" tvg-logo="https://i.imgur.com/TKt6dbb.png" group-title="General",International Vietnamese Television IVTV Channel 57.16 (720p)
 https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8
 #EXTINF:-1 tvg-id="IonTV.uk" tvg-logo="https://i.imgur.com/fSg3txj.png" group-title="General",iON TV (576p)
@@ -482,8 +486,6 @@ http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
 #EXTINF:-1 tvg-id="TheMontereyChannel.us" tvg-logo="https://i.imgur.com/5QTcyNZ.png" group-title="General",Monterey Channel (Monterey CA) (720p)
 https://ampmedia.secure.footprint.net/egress/bhandler/ampmedia/streamc/manifest.m3u8
-#EXTINF:-1 tvg-id="MorroTV.do" tvg-logo="https://www.morrodigital.com/wp-content/uploads/2022/02/cropped-photo_2022-02-10_09-46-23.jpg" group-title="General",MorroTV
-https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
 #EXTINF:-1 tvg-id="MuganTV.az" tvg-logo="https://i.imgur.com/HMT5vZA.png" group-title="General",Muğan TV (1080p) [Not 24/7]
 http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8
 #EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-logo="https://i.imgur.com/PEFW4Vy.png" group-title="General",MusawaChannel (1080p) [Not 24/7]
@@ -522,6 +524,8 @@ https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorDubai.ae" tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="General",Noor Dubai (576p)
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NorteTV.ar" tvg-logo="https://i.imgur.com/DXi1v4f.png" group-title="General",Norte TV Canal 7 (360p)
+https://video.streamtvradio.com:8443/uv027/uv027/playlist.m3u8
 #EXTINF:-1 tvg-id="KNOVCD1.us" tvg-logo="https://i.imgur.com/LTjtXfQ.png" group-title="General",NOTV (720p)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="NowThis.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Now_This_Logo_White.svg/512px-Now_This_Logo_White.svg.png" group-title="General",Now This (720p)
@@ -546,8 +550,6 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
 https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF1.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/512px-ORF1_logo.svg.png" group-title="General",ORF 1 (720p) [Geo-blocked]
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="OrientalTV.pe" tvg-logo="https://i.imgur.com/CwUswNY.png" group-title="General",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV.lb" tvg-logo="https://i.imgur.com/5sZr5rw.png" group-title="General",OTV (720p) [Not 24/7]
 http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="OyLaoTV.vn" tvg-logo="https://i.imgur.com/Iif45mb.png" group-title="General",Oy Lao TV (720p) [Not 24/7]
@@ -574,8 +576,8 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 #EXTINF:-1 tvg-id="PeruMagico.pe" tvg-logo="https://i.imgur.com/ryvWvwu.png" group-title="General",Peru Magico (480p) [Not 24/7]
 http://38.131.11.9:1080/play/a0dh
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/cJQjMNB.png" group-title="General",Phoenix Chinese Channel (鳳凰衛視中文) (1080p)
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/cJQjMNB.png" group-title="General",Phoenix Chinese Channel (鳳凰衛視中文) (576p)
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="PiuraTV.pe" tvg-logo="https://i.imgur.com/oew9unJ.png" group-title="General",PiuraTV (720p) [Not 24/7]
 http://190.108.83.142:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/512px-Prima_TV_%28Rumaenien%29_Logo.svg.png" group-title="General",Prima TV (404p) [Not 24/7]
@@ -616,6 +618,8 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba_360p614k/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTLondrina.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Londrina (360p)
 https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTPortoAlegre.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Porto Alegre (360p)
+https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRioBranco.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Rio Branco (360p)
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco_360p614k/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTSalvador.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Salvador (360p)
@@ -680,8 +684,6 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJornalCaruaru.br" tvg-logo="https://i.imgur.com/IUDRW8l.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",SBT TV Jornal Caruaru (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="General",SCTV (480p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-id="SCVTV.us" tvg-logo="https://i.imgur.com/qliLqQb.png" group-title="General",SCVTV (Santa Clarita CA) (1080p)
 https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/512px-Se%C3%B1al_Colombia_logo.svg.png" group-title="General",Señal Colombia (1080p)
@@ -846,8 +848,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="UchuTV.pe" tvg-logo="https://i.imgur.com/tebr5wH.png" group-title="General",Uchu TV (Cusco) [Not 24/7]
 http://190.108.83.142:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="Unitel.pe" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",Unitel (Huancayo) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 #EXTINF:-1 tvg-id="VCAT.us" tvg-logo="https://i.imgur.com/VQzqqMx.png" group-title="General",Vallejo Community Access Television (V-CAT) (Vallejo CA) (480p)
 https://vallejo.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="VSCTV.us" tvg-logo="https://i.imgur.com/GmPJCr3.jpg" group-title="General",Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)
