@@ -23,8 +23,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
 #EXTINF:-1 tvg-id="BahrainInternational.bh" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="Undefined",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title="News",BeritaSatu World (720p) [Not 24/7]
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bloomberg TV US (1080p)
 https://bloomberg-bloomberg-5-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
@@ -43,6 +41,8 @@ https://icsbaldeastd.aldeasolutions.mx/EVLiveCan15ABR/mp4:12G27TMY/playlist.m3u8
 https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/canal22/
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal28.mx" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Undefined",Canal 28 (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
 #EXTINF:-1 tvg-id="Canal44.mx" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Undefined",Canal 44 Ciudad Juárez (720p) [Geo-blocked]
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal Catorce
@@ -87,14 +87,14 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="XHTRESTDT.mx" tvg-logo="https://i.imgur.com/nqmXCfd.png" group-title="General",El Heraldo de México (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/heraldodemexico
 #EXTINF:-1 tvg-id="EnerGeekAnimate.cl" tvg-logo="https://i.imgur.com/yq4K3KN.png" group-title="Animation;Entertainment",EnerGeek Animate (720p) [Not 24/7]
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/sFYhUs5.png" group-title="Animation",EnerGeek Retro (720p) [Not 24/7]
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF:-1 tvg-id="EJTV.cr" tvg-logo="https://i.imgur.com/UpvMgJq.png" group-title="Religious",Enlace Juvenil (EJTV) (288p) [Not 24/7]
+https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
@@ -147,8 +147,8 @@ https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/EiGdG9p.png" group-title="Science",Hiperconectados Televisión (720p)
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Undefined",Hipodromo de las Americas (360p) [Not 24/7]
-http://wms10.tecnoxia.com/soelvi/slv423/playlist.m3u8
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Undefined",Hipódromo de las Américas (480p) [Geo-blocked]
+http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png" group-title="News",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-id="ImagenMulticast.mx" tvg-logo="https://i.imgur.com/KDZ50eC.jpg" group-title="Undefined",Imagen Multicast (480p) [Not 24/7]
@@ -266,6 +266,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (1080p)
 https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Undefined",SET Televisión Canal 26.1 (720p) [Not 24/7]
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Movies",Sofy TV (720p)
@@ -310,8 +312,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC752DYv5vPlTSMrvEjfZXcw/live
 #EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-logo="https://i.imgur.com/fEtvxpz.jpg" group-title="Undefined",Televisa Piedras Negras (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA/live
-#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Undefined",Televisa Puebla
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw/live
 #EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-logo="https://i.imgur.com/47c1AIS.png" group-title="Undefined",Televisa Queretaro
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9QNz6VS3gGz55dzxAQtgtA/live
 #EXTINF:-1 tvg-id="TelevisaSanLuisPotosi.mx" tvg-logo="https://i.imgur.com/oxt91dr.jpg" group-title="Undefined",Televisa San Luis Potosí (720p) [Not 24/7]
@@ -324,6 +324,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
 #EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Business",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlaxcala_tv_mx.png" group-title="Undefined",Tlaxcala Televisión (360p) [Not 24/7]
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
 #EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-logo="https://i.imgur.com/kpffqTI.png" group-title="Undefined",Transmedia Televisión Morelia (614p) [Not 24/7]
 http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TRC Televisión (San Francisco de Campeche | Campeche)
@@ -370,7 +372,7 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="News",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",WION (1080p)
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
