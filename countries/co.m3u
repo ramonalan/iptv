@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml"
 #EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="Music",A Son de Salsa (720p) [Not 24/7]
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="AcuarioTelevision.co" tvg-logo="https://i.imgur.com/TmuR0KU.png" group-title="Undefined",Acuario Televisión (Rionegro | Antioquia)
@@ -55,6 +55,8 @@ http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/512px-Se%C3%B1al_Institucional_logo.svg.png" group-title="General",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPyC.co" tvg-logo="https://canalpyc.com/wp-content/uploads/2020/03/logo_blanco1-e1583948519322.png" group-title="Undefined",Canal PyC [Not 24/7]
+http://66.240.236.26:1935/canalpycvivo/canalpycvivo/canalpycvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalVIP.co" tvg-logo="https://www.canalvip.tv/images/logo/logo_canal_vip_con_alfa.png" group-title="Undefined",Canal VIP
 https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F0211/02267/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/P3ZFGx1.png" group-title="Undefined",Canal Visión Dorada (720p) [Not 24/7]
@@ -79,7 +81,7 @@ http://209.91.213.10:8088/play/a014
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
 #EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://i.imgur.com/Y4jdAW7.png" group-title="General",CubaVision Internacional (480p) [Not 24/7]
 http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="DreamforceBtl.us" tvg-logo="https://dreamforcebtl.online/wp-content/uploads/2021/07/dreamforce-radio-logo-final-e1625783518759-332x191.png" group-title="General",Dreamforce Btl
+#EXTINF:-1 tvg-id="DreamforceBtl.us" tvg-logo="https://i.imgur.com/6SsaKEh.png" group-title="General",Dreamforce Btl
 https://srv.panelcast.net/dreamforcebtl/dreamforcebtl/playlist.m3u8
 #EXTINF:-1 tvg-id="DUST.us" tvg-logo="https://i.imgur.com/FxYhME9.png" group-title="Movies",Dust (1080p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
@@ -141,8 +143,6 @@ https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/EiGdG9p.png" group-title="Science",Hiperconectados Televisión (720p)
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png" group-title="News",HispanTV (480p)
-https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-id="HuilaTV.co" tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO-300x161.png" group-title="Music",Huila TV
 https://plataformavideo.com:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
@@ -225,6 +225,8 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-logo="https://i.imgur.com/3G10KG4.jpg" group-title="Undefined",Tele Amiga (Bogotà | Cundinamarca) (480p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSanJacinto.co" tvg-logo="https://www.telesanjacinto.com/wp-content/uploads/2022/04/logo-3@4x.png" group-title="Undefined",Tele San Jacinto (San Jacinto | Bolivar)
+https://movil.ejeserver.com/live/telesanjacinto.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/512px-Teleantioquia_logo.svg.png" group-title="General",Teleantioquia (Medellín | Antioquia) (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
@@ -252,6 +254,8 @@ https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonEventosTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Eventos TV [Not 24/7]
 https://srv.panelcast.net/eventostv/eventostv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonSalsaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Salsa TV
+https://srv.panelcast.net/musictv/musictv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonSomosCulturaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Somos Cultura TV
 https://srv.panelcast.net/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonUrbanTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Urban TV
@@ -279,11 +283,11 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="Music",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="VeoTelevision.co" tvg-logo="https://i.imgur.com/TUhzG2O.png" group-title="Undefined",Veo Televisión (Guadalajara de Buga | Valle del Cauca)
-https://movil.ejeserver.com/live/veotv.m3u8
+https://video.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="News",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",WION (1080p)
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png" group-title="Undefined",Zoom (Bogotà | Cundinamarca) (1080p)
