@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/cy.xml"
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV (480p)
 http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
 #EXTINF:-1 tvg-id="BahrainInternational.bh" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="Undefined",Bahrain International (720p) [Not 24/7]
@@ -70,7 +70,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="Undefined",CCTV-11戏曲 (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="Undefined",CCTV-12社会与法制 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="News",CCTV-13新闻 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/512px-CCTV-15_Logo.png" group-title="Music",CCTV-15音乐 (720p)
@@ -443,6 +443,8 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",利川公共 (576p) [Geo-blocked]
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",利川新闻综合 (480p) [Not 24/7]
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",前郭综合 [Geo-blocked]
 http://stream2.jlntv.cn/qg/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",动作电影 (1080p)
@@ -475,6 +477,8 @@ http://222.178.181.121:12034/beibei01.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华亭电视台 (1080p)
 http://117.156.28.119/270000001111/1110000148/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",华数 (720p) [Not 24/7]
+http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京信息 (720p)
 http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",南京十八 (576p)
@@ -739,8 +743,8 @@ http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=11&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="GuangxiTV.cn" tvg-logo="https://i.imgur.com/7Uc792e.png" group-title="Undefined",广西卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/AlhpVBX.png" group-title="Undefined",康巴卫视 (720p) [Not 24/7]
-http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/AlhpVBX.png" group-title="Undefined",延边卫视 (576p)
+http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",延边新闻综合 [Geo-blocked]
 http://stream2.jlntv.cn/jlyb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",建安电视台 (1080p) [Not 24/7]
@@ -1145,6 +1149,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",继续教育 (576p)
 http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",罗山电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",置业 (576p)
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
 #EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/xB9mWqU.png" group-title="Undefined",美国中文电视 (406p) [Not 24/7]

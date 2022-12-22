@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/tw.xml"
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Asia Travel (720p)
 http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV (480p)
@@ -44,8 +44,6 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 #EXTINF:-1 tvg-id="CTVClassic.tw" tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv_tw_classic.png" group-title="Classic",CTV Classic (中視經典台) (720p)
 http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
-#EXTINF:-1 tvg-id="CTVNewsChannel.tw" tvg-logo="https://i.imgur.com/OMuG8u9.png" group-title="News",CTV News Channel (中视新闻台)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/twctvnews/live
 #EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="General",DaAi2 (大愛2) (720p)
@@ -64,12 +62,8 @@ http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c241633
 http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/obtCusJ.jpg" group-title="News",EBC News (東森新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="EBCVariety.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ebc-variety-tw.png" group-title="Undefined",EBC Variety (東森綜合台) (720p)
-http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",EBC Yoyo (東森幼幼台)
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",EBC Yoyo (東森幼幼台) (720p)
-http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 #EXTINF:-1 tvg-id="EraNews.tw" tvg-logo="https://i.imgur.com/DyQaf51.png" group-title="News",Era News (年代新聞台) (720p)
 http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
@@ -102,62 +96,10 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="GoodTV.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Good_tv_logo.png" group-title="Undefined",GOOD TV CH1 綜合台 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://www.lyngsat.com/logo/tv/gg/good_tv2.png" group-title="Undefined",GOOD TV CH2 真理台 (720p)
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH3 真情部落格 短版 (720p)
-https://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH7 禱告大軍 信息 (720p)
-https://live.streamingfast.net/osmflivech7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH9 愛+好醫生 短版 (720p)
 https://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH12 維他命施 (720p)
-https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH14 真情部落格 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH15 真情之夜 (720p)
-https://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH16 葉光明 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH17 大衛鮑森 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH18 國際講員 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH20 恩典時分 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH21 華語講員 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH24 劉三講古 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH27 空中聖經學院 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH28 現代詩歌 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH29 經典音樂河 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech29.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH31 福音佈道音樂會 (720p)
-https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH33 特會系列：研經培靈 (720p)
-https://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH45 卡通 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech45.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH47 牧者頻道 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech47.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH49 禱告頻道 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech49.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech50.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Great Wall Elite (720p)
 http://50.7.220.74:8278/chcfamily/playlist.m3u8?ct=18393&tid=ME7E3282776332827763&tsum=c098f25f9c140478d2a814b22a7ccbd3
 #EXTINF:-1 tvg-id="GTV1.tw" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gala_tv_tw_variety.png" group-title="Undefined",GTV1 (八大第1台) (720p)
@@ -168,8 +110,6 @@ http://50.7.220.74:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E473412464734124
 http://50.7.220.74:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",Gusto TV (1080p)
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="HollywoodMovieChannel.tw" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png" group-title="Movies",Hollywood (720p)
-http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?ct=19225&tid=MECE5611281156112811&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 #EXTINF:-1 tvg-id="IndigenousTV.tw" tvg-logo="https://i.imgur.com/RuAYuSM.png" group-title="Undefined",Indigenous TV (720p)
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
@@ -196,8 +136,6 @@ http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?ct=17874&tid=ma1f0b9808d50144
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PTS.tw" tvg-logo="https://i.imgur.com/heENeBz.png" group-title="Undefined",PTS (公视) (720p)
-http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/rli3c7T.png" group-title="Documentary",RT Documentary Russian (1080p) [Not 24/7]
@@ -211,8 +149,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 #EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set_tv_taiwan.png" group-title="Undefined",SET Taiwan (三立臺灣台) (720p)
 http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SET Variety (三立綜合台) (720p)
-http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Movies",Sofy TV (720p)
@@ -229,8 +165,8 @@ https://lbs-us1.suprememastertv.com/720p.m3u8
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TTV.tw" tvg-logo="https://i.imgur.com/qGZtVd0.png" group-title="Undefined",TTV (台视) (720p)
-http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/2XqmrM0.png" group-title="News",TTV News (台视新聞台)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ttvnewsview/live
 #EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="Undefined",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBSEntertainmentChannel.tw" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/512px-Tvbs-logo-42.png" group-title="Entertainment",TVBS Entertainment Channel (TVBS歡樂台) (720p)

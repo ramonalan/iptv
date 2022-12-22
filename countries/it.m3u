@@ -8,7 +8,7 @@ http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-logo="https://i.imgur.com/EDFMcdf.png" group-title="Undefined",Alma TV (576p)
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-logo="https://i.imgur.com/yt7JJrn.png" group-title="Undefined",Alto Adige TV (720p)
@@ -147,8 +147,6 @@ https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8
 https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="GoldTV.it" tvg-logo="https://i.imgur.com/wsWgVtH.png" group-title="Undefined",Gold TV (576p)
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldTVSat.it" tvg-logo="https://i.imgur.com/gQzNIg5.png" group-title="Undefined",Gold TV Sat (576p)
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",Gusto TV (1080p)
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Humanity Documentari
@@ -187,6 +185,8 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 tvg-id="LazioTV.it" tvg-logo="https://i.imgur.com/CaKRuRT.png" group-title="Undefined",Lazio TV (576p)
 http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8
+#EXTINF:-1 tvg-id="LiraTV.it" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" group-title="Undefined",Lira TV (720p) [Not 24/7]
+https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="MAVTVSelect.us" tvg-logo="https://i.imgur.com/O4bSCt1.png" group-title="Sports",MavTV Select (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/512px-Mediaset_Extra_logo.svg.png" group-title="Undefined",Mediaset Extra [Geo-blocked]
@@ -267,8 +267,8 @@ http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8
 http://stream.tvtap.net:8081/live/it-rai3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/512px-Rai_4_-_Logo_2016.svg.png" group-title="Undefined",Rai 4 (302p) [Geo-blocked]
 http://stream.tvtap.net:8081/live/it-rai4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (576p) [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (302p) [Geo-blocked]
+http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/512px-Rai_Gulp_-_Logo_2017.svg.png" group-title="Undefined",Rai Gulp (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/512px-Rai_Movie_-_Logo_2017.svg.png" group-title="Movies",Rai Movie (576p) [Geo-blocked]

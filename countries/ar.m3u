@@ -17,11 +17,13 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/oyEYlB6.png" group-title="Undefined",Aire de Santa Fe
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:-1 tvg-id="Am1020.ar" tvg-logo="https://i.imgur.com/nEVKVZK.png" group-title="Music",Am1020 (360p)
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC Latin America
 http://209.91.213.10:8088/play/a013
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Sports",América Sports (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -106,8 +108,6 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 tvg-id="Canal10TVRioNegro.ar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-tv-rio-negro-ar.png" group-title="Undefined",Canal 10 Rio Negro
 https://panel.dattalive.com/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10SanRafael.ar" tvg-logo="https://i.imgur.com/teoaBPx.png" group-title="Undefined",Canal 10 San Rafael (480p)
-https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Salta.ar" tvg-logo="https://i.imgur.com/znHTh8Z.png" group-title="General",Canal 10 Televisión Salteña (720p)
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
 #EXTINF:-1 tvg-id="Canal11delaCosta.ar" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Undefined",Canal 11 de la Costa (720p)
@@ -165,6 +165,8 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-logo="https://lh3.googleusercontent.com/-yP5Aq-HAz2g/YFuttja4QPI/AAAAAAABA4o/nUBjbSFEuFsk8Vqba5oVEQwfJzc_BV5IwCK8BGAsYHg/s512/2021-03-24.png" group-title="Undefined",Catamarca TV [Not 24/7]
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CeltaTV.ar" tvg-logo="https://www.celtatv.com.ar/images/logo.png" group-title="Undefined",Celta TV
+https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=14&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (576p)
@@ -235,8 +237,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="EJTV.cr" tvg-logo="https://i.imgur.com/UpvMgJq.png" group-title="Religious",Enlace Juvenil (EJTV) (288p) [Not 24/7]
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
-#EXTINF:-1 tvg-id="EPSTV.ar" tvg-logo="https://3.bp.blogspot.com/-qdX1xKfFHj8/VBZKR5VGAHI/AAAAAAAAzHQ/cm-kffchUkE/s1600/Canal5ePs.jpg" group-title="Undefined",EPS TV Canal 5 (720p)
-https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Sports",Esports Max [Not 24/7]
@@ -325,8 +325,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://i.imgur.com/296ICn5.png" group-title="General",NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NGFederal.ar" tvg-logo="https://i.imgur.com/cu2TMBB.png" group-title="Undefined",NG Federal (720p)
-http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NorteTV.ar" tvg-logo="https://i.imgur.com/DXi1v4f.png" group-title="General",Norte TV Canal 7 (360p)
@@ -376,8 +374,6 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (1080p)
 https://live.seo.tv.bo/live/3SEO.m3u8
-#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png" group-title="Undefined",Sicardi TV (720p)
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Movies",Sofy TV (720p)
@@ -418,8 +414,6 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tierramia-tv-ar.png" group-title="Undefined",Tierra Mía TV (720p)
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TIVTelevision.ar" tvg-logo="https://i.imgur.com/ycZQ1lJ.png" group-title="Undefined",TIV Televisión (480p)
-https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonEventosTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Eventos TV [Not 24/7]
 https://srv.panelcast.net/eventostv/eventostv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalMoonSomosCulturaTV.us" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Somos Cultura TV

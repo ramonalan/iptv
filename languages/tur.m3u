@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/us.xml"
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="Undefined" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",24 TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
@@ -24,6 +24,8 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://i.imgur.com/HwyLlTz.png" group-title="Undefined",BENGÜTÜRK TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
+#EXTINF:-1 tvg-id="BeratTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berat-tv-tr.png" group-title="Undefined",Berat TV (720p) [Not 24/7]
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 tvg-id="BesiktasWebTV.tr" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Undefined",Beşiktaş Web TV (360p)
 https://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Undefined",Beyaz TV (720p) [Not 24/7]
@@ -37,7 +39,7 @@ https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-logo="https://i.imgur.com/MCUjck8.png" group-title="Undefined",Bursa AS TV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BursaTV.tr" tvg-logo="https://i.imgur.com/z5ziKlX.png" group-title="Undefined",Bursa TV (720p) [Not 24/7]
-https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanTV.tr" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" group-title="Undefined",Can TV (720p)
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="CayTV.tr" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" group-title="Undefined",Cay TV (720p) [Not 24/7]
@@ -145,7 +147,7 @@ https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr" tvg-logo="https://i.imgur.com/mu7EJWq.png" group-title="Undefined",MaviKaradeniz (720p) [Geo-blocked]
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MercanTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mercan_tv_tr.png" group-title="Undefined",Mercan TV (720p) [Not 24/7]
-http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8
+https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Undefined",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" group-title="Undefined",Natural TV (720p) [Not 24/7]
@@ -191,8 +193,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.dailymotion.com/vide
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="SunRTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_rtv_tr.png" group-title="Undefined",Sun RTV (720p) [Not 24/7]
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="TempoTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tempo-tv-tr.png" group-title="Undefined",Tempo TV
-https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="https://i.imgur.com/zhCeooV.png" group-title="Undefined",TGRT Belgesel TV (576p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png" group-title="Undefined",TGRT EU (576p)
@@ -203,6 +203,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/ton_tv_tr.png" group-title="Undefined",Ton TV (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="ToprakTV.tr" tvg-logo="https://i.imgur.com/MeaU7Vz.png" group-title="Undefined",Toprak TV (720p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (720p) [Geo-blocked]
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/h9Q88CW.png" group-title="Undefined",TRT 2 [Geo-blocked]
