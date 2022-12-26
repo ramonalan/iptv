@@ -8,7 +8,7 @@ https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVNowYouKnow.us" tvg-logo="https://i.imgur.com/78K3L8J.png" group-title="Education",Bumblebee TV Now You Know
 https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
 #EXTINF:-1 tvg-id="BUTV10.us" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="Education",BUTV10 (Boston University) (1080p) [Not 24/7]
-http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+http://butv10-livestream.bu.edu/live/live.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="Education",CCTV-10科教 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="CloudflareTV.us" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png" group-title="Education",Cloudflare TV (720p)
@@ -33,8 +33,6 @@ https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
 http://66.240.236.25:1936/eduvision/eduvision/playlist.m3u8
 #EXTINF:-1 tvg-id="FairTVEducationChannel.us" tvg-logo="https://i.imgur.com/goDgZFo.png" group-title="Education",Fairfield FairTV Education Channel (Fairfield CT) (1080p)
 https://streams.helnix.com/autoHLS/900735315c2bc38b/900735315c2bc38b.m3u8
-#EXTINF:-1 tvg-id="FCTVEducationChannel14.us" tvg-logo="https://i.imgur.com/Ycc3HSU.png" group-title="Education",Falmouth Community Television Education Channel 14 (Falmouth MA) (720p)
-https://reflect-falmouth.cablecast.tv/live-18/live/live.m3u8
 #EXTINF:-1 tvg-id="CMAC2.us" tvg-logo="https://i.imgur.com/ToZzguz.png" group-title="Education",Fresno CMAC 2 Education Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
 #EXTINF:-1 tvg-id="HKTV.us" tvg-logo="https://i.imgur.com/I5vLdTy.png" group-title="Education",Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]
@@ -50,7 +48,7 @@ https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m
 #EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-logo="https://i.imgur.com/lTzoshf.png" group-title="Education",Leominster TV Educational (720p)
 http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LNKTVEducation.us" tvg-logo="https://i.imgur.com/dGgmOY0.png" group-title="Education",LNKTV Education (1080p)
-http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+http://80tv.lincoln.ne.gov/live/live.m3u8
 #EXTINF:-1 tvg-id="LongmontPublicMediaChannel14.us" tvg-logo="https://i.imgur.com/cbzrUM5.png" group-title="Education",Longmont Public Media Channel (Channel 14) (Longmont CO) (720p)
 https://ch8reflector.longmontpublicmedia.org/hls/14/ch14.m3u8
 #EXTINF:-1 tvg-id="LA36.us" tvg-logo="https://i.imgur.com/JxTzUEq.png" group-title="Education",Los Angeles Local Television Channel 36 (1080p)
@@ -172,11 +170,17 @@ https://templeuni.secure.footprint.net/egress/bhandler/templeuni/streama/manifes
 #EXTINF:-1 tvg-id="WOSUDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="Education;Lifestyle",The Ohio Channel (720p)
 https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
 #EXTINF:-1 tvg-id="TheSoutheasternChannel.us" tvg-logo="https://i.imgur.com/ymg17NH.png" group-title="Education",The Southeastern Channel (540p)
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+http://147.174.13.196/live/live.m3u8
+#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/512px-TV_Mackenzie_logo.svg.png" group-title="Education",TV Mackenzie (480p)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-logo="https://i.imgur.com/mg69hxH.png" group-title="Education",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFG.br" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="Education",TV UFG (720p) [Not 24/7]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Culture;Education",TVBE Joinville (720p)
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Culture;Education",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="UCTV.us" tvg-logo="https://i.imgur.com/ehMz9T5.png" group-title="Education",UCTV University of California (720p) [Not 24/7]
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-logo="https://i.imgur.com/GmA5uuk.png" group-title="Education",UniTV Porto Alegre (480p)
