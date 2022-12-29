@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bf.xml,https://iptv-org.github.io/epg/guides/bj.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/ci.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/et.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ga.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/sl.xml,https://iptv-org.github.io/epg/guides/sn.xml,https://iptv-org.github.io/epg/guides/td.xml,https://iptv-org.github.io/epg/guides/ug.xml,https://iptv-org.github.io/epg/guides/za.xml"
+#EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Undefined",2STV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb
 #EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Music",A2i Music (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Religious",A2i Religion (720p) [Not 24/7]
@@ -19,8 +21,6 @@ http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",AfricaNews English (720p)
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-logo="https://i.imgur.com/R4iKU6c.png" group-title="Undefined",Afrique Média [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/afriquemedia
 #EXTINF:-1 tvg-id="AkiliKids.ke" tvg-logo="https://i.imgur.com/xFm2co6.png" group-title="Kids",Akili Kids! (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7tfayd
 #EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="Undefined",Al Alamiya 2
@@ -85,8 +85,6 @@ https://cdn.mediavisionuk.com:9000/jubbaldntv/index.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/KamemeTv
 #EXTINF:-1 tvg-id="KC2.rw" tvg-logo="https://i.imgur.com/13N8UX5.jpg" group-title="Undefined",KC2 (720p) [Not 24/7]
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 tvg-id="LagosTelevision.ng" tvg-logo="https://i.imgur.com/rjLxSfx.png" group-title="Undefined",Lagos Television (360p) [Not 24/7]
-http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldPersia.ng" tvg-logo="https://www.lyngsat.com/logo/tv/ll/loveworld-persia-ng.png" group-title="Undefined",LoveWorld Persia (480p)
 https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldSat.za" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_world_sat_za.png" group-title="Undefined",LoveWorld Sat (1080p)
@@ -143,6 +141,8 @@ https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 https://atldc.bozztv.com/giniko-abr/giniko_somaliland/index.m3u8
 #EXTINF:-1 tvg-id="StarTV.tz" tvg-logo="https://i.imgur.com/20OLorL.png" group-title="Undefined",Star TV (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/startvtanzania
+#EXTINF:-1 tvg-id="SudanTV.sd" tvg-logo="https://i.imgur.com/ouF6sCH.png" group-title="Undefined",Sudan TV (720p)
+https://castor.streamthatvideo.co:8081/sudantv/index.m3u8
 #EXTINF:-1 tvg-id="TCSMTV.cv" tvg-logo="https://i.imgur.com/nLTfA6T.png" group-title="Undefined",TCSM (1080p)
 https://stream.internet.one/RadioCaboVerde/video.m3u8
 #EXTINF:-1 tvg-id="TeleTchad.td" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/56566b7b5524647ff7b09ca6afed35d6" group-title="Undefined",Télé Tchad (1080p)
