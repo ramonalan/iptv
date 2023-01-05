@@ -68,7 +68,7 @@ https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ebs.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
-https://euronews.alteox.app/hls/pt_stream.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:-1 tvg-id="FonteTV.br" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Religious",Fonte TV (1080p) [Not 24/7]
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/512px-Canal_Futura.png" group-title="Education",Futura (540p) [Not 24/7]
@@ -161,6 +161,10 @@ https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_360p614k/index.m3u8
 https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRioBranco.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Rio Branco (360p)
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="Undefined",Rede CNT Rio de Janiero (360p)
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
+#EXTINF:-1 tvg-id="RedeCNTSalvador.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Salvador (360p)
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_360p614k/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTSaoPaulo.br" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Sao Paulo (360p)
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_360p614k/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/7KVFCrQ.png" group-title="Undefined",Rede Família (720p) [Not 24/7]
@@ -191,8 +195,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="General",Rede UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Religious",Rede Vida (720p) [Not 24/7]
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="General",RedeTV! Tocantins (720p) [Not 24/7]
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Classic",Retrô Cartoon (480p) [Not 24/7]
@@ -231,13 +233,13 @@ https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u
 #EXTINF:-1 tvg-id="TVJornaldoNordeste.br" tvg-logo="https://pa-str.srvsite.com/arquivos/5459/cabecalho-5459-20200226161907.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",SBT TV Jornal Recife (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_sesctv_m.png" group-title="Undefined",SESC TV (1080p)
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="Undefined",SESC TV (1080p)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Undefined",SIC (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="Undefined",SIC (1080p) [Geo-blocked]
 https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/SN_300x130-escuro.png" group-title="News",SIC Noticias [Geo-blocked]
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/j6447jk.png" group-title="News",SIC Noticias [Geo-blocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/E0IG98f.png" group-title="Undefined",SIC TV
+#EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Undefined",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",Sobrenatural TV (1080p)
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
@@ -401,6 +403,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Entertainment",TV Viçosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="Undefined",TV Vila Real
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Culture;Education",TVBE Joinville (720p)
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="Undefined",TVE Bahia (720p) [Not 24/7]

@@ -3,8 +3,6 @@
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="34100TV.gr" tvg-logo="https://i.imgur.com/hQkukkv.png" group-title="Undefined",34100 TV (720p) [Geo-blocked]
 https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-logo="https://i.imgur.com/5SVMxcu.png" group-title="Undefined",Acheloos TV (576p) [Not 24/7]
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AigaioTV.gr" tvg-logo="https://i.imgur.com/7LfuDJi.png" group-title="Undefined",Aigaio TV (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/aigaiotv1/index.m3u8
@@ -51,6 +49,8 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-id="CanaliTV.gr" tvg-logo="https://i.imgur.com/bGIdE9N.png" group-title="Undefined",Canali TV (720p) [Geo-blocked]
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Center TV (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/centertv
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=14&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",CGTN Documentary (576p)
@@ -115,7 +115,7 @@ https://hls.youtb.workers.dev/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
-https://euronews.alteox.app/hls/pt_stream.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
 https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
@@ -231,15 +231,15 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="Undefined",Skai (720p)
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="SkaiBUP.gr" tvg-logo="https://i.imgur.com/xokA84y.png" group-title="Undefined",Skai BUP
+#EXTINF:-1 tvg-id="SkaiBUP.gr" tvg-logo="https://i.imgur.com/eYutU76.png" group-title="Undefined",Skai BUP
 http://78.83.87.222:9999/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:-1 tvg-id="SmileTV.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Smile_Tv_Greece_Logo.png/512px-Smile_Tv_Greece_Logo.png" group-title="Undefined",Smile TV (360p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SmileTV.gr" tvg-logo="https://i.imgur.com/IAb4Gbf.png" group-title="Undefined",Smile TV (360p) [Geo-blocked]
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Movies",Sofy TV (720p)
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannel.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Star_Channel_Greece_logo.svg/512px-Star_Channel_Greece_logo.svg.png" group-title="Undefined",Star (720p)
+#EXTINF:-1 tvg-id="StarChannel.gr" tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="Undefined",Star (720p)
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Star BUP
 http://78.83.87.222:9999/play/a017/index.m3u8

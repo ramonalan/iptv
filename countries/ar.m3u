@@ -56,6 +56,8 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cadena 103
 https://59d52c5a5ce5e.streamlock.net:4443/cadena103/cadena103/playlist.m3u8
+#EXTINF:-1 tvg-id="CalchaquiTV.ar" tvg-logo="https://i.imgur.com/5XkvytM.png" group-title="Undefined",Calchaquí TV (480p)
+https://video.streamtvradio.com:8443/uv068/uv068/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal2Salta.ar" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="Undefined",Canal 2 (Salta)
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 tvg-id="Canal2Sanagasta.ar" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Undefined",Canal 2 (Sanagasta)
@@ -90,6 +92,8 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://panel.dattalive.com/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8MardelPlata.ar" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="Undefined",Canal 8 Mar del Plata (720p)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Chabas.ar" tvg-logo="https://i.imgur.com/q12z3VA.jpg" group-title="Undefined",Canal 9 Chabás (576p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canal9chabas
 #EXTINF:-1 tvg-id="Canal9LaRioja.ar" tvg-logo="https://i.imgur.com/Sy7lBuk.png" group-title="General",Canal 9 La Rioja (720p)
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Undefined",Canal 9 Litoral
@@ -163,8 +167,6 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://i.imgur.com/GnY6dNT.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36",canalLUZ (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Undefined",Catamarca TV [Not 24/7]
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CeltaTV.ar" tvg-logo="https://www.celtatv.com.ar/images/logo.png" group-title="Undefined",Celta TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
@@ -235,8 +237,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="EJTV.cr" tvg-logo="https://i.imgur.com/UpvMgJq.png" group-title="Religious",Enlace Juvenil (EJTV) (288p) [Not 24/7]
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
-#EXTINF:-1 tvg-id="EPSTV.ar" tvg-logo="https://3.bp.blogspot.com/-qdX1xKfFHj8/VBZKR5VGAHI/AAAAAAAAzHQ/cm-kffchUkE/s1600/Canal5ePs.jpg" group-title="Undefined",EPS TV Canal 5 (720p)
-https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Sports",Esports Max [Not 24/7]
@@ -252,7 +252,7 @@ https://hls.youtb.workers.dev/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
-https://euronews.alteox.app/hls/pt_stream.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
 https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
@@ -378,9 +378,9 @@ http://media.neuquen.gov.ar/rtn/television/media.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV (360p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i2.paste.pics/84af50f518634dd561077d22d7f36989.png" group-title="Undefined",San Pedro TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="SanPedroTV.ar" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="Undefined",San Pedro TV (480p) [Not 24/7]
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
-#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://pbs.twimg.com/profile_images/1389261899234222083/FlHf9HZh_400x400.png" group-title="Undefined",Santa Fe Canal (720p)
+#EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-logo="https://i.imgur.com/C1mY5X4.png" group-title="Undefined",Santa Fe Canal (720p)
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Undefined",Sea Today (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
@@ -390,9 +390,9 @@ https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
 https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (1080p)
 https://live.seo.tv.bo/live/3SEO.m3u8
-#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png" group-title="Undefined",Sicardi TV (720p)
+#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Undefined",Sicardi TV (720p)
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Movies",Sofy TV (720p)
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
@@ -408,6 +408,8 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://cvisiontv.com/wp-content/uploads/2022/06/cropped-logo-c-vision.png" group-title="Undefined",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1 tvg-id="Telecreativa.ar" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Telecreativa
+https://panel.dattalive.com/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telediario_m.png" group-title="Undefined",Telediario TV
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 #EXTINF:-1 tvg-id="Telediez.ar" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Telediez

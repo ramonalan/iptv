@@ -84,7 +84,7 @@ https://hls.youtb.workers.dev/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
-https://euronews.alteox.app/hls/pt_stream.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
 https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
@@ -99,6 +99,8 @@ https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981966359&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 tvg-id="Hala.jo" tvg-logo="https://www.hala.jo/wp-content/uploads/2020/07/LOGO.png" group-title="Undefined",Hala (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/8525652/radiohalapresenter
+#EXTINF:-1 tvg-id="HalaControlStudio.jo" tvg-logo="https://www.hala.jo/wp-content/uploads/2020/07/LOGO.png" group-title="Undefined",Hala Control Studio (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/8525652/radiohalalive2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hayat FM (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/903523/events/5644831
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
@@ -107,6 +109,8 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 http://82.212.74.4:8000/live/2105.m3u8
 #EXTINF:-1 tvg-id="JawharaFM.jo" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="Music",Jawhara FM (720p) [Not 24/7]
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JeishFM.jo" tvg-logo="https://www.jeishfm.jo/site/wp-content/uploads/2017/03/jeishlogo-1.jpg" group-title="Undefined",Jeish FM (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/8525652/jeishfm
 #EXTINF:-1 tvg-id="JordanTV.jo" tvg-logo="https://i.imgur.com/0XozB5N.png" group-title="General",Jordan Satellite Channel (1080p)
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="JordanSport.jo" tvg-logo="https://i.imgur.com/2EmrZPQ.png" group-title="Sports",Jordan Sport (1080p) [Geo-blocked]
@@ -159,12 +163,8 @@ https://hls.pmchd.live/hls/stream.m3u8
 http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PTVWorld.pk" tvg-logo="https://i.imgur.com/eeDFRgN.png" group-title="Undefined",PTV World (480p)
 https://hls.youtb.workers.dev/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
-#EXTINF:-1 tvg-id="RadioFannJordanCityView.jo" tvg-logo="https://i.imgur.com/kyUtYM4.png" group-title="Undefined",Radio Fann Jordan: City View (180p) [Not 24/7]
-http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioFannJordanControlStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="Undefined",Radio Fann Jordan: Control Studio (220p) [Not 24/7]
 http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="Undefined",Radio Fann Jordan: Studio (180p) [Not 24/7]
-http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="Undefined",Radio Yaqeen Jordan: City View (180p) [Not 24/7]
 http://188.247.86.66/MixFM/CityView1/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioYaqeenJordanControlStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s199080/images/logod.png" group-title="Undefined",Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]
@@ -194,9 +194,9 @@ https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SEAToday.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Undefined",Sea Today (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News",Sky News Arabia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sky_News_Arabia_logo.png/512px-Sky_News_Arabia_logo.png" group-title="News",Sky News Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
