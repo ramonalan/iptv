@@ -27,6 +27,8 @@ https://cdn5.streamgato.us:3371/live/canal56live.m3u8
 https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
 #EXTINF:-1 tvg-id="CaribbeanTravelingNetwork.do" tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="Travel",Caribbean Traveling Network (486p)
 https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+#EXTINF:-1 tvg-id="Carivision.do" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="Undefined",Carivision (1080p)
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCTV8.bb" tvg-logo="https://i.imgur.com/WsD83lq.png" group-title="Undefined",CBC TV8 (1080p) [Not 24/7]
@@ -95,8 +97,6 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://streannlivecariflix.cachefly.net/cariflix12/cariflix12/playlist.m3u8
 #EXTINF:-1 tvg-id="IslandLuckTV.bs" tvg-logo="https://www.islandluck.com/images/logo.png" group-title="Entertainment",Island Luck TV (720p)
 https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KajouTV.ht" tvg-logo="https://i.imgur.com/2XzghdT.png" group-title="Undefined",Kajou TV (480p) [Not 24/7]
-https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="Undefined",La Caleta TV
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LAMIATV.do" tvg-logo="https://i.imgur.com/XIwTM1h.png" group-title="Music",LA MIA TV (720p) [Not 24/7]
@@ -125,8 +125,6 @@ https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
 http://190.2.155.162:8080/mtvfrance/mpegts
 #EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Portugal (576p)
 http://176.79.76.155:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="Mun2TV.do" tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="Music",Mun2TV (720p)
-https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
 #EXTINF:-1 tvg-id="Musavision.do" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="Undefined",Musavisión
 https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8
 #EXTINF:-1 tvg-id="NaranjaTV.do" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="Undefined",Naranja TV
@@ -177,64 +175,68 @@ https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3
 http://cdn.tvmatic.net/sport.m3u8
 #EXTINF:-1 tvg-id="SuMundoTV.do" tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="Undefined",Su Mundo TV
 https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
-#EXTINF:-1 tvg-id="SuperCanal.do" tvg-logo="https://i.imgur.com/Bju9a0r.png" group-title="Undefined",Super Canal 33 (480p)
+#EXTINF:-1 tvg-id="SuperCanal.do" tvg-logo="https://i.imgur.com/AZBamNi.png" group-title="Undefined",Super Canal 33 (480p)
 http://190.122.96.186:8888/http/005
 #EXTINF:-1 tvg-id="SuperTV55.do" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="Undefined",Super TV 55 (Santiago) (720p) [Not 24/7]
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
-#EXTINF:-1 tvg-id="TDNMedios.do" tvg-logo="https://i.imgur.com/Two6D9N.png" group-title="Undefined",TDN Medios (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="TDNMedios.do" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="Undefined",TDN Medios (480p) [Not 24/7]
 http://108.175.14.125:1935/tdn/tdn/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAntillas.do" tvg-logo="https://i.imgur.com/i9tidMu.png" group-title="Undefined",Tele Antillas (480p)
 https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
-#EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-logo="https://i.imgur.com/G812GhC.png" group-title="General",Tele Haiti (1088p)
+#EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-logo="https://i.imgur.com/Hso9j58.png" group-title="General",Tele Haiti (1088p)
 http://66.175.238.147:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLouange.ht" tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="Undefined",Tele Louange (720p)
 https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
-#EXTINF:-1 tvg-id="Telealtura.do" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4wzM8mjzyB22L8mT2v_8luqaA8rI16cJ-Whr99nw6KI7wrpTBnzV_Orf_L2I2a_uUIN5pi2LDtj5JYV06BP6y6SPc6W7PxncExV4q4D743M7uYh9aeNaaj9uV1TG0iG_NvXBSu_h34Qt0HpgNmk07q3lvKutz75YFLdGojMOhAZVpPzNPwoqhDoHG=s270" group-title="General",Telealtura (720p)
+#EXTINF:-1 tvg-id="Telealtura.do" tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="General",Telealtura (720p)
 https://pacific.direcnode.com:3250/live/telealturalive.m3u8
-#EXTINF:-1 tvg-id="Telearuba.aw" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="General",Telearuba (720p)
+#EXTINF:-1 tvg-id="Telearuba.aw" tvg-logo="https://i.imgur.com/PY3P0aM.png" group-title="General",Telearuba (720p)
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBendicion.do" tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="Religious",TeleBendicion (720p) [Not 24/7]
 http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/ItOH7St.png" group-title="Undefined",Telecanal 12 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telecanal12.do" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Undefined",Telecanal 12 (720p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal28.do" tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="Undefined",Telecanal 28 (360p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Telecanal28.do" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="Undefined",Telecanal 28 (360p) [Geo-blocked]
 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana-mediano.png" group-title="Undefined",Telecentro [Not 24/7]
+#EXTINF:-1 tvg-id="Telecentro.do" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Undefined",Telecentro [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10501048/live
-#EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/xuRj54s.png" group-title="Undefined",TeleCibao (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Undefined",TeleCibao (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecontacto.do" tvg-logo="https://i.ytimg.com/vi/cdsVldEE6eg/hqdefault.jpg" group-title="Undefined",Telecontacto
 https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 #EXTINF:-1 tvg-id="TeleCuracao.cw" tvg-logo="https://i.imgur.com/9D9G4co.png" group-title="Undefined",TeleCuraçao (720p)
 https://streannlivecariflix.cachefly.net/cariflix1/cariflix1/playlist.m3u8
-#EXTINF:-1 tvg-id="Telefuturo.do" tvg-logo="https://i.imgur.com/xjyrdcB.png" group-title="Undefined",Telefuturo Canal 23 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telefuturo.do" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Undefined",Telefuturo Canal 23 (720p) [Not 24/7]
 http://ss8.domint.net:2118/tf_str/futu/master.m3u8
-#EXTINF:-1 tvg-id="Teleimpacto.do" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleimpacto-do.png" group-title="Undefined",Teleimpacto (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Teleimpacto.do" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="Undefined",Teleimpacto (720p) [Not 24/7]
 http://190.122.96.188:8888/http/013
-#EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png" group-title="Undefined",Telemax
+#EXTINF:-1 tvg-id="Telemax.do" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Undefined",Telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Undefined",Telemicro [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633780/player
-#EXTINF:-1 tvg-id="Telemilenio.do" tvg-logo="https://i.imgur.com/SEdKWqE.png" group-title="Undefined",Telemilenio (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telemilenio.do" tvg-logo="https://i.imgur.com/Y8ah4ym.png" group-title="Undefined",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord8.do" tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="Undefined",Telenord 8 (1080p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-#EXTINF:-1 tvg-id="Telenord10.do" tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="Undefined",Telenord Canal 10 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telenord12.do" tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="Undefined",Telenord 12 (720p) [Not 24/7]
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord10.do" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Undefined",Telenord Canal 10 (1080p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleRadioNorte.do" tvg-logo="https://i.imgur.com/8mO4N8S.png" group-title="Undefined",TeleRadioNorte
+#EXTINF:-1 tvg-id="TeleRadioNorte.do" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="Undefined",TeleRadioNorte
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesantodomingo.do" tvg-logo="https://www.telesantodomingo.com/imagen/logo-telesdgo.png" group-title="Undefined",Telesantodomingo
+#EXTINF:-1 tvg-id="Telesantodomingo.do" tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="Undefined",Telesantodomingo
 https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
-#EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telesistemas_11-mediano.png" group-title="Undefined",Telesistema (480p)
+#EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema (480p)
 https://tunzilla.com/http://51.81.93.239:8084/hls/tsistemas.m3u8
-#EXTINF:-1 tvg-id="Teletur.do" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/teletur.png" group-title="Travel",Teletur
+#EXTINF:-1 tvg-id="Teletur.do" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Travel",Teletur
 https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleunion.do" tvg-logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png" group-title="Undefined",Teleunion (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="Teleunion.do" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="Undefined",Teleunion (480p) [Not 24/7]
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleuniverso.do" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/29_republica_dominicana-mediano.png" group-title="Undefined",Teleuniverso
+#EXTINF:-1 tvg-id="Teleuniverso.do" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="Undefined",Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-id="Telever.do" tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" group-title="Undefined",Telever (1080p)
 https://megastreamm.com:3484/live/televerlive.m3u8
+#EXTINF:-1 tvg-id="Televida.do" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Undefined",Televida [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/televidaenvivo
 #EXTINF:-1 tvg-id="TelevisionA1.do" tvg-logo="https://www.televisiona1.com/images/logo.png" group-title="Undefined",Televisión A1 [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/1a1_live
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Télévision La Brise (Ch. 28 Les Cayes) [Not 24/7]
