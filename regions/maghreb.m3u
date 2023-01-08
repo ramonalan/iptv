@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/tn.xml"
 #EXTINF:-1 tvg-id="2M.ma" tvg-logo="https://i.imgur.com/AnKB6kC.png" group-title="Undefined",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
@@ -26,7 +26,7 @@ https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
 #EXTINF:-1 tvg-id="AlwasatTV.ly" tvg-logo="https://i.imgur.com/rwY4sih.png" group-title="Undefined",Alwasat TV (1080p) [Not 24/7]
-https://hiplayer.hibridcdn.net/p/alwasattv-live.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://alwasat.ly/live
 #EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="General",Arrabiaa (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
 #EXTINF:-1 tvg-id="Arriadia.mr" tvg-logo="https://i.imgur.com/naX5CTw.png" group-title="Undefined",Arriadia (360p)
@@ -46,8 +46,9 @@ https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-logo="https://i.imgur.com/TNtjYcw.png" group-title="News",Echorouk News (240p) [Not 24/7]
 http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
-#EXTINF:-1 tvg-id="ElDjazairiaOne.dz" tvg-logo="https://i.imgur.com/p6GAbvc.png" group-title="Undefined",El Djazairia One [Geo-blocked]
-https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="ElDjazairN1.dz" tvg-logo="https://i.imgur.com/xl8LoPp.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",El Djazair N1 [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 #EXTINF:-1 tvg-id="ElHayatTV.dz" tvg-logo="https://i.imgur.com/C0s1I8w.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",El Hayat TV [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
@@ -122,15 +123,15 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Télévision de Mauritanie (1080p)
 https://hls.youtb.workers.dev/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News",TRT Arabi (720p) [Not 24/7]
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://hls.youtb.workers.dev/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8
 #EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="Travel",Tunisie Immobilier TV (720p) [Not 24/7]
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7.dz" tvg-logo="https://i.imgur.com/40rR4hD.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",TV7 Elmaarifa [Geo-blocked]
+#EXTINF:-1 tvg-id="TV8.dz" tvg-logo="https://i.imgur.com/LlQcIWM.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",TV8 Edhakira [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
-#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="Music",Wanasah (1080p)
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/YaQcStz.png" group-title="Music",Wanasah (1080p)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 tvg-id="Watania1.tn" tvg-logo="https://tunisietv.com/wp-content/uploads/2015/05/El_Wataniya_1_Logo.png" group-title="General",Watania 1 (360p)
+#EXTINF:-1 tvg-id="Watania1.tn" tvg-logo="https://i.imgur.com/wMoxANe.png" group-title="General",Watania 1 (360p)
 http://live.watania1.tn:1935/live/watanya1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Watania2.tn" tvg-logo="https://tunisietv.com/wp-content/uploads/2015/05/Logo_Wataniya_2.png" group-title="General",Watania 2 (576p)
+#EXTINF:-1 tvg-id="Watania2.tn" tvg-logo="https://i.imgur.com/TL6Kjij.png" group-title="General",Watania 2 (576p)
 http://live.watania2.tn:1935/live/watanya2.stream/playlist.m3u8

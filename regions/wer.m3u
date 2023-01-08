@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/se.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/uk.xml"
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Undefined",1-2-3 TV (270p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="News",3/24
@@ -51,6 +51,8 @@ https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 https://hls.youtb.workers.dev/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8
 #EXTINF:-1 tvg-id="AllgauTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="Undefined",Allgäu TV
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlmagharibiaTV.uk" tvg-logo="https://i.imgur.com/XE6OWcb.png" group-title="Undefined",Almagharibia TV (1080p)
+https://hls.youtb.workers.dev/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="Undefined",Alpe d’Huez TV (720p) [Not 24/7]
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlpenlandTV.ch" tvg-logo="https://i.imgur.com/NPB6ciB.png" group-title="Undefined",Alpenland TV (720p)
@@ -423,6 +425,8 @@ https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 http://109.169.55.98/tsstreamer/ExtremePlusLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ExtremePlus
 http://176.227.215.109/tsstreamer/ExtremePlusLDAI_SD.ts
+#EXTINF:-1 tvg-id="FadakTV.uk" tvg-logo="https://i.imgur.com/MBZ4sSA.png" group-title="Religious",Fadak TV (1080p) [Not 24/7]
+https://hls.youtb.workers.dev/channel/UCySVZYvDeRd5HThx8s2yTzg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Failarmy International
 https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fashion
@@ -690,8 +694,6 @@ https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8
 #EXTINF:-1 tvg-id="MeerTV.nl" tvg-logo="https://i.imgur.com/p4TXVkE.png" group-title="Undefined",Meer TV (720p) [Not 24/7]
 https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
-#EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" group-title="Weather",Meteonews (1080p)
-https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/512px-Mezzo_Logo.svg.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Mezzo (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/index.m3u8
@@ -1231,6 +1233,8 @@ https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Documentaries Germany (720p)
 https://rakuten-documentaries-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSwitzerland.ch" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Switzerland (720p)
+https://rakuten-family-4-ch.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten TV Films Action (720p)
 https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Films Drames (720p)
@@ -1424,7 +1428,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="Undefined",Takbeer TV (1080p)
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Undefined",TalkTV (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+https://hls.youtb.workers.dev/channel/UCm0yTweyAa0PwEIp0l3N_gA.m3u8
 #EXTINF:-1 tvg-id="TastemadeGermany.de" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Deutschland (720p)
 https://tastemade-de-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeFrance.fr" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade France (1080p)
@@ -1537,7 +1541,7 @@ https://live2.telvi.de/hls/tvm_hd720.m3u8
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPitchoun.fr" tvg-logo="https://i.imgur.com/vUgramF.png" group-title="Undefined",TV Pitchoun (1080p)
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
-#EXTINF:-1 tvg-id="TVValkenburg.nl" tvg-logo="https://i.imgur.com/bpqkkX7.jpg" group-title="Undefined",TV Valkenburg (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVValkenburg.nl" tvg-logo="https://i.imgur.com/dovKWQl.png" group-title="Undefined",TV Valkenburg (720p) [Not 24/7]
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 #EXTINF:-1 tvg-id="TVA.de" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="Undefined",TVA (1080p) [Not 24/7]
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
@@ -1555,25 +1559,25 @@ https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 http://78.129.193.17/tsstreamer/TwistedMirrorLDAI_SD.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TwistedMirror
 http://95.154.194.78/tsstreamer/TwistedMirrorLDAI_SD.ts
-#EXTINF:-1 tvg-id="TZiK.fr" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="Music",TZiK [Not 24/7]
+#EXTINF:-1 tvg-id="TZiK.fr" tvg-logo="https://i.imgur.com/TAagRkn.png" group-title="Music",TZiK [Not 24/7]
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Unreel
 http://78.129.253.189/tsstreamer/UnreelLDAI_SD.ts
-#EXTINF:-1 tvg-id="UpperaBalkan.at" tvg-logo="https://i.imgur.com/4fAkcCd.jpg" group-title="Undefined",Uppera Balkan (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="UpperaBalkan.at" tvg-logo="https://i.imgur.com/eqcmi5G.png" group-title="Undefined",Uppera Balkan (720p) [Geo-blocked]
 http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
-#EXTINF:-1 tvg-id="UStad.nl" tvg-logo="https://i.imgur.com/eShhLX0.png" group-title="Undefined",UStad (1080p)
+#EXTINF:-1 tvg-id="UStad.nl" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Undefined",UStad (1080p)
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
-#EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/shRB6qf.png" group-title="Music",V2BEAT (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Music",V2BEAT (720p) [Not 24/7]
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="VechtdalTV.nl" tvg-logo="https://i.imgur.com/d4RINqr.png" group-title="Undefined",Vechtdal TV (480p)
+#EXTINF:-1 tvg-id="VechtdalTV.nl" tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="Undefined",Vechtdal TV (480p)
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MoselleTV.fr" tvg-logo="https://i.imgur.com/hrm5QnU.png" group-title="Undefined",viàMoselleTV (720p) [Not 24/7]
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Viaoccitanie.png/512px-Viaoccitanie.png" group-title="Undefined",viàOccitanie (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-logo="https://i.imgur.com/NzuKt1R.png" group-title="Undefined",viàOccitanie (540p) [Not 24/7]
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-logo="https://i.imgur.com/dziFtVB.png" group-title="Music",Volksmusik TV (1080p)
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Music",Volksmusik TV (1080p)
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="VosgesTV.fr" tvg-logo="https://www.vosgestelevision.tv/images/logo_vosgestv.png" group-title="Undefined",Vosges Télévision (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="VosgesTV.fr" tvg-logo="https://i.imgur.com/7y7ancc.png" group-title="Undefined",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 #EXTINF:-1 tvg-id="VoxAfrica.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png" group-title="Undefined",VoxAfrica
 http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
