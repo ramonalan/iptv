@@ -105,8 +105,8 @@ https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
-#EXTINF:-1 tvg-id="EsperiaTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="Undefined",Esperia TV (480p)
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="EsperiaTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png" group-title="Undefined",Esperia TV (480p) [Not 24/7]
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Undefined",ETB Basque (480p)
 https://hls.youtb.workers.dev/channel/UCOHCRQDAr9HC5d59XvziJFQ.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Music",Euro Indie Music Chart TV (360p)
@@ -251,12 +251,8 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-logo="https://i.imgur.com/0JzYwI4.png" group-title="Undefined",Radio Italia Trend
 https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-logo="https://i.imgur.com/UCMykou.png" group-title="Undefined",Radio Montecarlo (576p)
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Undefined",Radio Number One (720p) [Not 24/7]
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioPiterPanTV.it" tvg-logo="https://i.imgur.com/hbqVWV4.png" group-title="Music",Radio Piter Pan TV (720p) [Not 24/7]
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Radio Radicale TV (240p) [Not 24/7]
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRadioTV.it" tvg-logo="https://i.imgur.com/ZDHBfdI.png" group-title="Undefined",Radio Radio TV (720p)
@@ -269,14 +265,14 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 https://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Undefined",Rai 1 (302p) [Geo-blocked]
 http://stream.tvtap.net:8081/live/it-rai1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="Undefined",Rai 2 (302p) [Geo-blocked]
-http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png" group-title="Undefined",Rai 2 (576p) [Geo-blocked]
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="Undefined",Rai 3 (432p) [Geo-blocked]
 http://stream.tvtap.net:8081/live/it-rai3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://i.imgur.com/x6bP7A7.png" group-title="Undefined",Rai 4 (302p) [Geo-blocked]
 http://stream.tvtap.net:8081/live/it-rai4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (576p) [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (302p) [Geo-blocked]
+http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.imgur.com/Lts70bM.png" group-title="Undefined",Rai Gulp (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/512px-Rai_Movie_-_Logo_2017.svg.png" group-title="Movies",Rai Movie (576p) [Geo-blocked]
@@ -325,7 +321,7 @@ https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://i.imgur.com/TRQ0lLh.png" group-title="Documentary",RT Documentary Russian (1080p) [Not 24/7]
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="News",RT en Español (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="RTCTelecalabria.it" tvg-logo="https://i.imgur.com/NnFopuS.png" group-title="Undefined",RTC Telecalabria (720p) [Not 24/7]
 http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
@@ -386,7 +382,7 @@ http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleQuattro.it" tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png" group-title="Undefined",Tele Quattro (480p) [Not 24/7]
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleRadioSciacca.it" tvg-logo="https://i.imgur.com/U8nKIZ2.png" group-title="Undefined",Tele Radio Sciacca (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="TeleRadioSciacca.it" tvg-logo="https://i.imgur.com/uyNOVUW.png" group-title="Undefined",Tele Radio Sciacca (240p) [Not 24/7]
 http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TSNTV.it" tvg-logo="https://i.imgur.com/beTYXZT.png" group-title="News",Tele Sondrio News (480p) [Not 24/7]
 https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
@@ -406,8 +402,6 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Teleliberta (486p) [Not 24/7]
 https://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
-#EXTINF:-1 tvg-id="TeleMia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png" group-title="Undefined",TeleMia (576p)
-https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 #EXTINF:-1 tvg-id="Telemolise.it" tvg-logo="https://i.imgur.com/aTs88Es.png" group-title="Undefined",Telemolise (1080p)
 http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="teleMonteneve.it" tvg-logo="https://i.imgur.com/UAtEkvI.png" group-title="Undefined",teleMonteneve (480p) [Not 24/7]
@@ -488,8 +482,8 @@ http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
-https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",Wion (576p)
+http://210.210.155.37/uq2663/h/h91/index.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WP Minerva Pictures
