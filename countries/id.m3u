@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-afrique.com.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml,https://iptv-org.github.io/epg/guides/sr/mts.rs.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-afrique.com.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml,https://iptv-org.github.io/epg/guides/sr/mts.rs.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml"
 #EXTINF:-1 tvg-id="ADiTV.id" tvg-logo="https://i.imgur.com/b4IDBG7.png" group-title="Undefined",ADiTV (720p) [Not 24/7]
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religious" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Ahsan TV (360p) [Geo-blocked]
@@ -30,8 +30,6 @@ http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BaliTV.id" tvg-logo="https://i.imgur.com/uH1Szme.png" group-title="Undefined",Bali TV (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
-#EXTINF:-1 tvg-id="BMSTV.id" tvg-logo="https://i.imgur.com/pRyaqIi.png" group-title="Undefined",Banyumas TV (720p) [Geo-blocked]
-https://v2.siar.us/bmstv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="Undefined",Batam TV (720p) [Not 24/7]
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BatuTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="Undefined",Batu TV (576p) [Not 24/7]
@@ -85,8 +83,8 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="Channel4U.id" tvg-logo="https://seeklogo.com/images/C/channel-4u-maxstream-logo-E4A5CAF8C2-seeklogo.com.png" group-title="Undefined",Channel 4U (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p) [Geo-blocked]
-http://210.210.155.35/dr9445/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p)
+http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
@@ -134,11 +132,13 @@ http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Undefined",ETB Basque (480p)
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+https://hls.youtb.workers.dev/channel/UCOHCRQDAr9HC5d59XvziJFQ.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
+https://hls.youtb.workers.dev/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
@@ -172,6 +172,8 @@ http://50.7.220.74:8278/fyi_twn/playlist.m3u8?ct=17988&tid=18186902&tsum=7a21aba
 #EXTINF:-1 tvg-id="HijrahTV.id" tvg-logo="https://i.imgur.com/bVN4zj2.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Hijrah TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1 tvg-id="HopeChannelIndonesia.id" tvg-logo="https://i.imgur.com/vXFS7Fi.png" group-title="Religious",Hope Channel Indonesia [Not 24/7]
+https://hls.youtb.workers.dev/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="Undefined",Huma Betang TV (720p) [Not 24/7]
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IAmChannel.id" tvg-logo="https://i.imgur.com/Gg6OcGT.png" group-title="Undefined",I AM CHANNEL (576p) [Not 24/7]
@@ -200,8 +202,6 @@ https://v2.siar.us/jawapostv/live/chunks.m3u8
 https://h1.intechmedia.net/intech/ch29.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="Undefined",Jogja Istimewa TV (720p)
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="JogjaTV.id" tvg-logo="https://i.imgur.com/m9ezMUz.png" group-title="Undefined",Jogja TV (720p) [Not 24/7]
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="JPMTV.id" tvg-logo="https://i.imgur.com/FM6WN4S.png" group-title="Undefined",JPM TV (720p) [Not 24/7]
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Undefined",JTV (720p) [Not 24/7]
@@ -230,13 +230,12 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 #EXTINF:-1 tvg-id="MCC.id" tvg-logo="https://i.imgur.com/aACrLKU.png" group-title="Undefined",MCC (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/index.m3u8
-#EXTINF:-1 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Media Sunnah Aceh [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1 tvg-id="MediaSunnahAceh.id" tvg-logo="https://i.imgur.com/CIByKTP.png" group-title="Undefined",Media Sunnah Aceh [Not 24/7]
+https://hls.youtb.workers.dev/channel/UCem4zrffr93cp-o8cOPDhdQ.m3u8
 #EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="Culture",Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",Metro TV (480p) [Not 24/7]
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="News",Metro TV (1080p) [Not 24/7]
+https://hls.youtb.workers.dev/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 #EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="Undefined",MGI TV (720p) [Geo-blocked]
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id" tvg-logo="https://i.imgur.com/MYU7dsZ.png" group-title="Undefined",MGS TV (720p) [Not 24/7]
@@ -306,9 +305,8 @@ http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 https://h1.intechmedia.net/intech/ch16.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="Undefined",RAI Italia Asia (576p)
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 tvg-id="RasyaadTV.id" tvg-logo="https://i.imgur.com/DmFoA5Z.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Rasyaad TV (360p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:-1 tvg-id="RasyaadTV.id" tvg-logo="https://i.imgur.com/DmFoA5Z.png" group-title="Undefined",Rasyaad TV [Not 24/7]
+https://hls.youtb.workers.dev/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",RB TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch59.m3u8
@@ -356,6 +354,9 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
 #EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="https://i.imgur.com/4fqvwEk.png" group-title="Sports",STIRR MavTV (720p)
 https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="SunnahJalanPastiTV.id" tvg-logo="https://i.imgur.com/8Ls5rsy.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Sunnah Jalan Pasti TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-1 tvg-id="SurauTV.id" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Surau TV (360p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch3.m3u8

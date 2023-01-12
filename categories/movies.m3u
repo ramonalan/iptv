@@ -65,8 +65,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://sc.id-tv.kz/Cinema.m3u8
 #EXTINF:-1 tvg-id="CinemaSegreto.it" tvg-logo="https://i.imgur.com/CD0sMAa.png" group-title="Movies",Cinema Segreto
 https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p) [Geo-blocked]
-http://210.210.155.35/dr9445/h/h04/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p)
+http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png" group-title="Movies",Cinemax East (360p) [Geo-blocked]
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (540p)
@@ -403,8 +403,9 @@ http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 #EXTINF:-1 tvg-id="DomKino.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Movies",Дом кино (576p)
 http://50.7.92.90/Dom_kino/playlist.m3u8
-#EXTINF:-1 tvg-id="Dorama.uk" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Movies",Дорама (1080p) [Not 24/7]
-https://sc.id-tv.kz/dorama_hd.m3u8
+#EXTINF:-1 tvg-id="Dorama.uk" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Дорама (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 tvg-id="ElArna.kz" tvg-logo="https://i.imgur.com/XYsLe2Q.png" group-title="Movies",Ел Арна (576p) [Not 24/7]
 https://sc.id-tv.kz/ElArna.m3u8
 #EXTINF:-1 tvg-id="IndijskoeKino.ru" tvg-logo="https://i.imgur.com/7D8yud7.png" group-title="Movies",Индийское кино (576p) [Not 24/7]

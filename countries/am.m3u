@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.xml,https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml,https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-afrique.com.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml,https://iptv-org.github.io/epg/guides/ru/tv.mail.ru.xml,https://iptv-org.github.io/epg/guides/sr/mts.rs.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.xml,https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml,https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-afrique.com.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.xml,https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml,https://iptv-org.github.io/epg/guides/ru/tv.mail.ru.xml,https://iptv-org.github.io/epg/guides/sr/mts.rs.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml"
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",5-րդ ալիք (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s6/index.m3u8
@@ -98,11 +98,13 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Undefined",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="ETBBasque.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="Undefined",ETB Basque (480p)
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+https://hls.youtb.workers.dev/channel/UCOHCRQDAr9HC5d59XvziJFQ.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
+https://hls.youtb.workers.dev/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
@@ -125,6 +127,8 @@ https://freshtv.catcast.tv/content/33718/index.m3u8
 http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981966359&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/AZBod7u.png" group-title="Undefined",Galicia TV Europa (720p)
 http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="HorizonArmenian.am" tvg-logo="https://i.imgur.com/3mCMRTv.png" group-title="Undefined",Horizon Armenian (1080p)
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World (Vietnamese Subtitles) (720p)
