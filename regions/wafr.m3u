@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-afrique.com.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dstv.com.xml"
 #EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Undefined",2STV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb
 #EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/1UkxzGL.png" group-title="Music",A2i Music (720p) [Not 24/7]
@@ -31,6 +31,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/
 https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DoveTV.ng" tvg-logo="https://i.imgur.com/wOlMfCR.png" group-title="Undefined",Dove TV (576p)
 https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8
+#EXTINF:-1 tvg-id="Etele.bj" tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="Undefined",Etélé (360p) [Not 24/7]
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxyTV.ng" tvg-logo="https://i.imgur.com/BV0JuyX.png" group-title="Undefined",Galaxy TV (576p)
 https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
 #EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music",Ivoire Channel (720p)
@@ -43,8 +45,6 @@ https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_tr
 https://nci-live.secure2.footprint.net/nci/nci.isml/.m3u8
 #EXTINF:-1 tvg-id="NWInfo.tg" tvg-logo="https://i.imgur.com/t1uWctr.png" group-title="Undefined",New World TV (360p)
 https://hls.newworldtv.com/nw-info/video/live.m3u8
-#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-logo="https://i.imgur.com/qvCgI8N.png" group-title="News",News Central [Not 24/7]
-https://hls.youtb.workers.dev/channel/UCPLKy4Ypb4mfblbjJI8Aljw.m3u8
 #EXTINF:-1 tvg-id="NTAInternational.ng" tvg-logo="https://i.imgur.com/mN8j8CR.png" group-title="Undefined",NTA International (576p) [Not 24/7]
 https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/Lj4WvXZ.png" group-title="Undefined",NTV Afrique (1080p) [Not 24/7]
@@ -59,16 +59,12 @@ https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SenTV.sn" tvg-logo="https://i.imgur.com/1BLXnHB.png" group-title="Undefined",Sen TV (480p)
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-logo="https://i.imgur.com/9jcV9oG.png" group-title="News",Silverbird News 24 [Not 24/7]
-https://hls.youtb.workers.dev/channel/UC5WXsgDNwU1G9wC-_IS-XPw.m3u8
 #EXTINF:-1 tvg-id="SilverbirdTV.ng" tvg-logo="https://i.imgur.com/dcO8vB6.png" group-title="Undefined",Silverbird TV [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/silverbirdtv
 #EXTINF:-1 tvg-id="TCSMTV.cv" tvg-logo="https://i.imgur.com/4e1qmAP.png" group-title="Undefined",TCSM (1080p)
 https://stream.internet.one/RadioCaboVerde/video.m3u8
 #EXTINF:-1 tvg-id="TVC.ng" tvg-logo="https://i.imgur.com/ReV8R5S.png" group-title="Undefined",TVC (1080p)
 https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCNews.ng" tvg-logo="https://i.imgur.com/jaSq18B.png" group-title="News",TVC News
-https://hls.youtb.workers.dev/channel/UCgp4A6I8LCWrhUzn-5SbKvA.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVAbuja.ng" tvg-logo="https://i.imgur.com/XYMKPPT.png" group-title="Undefined",Wazobia Max TV Abuja (720p)
 https://wazobia.live:8333/channel/wmaxabuja.m3u8
 #EXTINF:-1 tvg-id="WazobiaMaxTVNigeria.ng" tvg-logo="https://i.imgur.com/IeioxBp.png" group-title="Undefined",Wazobia Max TV Nigeria (720p)

@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml,https://iptv-org.github.io/epg/guides/el/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/melita.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/fr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml,https://iptv-org.github.io/epg/guides/it/maxtv.hrvatskitelekom.hr.xml,https://iptv-org.github.io/epg/guides/it/superguidatv.it.xml,https://iptv-org.github.io/epg/guides/it/tivu.tv.xml,https://iptv-org.github.io/epg/guides/it/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.xml,https://iptv-org.github.io/epg/guides/tr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml,https://iptv-org.github.io/epg/guides/el/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/melita.com.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml,https://iptv-org.github.io/epg/guides/it/superguidatv.it.xml,https://iptv-org.github.io/epg/guides/it/tivu.tv.xml,https://iptv-org.github.io/epg/guides/it/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.xml,https://iptv-org.github.io/epg/guides/tr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml"
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="News",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="4E.gr" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="Undefined",4E (720p)
@@ -52,6 +52,8 @@ https://cloudvideo.servers10.com:8081/8108/index.m3u8
 https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AfyonTurkTV.tr" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="Undefined",Afyon Türk TV (720p)
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ahi TV Kirsehir (576p)
+http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AigaioTV.gr" tvg-logo="https://i.imgur.com/7LfuDJi.png" group-title="Undefined",Aigaio TV (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/aigaiotv1/index.m3u8
@@ -275,8 +277,6 @@ https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-id="DehaTV.tr" tvg-logo="https://i.imgur.com/Dlsm9XP.png" group-title="Undefined",Deha TV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Déjate de Historias TV (1080p)
-https://hls.youtb.workers.dev/channel/UChMCkc02GVSi89TrvhbRasA.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="Undefined",Deniz Postası TV (720p) [Not 24/7]
 http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dersim62TV.tr" tvg-logo="https://i.imgur.com/wFTl8aQ.png" group-title="Undefined",Dersim62 TV (720p)
@@ -295,6 +295,8 @@ http://5.255.90.184:2004/play/a006/index.m3u8
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="Undefined",Diyanet TV (720p)
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Durangaldeko Telebista (576p)
+https://live.yowi.tv/002c3bb235962b8f1b16/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",EDGEsport (1080p) [Not 24/7]
 https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EgeTurkTV.tr" tvg-logo="https://i.imgur.com/TLUKrMb.png" group-title="Undefined",Ege Türk TV (480p)
@@ -377,8 +379,6 @@ https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FionTV.es" tvg-logo="https://i.imgur.com/YhgOwHi.png" group-title="Undefined",Fion TV (720p)
 http://stream.fion.es:1936/live/smil:fion.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Flash TV (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/flashtvgr
 #EXTINF:-1 tvg-id="FoxGreece.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/512px-FOX_wordmark.svg.png" group-title="Undefined",Fox Greece (480p) [Not 24/7]
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Series",Fox Türkiye (720p)
@@ -443,10 +443,8 @@ https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Humanity Documentari
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="HunatTV.tr" tvg-logo="https://i.imgur.com/NrxHGnb.png" group-title="Undefined",Hunat TV (480p) [Not 24/7]
-https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
-#EXTINF:-1 tvg-id="IB3.es" tvg-logo="https://i.imgur.com/iUmWGUh.png" group-title="Undefined",IB3 (720p)
-https://hls.youtb.workers.dev/channel/UCff_CBVJDTHP4wOHPjP5BMg.m3u8
+#EXTINF:-1 tvg-id="HunatTV.tr" tvg-logo="https://i.imgur.com/NrxHGnb.png" group-title="Undefined",Hunat TV (480p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/hunattv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="IBBTV.tr" tvg-logo="https://i.imgur.com/aXxAz84.png" group-title="Undefined",IBB TV (1080p)
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",IberoAmerica TV (1080p)
@@ -517,8 +515,6 @@ http://51.15.2.151/hls/kanalavrupa.m3u8
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr" tvg-logo="https://i.imgur.com/3o8Rokp.png" group-title="Undefined",Kanal Firat (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalUrfa.tr" tvg-logo="https://i.imgur.com/EvgQmoT.png" group-title="Undefined",Kanal Urfa (576p) [Not 24/7]
-https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-logo="https://i.imgur.com/7RNjTno.png" group-title="Undefined",Kanal V (720p) [Not 24/7]
 http://yerelmedya.tv:1935/kanalv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalZ.tr" tvg-logo="https://i.imgur.com/Kr8960d.png" group-title="Undefined",Kanal Z (720p) [Geo-blocked]
@@ -585,8 +581,6 @@ https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playl
 https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="La8Zamora.es" tvg-logo="https://i.imgur.com/cJepz8T.png" group-title="Undefined",La 8 Zamora (720p)
 https://cdnlive.shooowit.net/la8zamoralive/smil:streamswitchingchannel.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LaFabricaTV.es" tvg-logo="https://i.imgur.com/6p0oPfq.png" group-title="Undefined",La Fábrica TV
-https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-logo="https://i.imgur.com/R4sqZQu.png" group-title="Undefined",La TR3 Marsala (720p)
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-logo="https://i.imgur.com/hythjEn.png" group-title="Undefined",La Urban TV (1080p) [Not 24/7]
@@ -825,8 +819,8 @@ http://stream.tvtap.net:8081/live/it-rai2.stream/playlist.m3u8
 http://stream.tvtap.net:8081/live/it-rai3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://i.imgur.com/x6bP7A7.png" group-title="Undefined",Rai 4 (302p) [Geo-blocked]
 http://stream.tvtap.net:8081/live/it-rai4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (576p) [Geo-blocked]
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/512px-Rai_5_-_Logo_2017.svg.png" group-title="Undefined",Rai 5 (302p) [Geo-blocked]
+http://stream.tvtap.net:8081/live/it-rai5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://i.imgur.com/Lts70bM.png" group-title="Undefined",Rai Gulp (576p)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/512px-Rai_Movie_-_Logo_2017.svg.png" group-title="Movies",Rai Movie (576p) [Geo-blocked]
@@ -965,8 +959,6 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 https://sic.live.impresa.pt/sic.m3u8
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/j6447jk.png" group-title="News",SIC Noticias [Geo-blocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://i.imgur.com/DXKx102.png" group-title="Undefined",Sigma (576p) [Not 24/7]
-https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="SinopYildizTV.tr" tvg-logo="https://i.imgur.com/CjgbQTk.png" group-title="Undefined",Sinop Yildiz TV (360p)
 https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr" tvg-logo="https://i.imgur.com/mrKRFnf.png" group-title="Undefined",Skai (720p)
@@ -1099,8 +1091,6 @@ https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
 https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Televisió Sant Cugat (1080p) [Not 24/7]
-https://hls.youtb.workers.dev/channel/UCoFs7RGrmWQkqU5KNNGvCjA.m3u8
 #EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="Undefined",Televisión Aranda
 https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr" tvg-logo="https://i.imgur.com/6w3ecR7.png" group-title="Undefined",Tempo TV
@@ -1197,8 +1187,6 @@ http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-id="TVBenavente.es" tvg-logo="https://i.imgur.com/5dSHBcZ.png" group-title="Undefined",TV Benavente
 https://cloud.streamingconnect.tv/hls/tvbenavente/tvbenavente.m3u8
-#EXTINF:-1 tvg-id="TVCanaria.es" tvg-logo="https://i.imgur.com/W07bLR4.png" group-title="Undefined",TV Canaria (720p) [Not 24/7]
-https://hls.youtb.workers.dev/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
 #EXTINF:-1 tvg-id="TVDen.tr" tvg-logo="https://i.imgur.com/Uhg95Ze.png" group-title="Undefined",TV Den (576p) [Not 24/7]
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVEm.tr" tvg-logo="https://i.imgur.com/kKdXoXx.png" group-title="Undefined",TV Em (486p)
@@ -1207,6 +1195,8 @@ http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="TVFilopoli.gr" tvg-logo="https://i.imgur.com/lmuw8ff.png" group-title="Undefined",TV Filopoli (360p) [Not 24/7]
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGirona.es" tvg-logo="https://i.imgur.com/yfiK1Vp.png" group-title="Undefined",TV Girona (720p)
+http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-id="TVHellin.es" tvg-logo="https://televisionhellin.com/wp-content/uploads/2021/08/logotipo-tvhellinonline.png" group-title="Undefined",TV Hellín (720p)
 https://hellin-hls-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMana1.pt" tvg-logo="https://i.imgur.com/6jNqpTP.png" group-title="Religious",TV Maná 1 (1080p)
@@ -1259,6 +1249,8 @@ https://musigal-crtvg.flumotion.com/playlist.m3u8
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="TVL.it" tvg-logo="https://i.imgur.com/2wkSHNI.png" group-title="Undefined",TVL (720p) [Not 24/7]
 https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleganes.es" tvg-logo="https://i.imgur.com/BXyplMX.png" group-title="Undefined",TVL Teleganés (720p)
+https://live.yowi.tv/f79437b2aa253f8e59f1/master.m3u8
 #EXTINF:-1 tvg-id="TVMCordoba.es" tvg-logo="https://i.imgur.com/jN5k8Ob.png" group-title="Undefined",TVM Córdoba (414p) [Not 24/7]
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNet.tr" tvg-logo="https://i.imgur.com/NTWLhuL.png" group-title="Undefined",TVnet

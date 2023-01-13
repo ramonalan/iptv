@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.xml,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/de/tvheute.at.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://iptv-org.github.io/epg/guides/sk/horizon.tv.xml,https://iptv-org.github.io/epg/guides/sv/tv24.se.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.xml,https://iptv-org.github.io/epg/guides/de/magentatv.at.xml,https://iptv-org.github.io/epg/guides/de/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml"
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Undefined",1-2-3 TV (270p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="Undefined",3sat [Geo-blocked]
@@ -15,6 +15,8 @@ https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playl
 https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AnixeHDSerie.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png" group-title="Undefined",Anixe HD Serie (360p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-logo="https://i.imgur.com/GW750Zc.png" group-title="Music",Antenne Vorarlberg (720p) [Not 24/7]
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha (720p)
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="ARTEGermany.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="Entertainment",ARTE [Geo-blocked]
@@ -121,8 +123,6 @@ https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="KWTVWildau.de" tvg-logo="https://i.imgur.com/zSklDLl.png" group-title="Undefined",KW TV Wildau (720p) [Not 24/7]
-https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24496-1.png" group-title="Undefined",L-TV
 https://live2.telvi.de/hls/l-tv_s1.m3u8
 #EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de" tvg-logo="https://i.imgur.com/easmJUw.png" group-title="Undefined",Leipzig Fernsehen (1080p)
@@ -377,8 +377,6 @@ https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
 https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/512px-SR_Fernsehen.svg.png" group-title="Undefined",SR Fernsehen (720p)
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-id="Studio47.de" tvg-logo="https://i.imgur.com/xCiU1TB.png" group-title="Undefined",Studio 47
-https://5852afe96c9bb.streamlock.net/studio47-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="Undefined",SWR 3 Visual Radio (720p)
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 #EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-logo="https://i.imgur.com/nEqGaWW.png" group-title="Undefined",SWR Fernsehen Baden-Württemberg [Geo-blocked]
@@ -461,8 +459,6 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports (720p)
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 tvg-id="WWTV.de" tvg-logo="https://i.imgur.com/MefGKaz.png" group-title="Undefined",WW TV (720p)
-https://live2.telvi.de/hls/wwtv_hd720.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Undefined",ZDF [Geo-blocked]
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Undefined",ZDFinfo [Geo-blocked]
