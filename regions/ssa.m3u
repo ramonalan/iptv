@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-afrique.com.xml,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
-#EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Undefined",2STV (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb
 #EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/1UkxzGL.png" group-title="Music",A2i Music (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Religious",A2i Religion (720p) [Not 24/7]
@@ -23,6 +21,8 @@ http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews (720p)
 https://hls.youtb.workers.dev/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
+#EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-logo="https://i.imgur.com/R4iKU6c.png" group-title="Undefined",Afrique Média [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/afriquemedia
 #EXTINF:-1 tvg-id="AkiliKids.ke" tvg-logo="https://i.imgur.com/xFm2co6.png" group-title="Kids",Akili Kids! (480p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7tfayd
 #EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-logo="https://i.imgur.com/5FrE3Nv.png" group-title="Undefined",Al Alamiya 2
@@ -67,8 +67,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/crt
 http://5.255.90.184:2004/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="DoveTV.ng" tvg-logo="https://i.imgur.com/wOlMfCR.png" group-title="Undefined",Dove TV (576p)
 https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dream TV
-http://128.199.114.2:8080/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Etele.bj" tvg-logo="https://i.imgur.com/y1eg7OC.png" group-title="Undefined",Etélé (360p) [Not 24/7]
 https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVEntertainment.et" tvg-logo="https://i.imgur.com/oQTPp2j.png" group-title="Entertainment",ETV Entertainment
@@ -153,8 +151,8 @@ https://salttelevision.com/memfs/d1b981f8-317d-4750-8eb0-1c116add469c.m3u8
 https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SidaamaMediaNetwork.et" tvg-logo="https://i.imgur.com/bbtkxWX.png" group-title="Undefined",Sidaama Media Network
 https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/smn-tv_1.m3u8
-#EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-logo="https://i.imgur.com/9jcV9oG.png" group-title="News",Silverbird News 24 [Not 24/7]
-https://hls.youtb.workers.dev/channel/UC5WXsgDNwU1G9wC-_IS-XPw.m3u8
+#EXTINF:-1 tvg-id="SilverbirdTV.ng" tvg-logo="https://i.imgur.com/dcO8vB6.png" group-title="Undefined",Silverbird TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/silverbirdtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Somali cable (576p)
 https://ap02.iqplay.tv:8082/iqb8002/somc131/playlist.m3u8
 #EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="Undefined",Somali National TV (576p)
