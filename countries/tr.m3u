@@ -45,6 +45,8 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-id="BeratTV.tr" tvg-logo="https://i.imgur.com/BxxH8wE.png" group-title="Undefined",Berat TV (720p) [Not 24/7]
 http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-logo="https://i.imgur.com/gHBxpyc.png" group-title="News",BeritaSatu World (720p) [Not 24/7]
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="BesiktasWebTV.tr" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="Undefined",Beşiktaş Web TV (360p)
 https://s01.vpis.io/besiktas/besiktas.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://i.imgur.com/uykIdML.png" group-title="Undefined",Beyaz TV (720p) [Not 24/7]
@@ -134,8 +136,8 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 https://euronews.alteox.app/hls/de_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
 https://hls.youtb.workers.dev/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
-#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italiano (720p)
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
+https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Portuguese
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
@@ -204,8 +206,6 @@ https://broadcasttr.com:446/kanal58/bant1/playlist.m3u8
 https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalAvrupa.tr" tvg-logo="https://i.imgur.com/bIGk6RN.png" group-title="Undefined",Kanal Avrupa (1080p) [Not 24/7]
 http://51.15.2.151/hls/kanalavrupa.m3u8
-#EXTINF:-1 tvg-id="KanalB.tr" tvg-logo="https://i.imgur.com/bUsbxTQ.png" group-title="Undefined",Kanal B (480p) [Not 24/7]
-http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr" tvg-logo="https://i.imgur.com/3o8Rokp.png" group-title="Undefined",Kanal Firat (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalUrfa.tr" tvg-logo="https://i.imgur.com/EvgQmoT.png" group-title="Undefined",Kanal Urfa (576p) [Not 24/7]
@@ -325,6 +325,8 @@ https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="ToprakTV.tr" tvg-logo="https://i.imgur.com/JGnS0qs.png" group-title="Undefined",Toprak TV (720p) [Not 24/7]
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Torba TV (720p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (720p) [Geo-blocked]
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Undefined",TRT 2 [Geo-blocked]

@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/rev.bs.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
-#EXTINF:-1 tvg-id="AcentoTV.do" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="News",Acento TV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8dxadh
 #EXTINF:-1 tvg-id="Ame47.do" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="Undefined",Amé 47 (720p)
 https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/B9z1XRo.png" group-title="Undefined",Antena 7 (360p)
@@ -41,8 +39,6 @@ https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
 http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 #EXTINF:-1 tvg-id="CDN.do" tvg-logo="https://i.imgur.com/Kg7teMC.png" group-title="Undefined",CDN (720p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
-#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-logo="https://i.imgur.com/UixsMqK.png" group-title="Undefined",CDN Deportes [Not 24/7]
-http://free.fullspeed.tv/iptv-query?provider=universe&streaming-ip=https://playback.dacast.com/content/access?contentId=2c659e044a58572e056cceed234a70cb-live-f56d3109-2db5-9cea-8919-d572074daf59
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",Chinola TV (480p)
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8?DVR=
 #EXTINF:-1 tvg-id="CieloTV.do" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="Undefined",Cielo TV (1080p)
@@ -83,6 +79,8 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="GuacaraTV.do" tvg-logo="https://i.imgur.com/f0gWvU9.png" group-title="Undefined",Guacara TV
 https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Haiti News [Not 24/7]
+https://haititivi.com/website/haitinews/index.m3u8
 #EXTINF:-1 tvg-id="HaitiViralNews.ht" tvg-logo="https://i.imgur.com/eaPFJJs.jpg" group-title="News",Haiti Viral News (720p) [Not 24/7]
 https://hls.youtb.workers.dev/channel/UCcEY2-g-EEefxyYa1gtrk4g.m3u8
 #EXTINF:-1 tvg-id="HermanasMirabalTV.do" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="Undefined",Hermanas Mirabal TV (720p) [Not 24/7]
@@ -139,8 +137,6 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 #EXTINF:-1 tvg-id="NosPais.cw" tvg-logo="https://i.imgur.com/jmYvx2s.jpg" group-title="Undefined",Nos Païs (720p) [Not 24/7]
 http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
-#EXTINF:-1 tvg-id="NotiUnoTV.pr" tvg-logo="https://i.imgur.com/qNdywBT.png" group-title="Undefined",Noti Uno Puerto Rico (854p) [Not 24/7]
-https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/playlist.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Undefined",ORBIT TV (480p) [Geo-blocked]
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-id="PeraviaVision.do" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="Undefined",Peravía Visión
@@ -159,12 +155,12 @@ http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
 https://hls.youtb.workers.dev/channel/UCLeNHM8XDkZmd2rhV3ZG7Vg.m3u8
 #EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-logo="https://i.imgur.com/ddb4lsa.png" group-title="Undefined",Radio Tele Planet Compas (720p) [Not 24/7]
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Radio Télévision Shilo [Not 24/7]
+https://watch.haitilive.net/freehb/rtvs/index.m3u8
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Undefined",Ready TV Canal 6 (720p) [Not 24/7]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="RNN.do" tvg-logo="https://i.imgur.com/dkslhPa.png" group-title="News",RNN (720p) [Not 24/7]
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="Undefined",Romana TV Canal 42
-https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV (360p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalesTV.do" tvg-logo="https://i.imgur.com/7Zr79F2.png" group-title="Lifestyle",Señales TV (480p)
