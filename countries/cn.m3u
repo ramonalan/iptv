@@ -15,8 +15,6 @@ http://210.210.155.37/dr9445/h/h03/index.m3u8
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/sSnrg7o.png" group-title="General",BTV World (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-logo="https://i.imgur.com/GXssRTm.png" group-title="Lifestyle",CCTV-女性时尚 (576p)
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
@@ -81,6 +79,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://i.imgur.com/vOPU9eu.png" group-title="Undefined",CCTV-17农业农村 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-logo="https://i.imgur.com/GXssRTm.png" group-title="Lifestyle",CCTV-女性时尚 (576p)
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-老故事 (576p)
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
 #EXTINF:-1 tvg-id="CETV1.cn" tvg-logo="https://i.imgur.com/6sOHLq8.png" group-title="Undefined",CETV1 (576p)
@@ -116,6 +116,8 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 https://hls.youtb.workers.dev/channel/UCOHCRQDAr9HC5d59XvziJFQ.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
 https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
@@ -126,8 +128,6 @@ https://euronews.alteox.app/hls/it_stream.m3u8
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
 https://euronews.alteox.app/hls/ru_stream.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
-https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",FIGHT SPORTS (1080p)
@@ -749,8 +749,8 @@ http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=11&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="GuangxiTV.cn" tvg-logo="https://i.imgur.com/dpre5Qs.png" group-title="Undefined",广西卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/UKKsnhD.png" group-title="Undefined",康巴卫视 (720p) [Not 24/7]
-http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/UKKsnhD.png" group-title="Undefined",延边卫视 (576p)
+http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",延边新闻综合 [Geo-blocked]
 http://stream2.jlntv.cn/jlyb/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",建安电视台 (1080p) [Not 24/7]
@@ -1013,10 +1013,6 @@ http://stream.haixitv.cn/1/sd/live.m3u8
 http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
 #EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn" tvg-logo="https://i.imgur.com/1drIhnb.png" group-title="Undefined",深圳卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",深州綜合頻道 (360p) [Not 24/7]
-http://hbsz.chinashadt.com:2036/live/stream:sztv.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",深州綜合頻道 (576p) [Not 24/7]
-http://hbsz.chinashadt.com:2036/live/stream:sztv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",湖北 Ⅰ 荆门公共台 (1080p) [Geo-blocked]
 http://jingmen.live.cjyun.org/video/s10101-jmggpd.m3u8
 #EXTINF:-1 tvg-id="HubeiSatelliteTV.cn" tvg-logo="https://i.imgur.com/CTRa9BJ.png" group-title="Undefined",湖北卫视 (1080p)

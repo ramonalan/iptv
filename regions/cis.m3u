@@ -49,8 +49,6 @@ https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 http://clients.apsny.camera/tv_abaza_tv/index.m3u8
 #EXTINF:-1 tvg-id="AcasaTV.md" tvg-logo="https://i.imgur.com/k8qpvHb.png" group-title="Undefined",Acasa TV (576p)
 http://hls.protv.md/acasatv/acasatv.m3u8
-#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="General",Alvin Channel TV (360p) [Not 24/7]
-http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-logo="https://i.imgur.com/Jtfq9xA.png" group-title="Movies;Series",Amedia Hit (1080p) [Geo-blocked]
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="https://i.imgur.com/L3c9gNk.png" group-title="Movies;Series" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Amedia Premium (480p)
@@ -178,6 +176,8 @@ http://live.m2.tv/hls3/stream.m3u8
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:-1 tvg-id="Moldova2.md" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="General",Moldova2 (1080p)
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Moldova TV (576p) [Not 24/7]
+http://89.38.8.130:39435
 #EXTINF:-1 tvg-id="MosObrTV.ru" tvg-logo="https://i.imgur.com/t6PmOD5.png" group-title="Education",MOSOBR.TV (720p) [Not 24/7]
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 tvg-id="MTVmix.ru" tvg-logo="https://i.imgur.com/ewdf2F4.png" group-title="Music",MTVmix (Уфа) (384p)
@@ -368,8 +368,6 @@ https://sc.id-tv.kz/ElArna.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="ZharPtitsa.ru" tvg-logo="https://i.imgur.com/19R470V.png" group-title="Music",Жар Птица (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/firebird/firebird0.m3u8
-#EXTINF:-1 tvg-id="ZharaTV.ru" tvg-logo="https://i.imgur.com/41K9Y2s.png" group-title="Music",Жара (576p) [Not 24/7]
-http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-logo="https://i.imgur.com/YGqO3Us.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Загородный (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s31/index.m3u8
@@ -751,6 +749,8 @@ http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 https://stream.almaz-media.tv:8080/hls/576.m3u8
 #EXTINF:-1 tvg-id="TKR.ru" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="Undefined",ТКР (Рязань) (1080p) [Not 24/7]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="Entertainment",ТНТ4 (576p) [Not 24/7]
+https://sc.id-tv.kz/tnt4.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",ТНТ (540p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
