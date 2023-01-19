@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml,https://iptv-org.github.io/epg/guides/es/mi.tv.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-afrique.com.xml,https://iptv-org.github.io/epg/guides/fr/canalplus-reunion.com.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.xml,https://iptv-org.github.io/epg/guides/fr/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.vini.pf.xml,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.xml,https://iptv-org.github.io/epg/guides/fr/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/fr/tv.post.lu.xml,https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml,https://iptv-org.github.io/epg/guides/lb/tv.post.lu.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/ru/magticom.ge.xml,https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml"
 #EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Undefined",2STV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb
-#EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/1ccTQ7Z.png" group-title="Undefined",7ALimoges (1080p) [Not 24/7]
-https://hls.youtb.workers.dev/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg.m3u8
 #EXTINF:-1 tvg-id="A2iMusic.sn" tvg-logo="https://i.imgur.com/1UkxzGL.png" group-title="Music",A2i Music (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iReligion.sn" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Religious",A2i Religion (720p) [Not 24/7]
@@ -17,6 +15,9 @@ https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="General",Arrabiaa (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
+#EXTINF:-1 tvg-id="BahiaTV.dz" tvg-logo="https://i.imgur.com/RvfNxIw.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Bahia TV [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCDramaFrance.fr" tvg-logo="https://i.imgur.com/EQZPSZx.png" group-title="Series",BBC Drama
 https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BF1.bf" tvg-logo="https://i.imgur.com/ufNURAC.png" group-title="Undefined",BF1
@@ -47,8 +48,12 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Music",Clubbing TV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369
+#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
 #EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-logo="https://i.imgur.com/9IIIvPf.png" group-title="General",Congo Planet Television (1080p)
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-logo="https://i.imgur.com/cQWNh3L.png" group-title="Undefined",CRTV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/crtv237
 #EXTINF:-1 tvg-id="DBMTV.fr" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="Undefined",DBM TV (1080p)
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-logo="https://i.imgur.com/13PjEk8.png" group-title="Undefined",Dieu TV (1080p)
@@ -246,6 +251,8 @@ https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 https://hls.youtb.workers.dev/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
 #EXTINF:-1 tvg-id="CIVMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="General",Télé-Québec (720p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesud.fr" tvg-logo="https://i.imgur.com/bC3qiGK.png" group-title="Undefined",TeleSud
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wrxqb
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 (1080p)
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Séries Films (1080p)
@@ -280,8 +287,6 @@ https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
 #EXTINF:-1 tvg-id="TVManaFrancais.pt" tvg-logo="https://i.imgur.com/c4DSG2J.png" group-title="Religious",TV Maná Français (484p)
 https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPitchoun.fr" tvg-logo="https://i.imgur.com/vUgramF.png" group-title="Undefined",TV Pitchoun (1080p)
-https://live.tvradio-pitchoun.fr/hls/live.m3u8
 #EXTINF:-1 tvg-id="CFTMDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" group-title="General",TVA [Geo-blocked]
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title="Undefined",TVM 3 (1080p)

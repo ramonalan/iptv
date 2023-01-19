@@ -134,10 +134,8 @@ https://hls.youtb.workers.dev/channel/UCOHCRQDAr9HC5d59XvziJFQ.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroAlTV.de" tvg-logo="https://i.imgur.com/0GrDAWx.png" group-title="Undefined",EuroAl TV (720p)
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p)
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
-https://euronews.alteox.app/hls/de_stream.m3u8
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
 https://hls.youtb.workers.dev/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
@@ -146,6 +144,8 @@ https://euronews.alteox.app/hls/it_stream.m3u8
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
 https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNGermany.de" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Religious",EWTN Germany (720p)
@@ -202,6 +202,8 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KWTVWildau.de" tvg-logo="https://i.imgur.com/zSklDLl.png" group-title="Undefined",KW TV Wildau (720p) [Not 24/7]
+https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24496-1.png" group-title="Undefined",L-TV
 https://live2.telvi.de/hls/l-tv_s1.m3u8
 #EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de" tvg-logo="https://i.imgur.com/easmJUw.png" group-title="Undefined",Leipzig Fernsehen (1080p)
@@ -394,8 +396,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PTVWorld.pk" tvg-logo="https://i.imgur.com/eeDFRgN.png" group-title="Undefined",PTV World (480p)
 https://hls.youtb.workers.dev/channel/UCj-e7yp2_-qE-TPritppZGQ.m3u8
-#EXTINF:-1 tvg-id="PUNKTum.de" tvg-logo="https://i.imgur.com/j1RHJQm.png" group-title="Undefined",PUNKTum (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="PUNKTum.de" tvg-logo="https://i.imgur.com/j1RHJQm.png" group-title="Undefined",PunktUM (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",PunktUm Hettstedt (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
 #EXTINF:-1 tvg-id="QVCGermany.de" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC Germany
 https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:-1 tvg-id="QVC2Germany.de" tvg-logo="https://i.imgur.com/27G7AoH.png" group-title="Shop",QVC Plus
@@ -569,14 +573,16 @@ https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="Undefined",Welt der Wunder TV (576p)
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wir24 TV [Geo-blocked]
 https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports (720p)
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
+#EXTINF:-1 tvg-id="WWTV.de" tvg-logo="https://i.imgur.com/MefGKaz.png" group-title="Undefined",WW TV (720p)
+https://live2.telvi.de/hls/wwtv_hd720.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Xite (720p)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Undefined",ZDF [Geo-blocked]

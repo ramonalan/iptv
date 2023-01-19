@@ -64,8 +64,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BeritaSatuWorld.id" tvg-logo="https://i.imgur.com/gHBxpyc.png" group-title="News",BeritaSatu World (720p) [Not 24/7]
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 tvg-id="BetaniaTV.es" tvg-logo="https://i.imgur.com/W5L6Zyh.png" group-title="Religious",Betania TV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/betania_tv
 #EXTINF:-1 tvg-id="Beteve.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Logotip_betev%C3%A9.svg/512px-Logotip_betev%C3%A9.svg.png" group-title="Undefined",betevé (1080p)
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 tvg-id="BiosferaTV.es" tvg-logo="https://i.imgur.com/khytcgd.png" group-title="Undefined",Biosfera TV (720p)
@@ -175,6 +173,8 @@ http://91.126.141.201:1935/live/cosmoHD/playlist.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="CostadelSolTV.es" tvg-logo="https://i.imgur.com/01acb17.png" group-title="General",CostadelSol TV
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1 tvg-id="CristianaTV.es" tvg-logo="https://i.imgur.com/FpkNIIG.jpg" group-title="Religious",Cristiana TV (576p)
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8
 #EXTINF:-1 tvg-id="DejatedeHistoriasTV.es" tvg-logo="https://i.imgur.com/Vortgm7.png" group-title="Entertainment",Déjate de Historias TV (1080p)
 https://hls.youtb.workers.dev/channel/UChMCkc02GVSi89TrvhbRasA.m3u8
 #EXTINF:-1 tvg-id="DiezTV.es" tvg-logo="https://i.imgur.com/BaGzAyy.png" group-title="Undefined",Diez TV (1080p)
@@ -229,10 +229,8 @@ https://hls.youtb.workers.dev/channel/UCOHCRQDAr9HC5d59XvziJFQ.m3u8
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="EurolatinaTV.es" tvg-logo="https://i.imgur.com/3kA4GI8.png" group-title="Undefined",Eurolatina TV (720p)
 https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p)
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
-https://euronews.alteox.app/hls/de_stream.m3u8
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungary (720p) [Not 24/7]
 https://hls.youtb.workers.dev/channel/UC4Ct8gIf9f0n4mdyGsFiZRA.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian
@@ -241,6 +239,8 @@ https://euronews.alteox.app/hls/it_stream.m3u8
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
 https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
@@ -265,8 +265,6 @@ http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981
 https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Fuel TV (1080p)
 https://fueltv-fueltv-10-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FuengirolaTV.es" tvg-logo="https://fuengirolatv.com/ftv/wp-content/uploads/2021/02/logopieftv.png" group-title="Undefined",Fuengirola TV (360p) [Not 24/7]
-https://secure.todostreaming.es/live/nerja-livestream.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/AZBod7u.png" group-title="Undefined",Galicia TV Europa (720p)
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="GCMTV.es" tvg-logo="https://i.imgur.com/YQvbbNy.png" group-title="Undefined",GCM TV (1080p) [Not 24/7]
@@ -421,6 +419,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="NavarraTV.es" tvg-logo="https://i.imgur.com/98MvIRA.png" group-title="Series",Navarra TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/NavarraTelevision
 #EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://i.imgur.com/NRO6AtW.png" group-title="Undefined",NBT World (720p)
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Fernsehen International
@@ -598,8 +598,6 @@ https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 #EXTINF:-1 tvg-id="TeleSafor.es" tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="Undefined",Tele Safor (720p) [Not 24/7]
 https://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 tvg-id="Telecija.es" tvg-logo="https://i.imgur.com/iyytL9I.png" group-title="Undefined",Telécija [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/telecija
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Sports",Teledeporte [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="TeleGilena.es" tvg-logo="https://i.imgur.com/sEDBaUr.png" group-title="Undefined",TeleGilena (360p) [Not 24/7]
@@ -608,14 +606,10 @@ https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 #EXTINF:-1 tvg-id="Teleonuba.es" tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="Undefined",Teleonuba (1080p)
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="Telequivir.es" tvg-logo="https://i.imgur.com/P71mbYL.png" group-title="General",Telequivir [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/telequivir
 #EXTINF:-1 tvg-id="TeleRibera.es" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="Undefined",TeleRibera (720p) [Not 24/7]
 http://37.187.7.106/teleribera/live.m3u8
 #EXTINF:-1 tvg-id="TeleVigo.es" tvg-logo="https://i.imgur.com/4iVmlFa.png" group-title="Undefined",TeleVigo (1080p) [Not 24/7]
 https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8
-#EXTINF:-1 tvg-id="TVCS.es" tvg-logo="https://i.imgur.com/Qz1SXwW.png" group-title="General",Televisió de Castelló [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/televisiodecastello
 #EXTINF:-1 tvg-id="TVSantCugat.es" tvg-logo="https://i.imgur.com/4ypVY2K.png" group-title="General",Televisió Sant Cugat (1080p) [Not 24/7]
 https://hls.youtb.workers.dev/channel/UCoFs7RGrmWQkqU5KNNGvCjA.m3u8
 #EXTINF:-1 tvg-id="TelevisionExtremena.es" tvg-logo="https://i.imgur.com/So5UlJg.png" group-title="General",Televisión Extremeña [Not 24/7]
@@ -704,8 +698,8 @@ https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",Wion (576p)
-http://210.210.155.37/uq2663/h/h91/index.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 tvg-id="ZafraTV.es" tvg-logo="https://i.imgur.com/jtSjnVN.png" group-title="Undefined",Zafra TV (1080p) [Not 24/7]

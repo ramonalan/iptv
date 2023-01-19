@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/el/novacyprus.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml,https://iptv-org.github.io/epg/guides/en/tvhebdo.com.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.xml,https://iptv-org.github.io/epg/guides/it/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/el/novacyprus.com.xml,https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml,https://iptv-org.github.io/epg/guides/en/tvhebdo.com.xml,https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml,https://iptv-org.github.io/epg/guides/es/reportv.com.ar.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.xml,https://iptv-org.github.io/epg/guides/it/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/pt/mi.tv.xml"
 #EXTINF:-1 tvg-id="AccessSarasota.us" tvg-logo="https://i.imgur.com/XrEXXHn.png" group-title="Legislative",Access Sarasota (Sarasota County FL) (1080p)
 https://hls.youtb.workers.dev/channel/UCqHDwKPPOhzLmtb4TvwIZZQ.m3u8
 #EXTINF:-1 tvg-id="ACTV.us" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="Legislative",ACTV
@@ -7,6 +7,8 @@ https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/6361162879_AZ-247.stream_247/ch
 https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
 #EXTINF:-1 tvg-id="ANTV.pa" tvg-logo="https://i.imgur.com/UAqcj4Z.png" group-title="Legislative",ANTV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bdc928e938f54ab280e8bfa0e265eddd/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV.ve" tvg-logo="https://i.imgur.com/Qm88HT0.png" group-title="Legislative",ANTV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x89ysyb
 #EXTINF:-1 tvg-id="TVAssembleiaMatoGrosso.br" tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="Legislative",Assembleia Legislativa do Estado de Mato Grosso (720p)
 https://streaming.al.mt.gov.br/test/index.m3u8
 #EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-logo="https://i.imgur.com/eMguSjM.png" group-title="Legislative",Assembleia Legislativa do Piauí (432p)
@@ -75,8 +77,6 @@ https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 https://edge-f.swagit.com/live/flagstaffaz/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Legislative",Folketing (1080p)
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="FLTV.us" tvg-logo="https://i.imgur.com/lQZ9RoB.png" group-title="Legislative",Fort Lauderdale FLTV (Fort Lauderdale FL) (720p)
-https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofFortPierce.us" tvg-logo="https://i.imgur.com/2ChoSsi.png" group-title="Legislative",Fort Pierce Live Stream (Fort Pierce FL) (720p)
 https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="CMAC3.us" tvg-logo="https://i.imgur.com/ToZzguz.png" group-title="Legislative",Fresno CMAC 3 Government Channel (720p)
@@ -131,6 +131,8 @@ https://s3-us-west-2.amazonaws.com/newington.castus-vod/live/ch2/video.m3u8
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
 #EXTINF:-1 tvg-id="NMBTV.us" tvg-logo="https://i.imgur.com/HTNoNnh.png" group-title="Legislative",North Miami Beach TV (NMBTV) (North Miami Beach FL) (720p)
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" tvg-logo="https://i.imgur.com/wY9WhYS.png" group-title="Legislative",Nunavut Legislative Assembly
+https://temp6.isilive.ca/live/nunavut/live-flo/index.m3u8
 #EXTINF:-1 tvg-id="OireachtasTV.ie" tvg-logo="https://i.imgur.com/aC4fsCI.png" group-title="Legislative",Oireachtas TV (720p)
 https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-id="OireachtasTVCommitteeRoom1.ie" tvg-logo="https://i.imgur.com/JLYqKC0.jpg" group-title="Legislative",Oireachtas TV Committee Room 1 (720p)
@@ -207,8 +209,6 @@ https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_ta2c
 https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="TV4.us" tvg-logo="https://i.imgur.com/CRvQ6sF.png" group-title="Legislative",TV4 (360p)
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_001/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-logo="https://i.imgur.com/UPa1tjs.png" group-title="Legislative",TV Assembléia Ceará (720p)
-https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-logo="https://i.imgur.com/YOuCxKa.png" group-title="Legislative",TV Assembleia Minas Gerais (720p)
 https://hls.youtb.workers.dev/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
 #EXTINF:-1 tvg-id="TVCamara2.br" tvg-logo="https://i.imgur.com/dHrUG1R.png" group-title="Legislative",TV Câmara 2 (1080p) [Not 24/7]
